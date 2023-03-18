@@ -2,13 +2,14 @@
     "urls": [
            
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-            "name": "💖月光宝盒家庭版"
-        },
-        {
             "url": "https://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
+        {
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+            "name": "💖月光宝盒家庭版"
+        },
+       
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "💖肥猫Panda"
@@ -36,11 +37,7 @@
 {
             "url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/%E9%BE%99%E9%97%A8%E5%BD%B1%E8%A7%86.json",
             "name": "🚀龙门影视"
-        },                      
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "💨南风"
-        },   
+        },                       
         {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "🤪神器推送"
@@ -76,27 +73,7 @@
             "name": "💎甜蜜线路"
         },
 
-        {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "🍸老刘备"
-        },
-        {
-            "url": "http://js.134584.xyz/json/pp87.json",
-            "name": "💨白嫖线路"
-        },
        
-        {
-            "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "🧗‍♀️乱世"
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "☁️云星家庭"
-        },
-        
-        {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "😵巧技接口"
         }
         ]
 }
