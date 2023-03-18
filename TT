@@ -34,7 +34,7 @@
             "url": "https://tvbox.cainisi.cf",
             "name": "✨菜尼丝"
         }, 
-{
+        {
             "url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/%E9%BE%99%E9%97%A8%E5%BD%B1%E8%A7%86.json",
             "name": "🚀龙门影视"
         },                       
@@ -55,25 +55,22 @@
             "name": "🍎小苹果"
         },
 
-{
+        {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
             "name": "🐹分享者线路"
         },
-{
+        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         }, 
-{
+        {
             "url": "http://miaotvs.cn/meow",
             "name": "🐹喵影视线路"
         },
 
-{
+        {
             "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
             "name": "💎甜蜜线路"
         },
-
-       
-        }
         ]
 }
