@@ -3,29 +3,25 @@
            
         {
             "url": "https://yydsys.top/duo",
-            "name": "🏡应用多多家庭版"
-        },
+            "name": "💖应用多多家庭版"
+        },  
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
             "name": "💖月光宝盒家庭版"
         },
-       
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "💖肥猫Panda"
         },
         {
             "url": "https://hutool.ml/tang",
-            "name": "💖唐三线路〕"
+            "name": "💖唐三线路"
         },                
         {
             "url": "http://饭太硬.ga/tv",
             "name": "💖饭太硬"
-        },  
-        {
-            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/   XYQTVBox.json",
-            "name": "🚀香雅情线路"
-        },                      
+        },                 
+              
         {
             "url": "http://drpy.site/js1",
             "name": "🌈小雅"
@@ -34,60 +30,31 @@
             "url": "https://tvbox.cainisi.cf",
             "name": "✨菜尼丝"
         }, 
-        {
+{
             "url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/%E9%BE%99%E9%97%A8%E5%BD%B1%E8%A7%86.json",
             "name": "🚀龙门影视"
-        },                       
+        },                         
         {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "🤪神器推送"
+            "name": "🤪神器推送〔多条线路〕"
         },       
         {
             "url": "http://52bsj.vip:98/wuai",
-            "name": "🌝吾爱"
+            "name": "🌝吾爱〔多条线路〕"
         },   
         {
             "url": "http://9xi4o.tk/0725.json",
-            "name": "4K云盘"
+            "name": "4K云盘〔多条线路〕"
         },           
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🍎小苹果"
+            "name": "🍎小苹果〔多条线路〕"
         },
-
-        {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "🐹分享者线路"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "🚀蜂蜜线路"
-        }, 
-        {
-            "url": "http://miaotvs.cn/meow",
-            "name": "🐹喵影视线路"
-        },
-
-        {
-            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-            "name": "💎甜蜜线路"
-        },
-  ],
+         ],
     "vip": [
-       
-        
-          
-
-         
-       {
-        "url": "http://tv.nxog.top/m/sapi.php?ou=%E6%AC%A7%E6%AD%8C",
-        "name": "😝-彩蛋随机线路-😝",
-        "time": "无名"
-    }
-    
-          
-          
-          
-          
-       ]
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
 }
