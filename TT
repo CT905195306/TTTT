@@ -16,10 +16,11 @@
 {
     "sourceName": "☘️本地仓库☘️",
     "sourceUrl": "http://tv.nxog.top/nxog/bd.php?b=欧歌"
-  }
+  },
+
 {
     "sourceName": "☘️熊熊仓库☘️",
-    "sourceUrl": "https://agit.ai/CT/TT/raw/branch/master/TT"
+    "sourceUrl": "https://agit.ai/CT/TT/raw/branch/master/TT.json"
   }
   
   ]
