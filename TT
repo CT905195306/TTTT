@@ -9,16 +9,12 @@
     "sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
   },
   {
-    "sourceName": "🌷欧歌2号仓库🌷",
-       "sourceUrl": "http://m.nxog.top/nxog/ou1.php?url=http://m.nxog.top&xl=1&b=欧歌"
-  }, 
-  {
-    "sourceName": "💐欧歌3号仓库💐",
-      "sourceUrl": "http://2.nxog.top/nxog/ou1.php?url=http://2.nxog.top&xl=2&b=欧歌"
-  }, 
-  {
     "sourceName": "🌷多多仓库🌷",
        "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/1.txt"
+  },
+  {
+    "sourceName": "🌷影视仓库🌷",
+       "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/a"
   }, 
   {
     "sourceName": "🌷安卓哥仓库🌷",
@@ -32,5 +28,6 @@
     "sourceName": "🌷安卓哥PY仓库🌷",
        "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"
   }
+
   ]
 }
