@@ -93,8 +93,7 @@
 {"key":"cc","name":"🌸爱熊熊🌸","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
 
-
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://agit.ai/CT/TZB/raw/branch/master/T.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0NUL1RaQi9yYXcvYnJhbmNoL21hc3Rlci9ULnR4dA=="]}]}],
 
 
 "parses":[
