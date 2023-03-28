@@ -45,7 +45,13 @@
 "三次跳转播放链接": "\"url\"*\"&&\""}
 },
  
-  {"key": "js_大师兄","name": "🐵师兄影视","type": 3,"api": "./js/drpymin.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/大师兄影视.js" },
+ {      "key": "mtv_百影视频",      "name": "💯百影视频",      "type": 3,      "api": "csp_MianHua",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "jar": "./100.jar;md5;861d47854d1cc4786dc9fba44ad29f41",      "ext": "http://47.104.99.175"    }, 
+ {      "key": "csp_XYQHiker_布蕾",      "name": "⚡布雷蓝光",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./XYQHiker/布蕾蓝光.json",      "m3u8ads": "hd.youyhn.com"    },  
+ {      "key": "csp_app_源头",      "name": "🐈肥猫影院",      "type": 1,      "playerType": 2,      "api": "http://我是.肥猫.love:63/api.php/provide/vod/",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
+ {      "key": "js_Libvio",      "name": "🍲LIB(JS)",      "type": 3,      "api": "./js/drpymin.js",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./js/libvio.js"    },   
+  {      "key": "csp_XBPQ_LIBVIO",      "name": "🍲LIB(XB)",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./XBPQ/LIBVIO.json"    },
+   {      "key": "js_大师兄",      "name": "🐵师兄影视",      "type": 3,      "api": "./js/drpymin.js",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./js/大师兄影视.js"    }, 
+   {      "key": "csp_XYQHiker_鸭奈飞影视",      "name": "🦆奈飞影视",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./XYQHiker/鸭奈飞影视.json"    }, 
 
 
 {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org"},
