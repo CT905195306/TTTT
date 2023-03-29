@@ -1,5 +1,5 @@
 {
-"spider":"https://jihulab.com/tt15912/tv/-/blob/959726a2b72d5f11d8c2177f8707554b6de5b585/jar/duoduo.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
+"spider":"https://jihulab.com/tt15912/tv/-/blob/959726a2b72d5f11d8c2177f8707554b6de5b585/jar/duoduo.jar;md5;861D47854D1CC4786DC9FBA44AD29F41",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 
 "sites":[
