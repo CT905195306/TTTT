@@ -98,7 +98,6 @@
 {"key":"ext_live_protocol","name":"🌸🌸🌸🌸🌸","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/协议.js","searchable": 0,"quickSearch": 0,"ext":"clan://proxy?sourcekey=ext_live_protocol"},
 {"key":"cc","name":"🌸爱熊熊🌸","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
-"lives":[{"name":"live","type":0,"url":"https://agit.ai/CT/TZB/raw/branch/master/T.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
 "parses": [
 {"name": "Json聚合1","type": 3,"url": "Demo"}, 
