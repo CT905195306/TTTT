@@ -14,7 +14,7 @@
 
 {"name":"央视-卫视","url":"https://agit.ai/xiaohu/zhibo/raw/branch/main/央视卫视.txt&&&http://我不是.肥猫.love:63/lives/直播图1.png"},
 {"name":"电影轮播","url":"https://agit.ai/xiaohu/zhibo/raw/branch/main/电影轮播.txt&&&http://我不是.肥猫.love:63/lives/直播图1.png"},
-{"name":"埋堆堆","url":"https://agit.ai/xiaohu/zhibo/raw/branch/main/埋堆堆.txt&&&http://我不是.肥猫.love:63/lives/直播图1.png"}
+{"name":"埋堆堆","url":"https://agit.ai/xiaohu/zhibo/raw/branch/main/埋堆堆.txt&&&http://我不是.肥猫.love:63/lives/直播图1.png"},
 
 
 {"key":"Qtv","name":"🐧腾腾┃解析","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
