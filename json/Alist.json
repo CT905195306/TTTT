@@ -1,5 +1,7 @@
-{
-  "drives": [
+
+ [
+ { "name": "小雅","server": "http://alist.xiaoya.pro" },
+ { "name": "小雅","server": "http://alist.xiaoya.pro" },
  { "name": "小雅","server": "http://alist.xiaoya.pro" },
  { "name": "动漫盘", "server": "http://pan.smjc.cc/自用Open/动画片/" },
  { "name": "触光", "server": "https://pan.ichuguang.com"},
@@ -12,5 +14,4 @@
  { "name": "神族九帝", "server": "https://alist.shenzjd.com"},
  { "name": "梓澪", "server": "https://zi0.cc"},
  { "name": "Testing purpose", "server": "https://alist.you-mostmost.repl.co"}
-  ]
-}
+]
