@@ -88,7 +88,6 @@
 {"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"},
 {"key":"csp_Alist","name":"🅿Alist┃网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/Alist.json","jar":"./jar/XYQ.jar;md5;2D539EC876B452BD4C121F5C2CEF8C8C"},
-{"key": "drpy_js_baby","name": "👶宝宝网盘", "type": 3, "api":"./js/lib/drpy.min.js","ext": "./js/baby.json","jar":"./jar/xm.jar;md5;AA8C3857760A8BF5CFD3EB50BD1D0635"}, 
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 
 
