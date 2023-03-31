@@ -5,11 +5,8 @@
 "sites":
 [{"key":"js豆瓣","name":"🐼熊熊┃推荐","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
-{"key":"csp_Alist","name":"🅿Alist┃网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/Alist.json","jar":"./jar/XYQ.jar;md5;2D539EC876B452BD4C121F5C2CEF8C8C"},
 {"key":"csp_Bili","name":"🅱哔哩┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"ext":"http://饭太硬.ga/x/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱哔哩┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
-{"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
-
 
 
 {"key":"Qtv","name":"🐧腾腾┃解析","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
@@ -24,6 +21,7 @@
 {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 {"key":"csp_AppTT","name":"🐰图图┃App","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"T4-Zdytv","name":"🦙看┃4k","type":4,"api":"http://81.68.89.191:16888/Php/zdytv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_MeiJu69","name":"🗽69美剧┃直连","type":3,"api":"csp_MeiJu69","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
@@ -89,6 +87,7 @@
 {"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"},
+{"key":"csp_Alist","name":"🅿Alist┃网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/Alist.json","jar":"./jar/XYQ.jar;md5;2D539EC876B452BD4C121F5C2CEF8C8C"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 
 
