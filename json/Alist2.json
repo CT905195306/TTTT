@@ -1,1 +1,64 @@
-
+[
+    {
+            "name": " 🦕恐龙时代 ",
+            "server": "http://pan.smjc.cc",
+            "startPage": "/自用Open/动画片/恐龙时代",
+            "showAll": false,
+            "search": true
+    },{
+        "name" : " 🚓旋风战车队 ",
+        "server" : "http://pan.smjc.cc",
+        "startPage" : "/自用Open/动画片/旋风战车队",
+        "showAll" : false,
+        "search" : true
+    },
+   {
+        "name" : " 🐼宝宝巴士",
+        "server" : "http://pan.smjc.cc",
+        "startPage" : "/自用Open/动画片/宝宝巴士",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : " 🐙海底小纵队",
+        "server" : "http://pan.smjc.cc",
+        "startPage" : "/自用Open/动画片/海底小纵队中文版1-4季全",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : " 🐤萌鸡小队",
+        "server" : "http://pan.smjc.cc",
+        "startPage" : "/自用Open/动画片/萌鸡小队 3季全",
+        "showAll" : false,
+        "search" : true
+    },
+    {
+        "name": " 🐕汪汪队",
+        "server": "http://pan.smjc.cc",
+        "startPage": "/自用Open/动画片/汪汪队",
+        "showAll": false,
+        "search": true
+    }, 
+    {
+        "name": " 🚗汽车世界之工程车好伙伴",
+        "server": "http://pan.smjc.cc",
+        "startPage": "/自用Open/动画片/汽车世界之工程车好伙伴",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": " 🐖小猪佩奇",
+        "server": "http://pan.smjc.cc",
+        "startPage": "/自用Open/动画片/X 小猪佩奇 1-9季 中文版",
+        "showAll": false,
+        "search": true
+    },
+       {
+        "name": " 🚆动漫库",
+        "server": "http://pan.smjc.cc",
+        "startPage": "/自用Open/动画片",
+        "showAll": false,
+        "search": true
+    }
+]
