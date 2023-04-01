@@ -17,11 +17,9 @@
       "server": "https://pan.bashroot.top"
     },
     {
-            "name": " 🦕恐龙时代 ",
-            "server": "http://pan.smjc.cc",
-            "startPage": "/自用Open/动画片/恐龙时代",
-            "showAll": false,
-            "search": true
+       "name": " 🦕恐龙时代 ",
+     "server": "http://pan.smjc.cc/自用Open/动画片/恐龙时代"
+            
     },
     {
         "name" : " 🚓旋风战车队 ",
