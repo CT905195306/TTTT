@@ -40,6 +40,7 @@
 {"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","m3u8ads": "hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LIBVIO","name":"🔷LibVio┃App","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
 {"key":"HDmoli","name":"💧魔力┃高清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/HDmoli.json"},
+{"key":"UM影院","name":"⏺UM┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/um.js"},
 
 
 {"key":"csp_DiDuan" ,"name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
