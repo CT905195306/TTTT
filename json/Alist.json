@@ -1,4 +1,4 @@
-{
+//{
   //"💢Alist测试":"https://ali.liucn.repl.co",
   //"🌤晴园的宝藏库":"https://alist.52qy.repl.co",
    "🌊七米蓝":"https://al.chirmyram.com",
@@ -17,4 +17,25 @@
    "🦀9T(Adult)":"https://drive.9t.ee"
   //"🎡资源小站":"https://960303.xyz/",
   //"梵天":"https://iemo.fun/"
+}
+{
+  "drives": [
+    {
+      "name": "小丫",
+      "server": "http://alist.xiaoya.pro/测试（不限速）/"
+    },
+    {
+      "name": "动漫盘",
+      "server": "http://pan.smjc.cc/自用Open/动画片/"
+    },
+    {
+      "name": "触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top"
+    }
+    
+  ]
 }
