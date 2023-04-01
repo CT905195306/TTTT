@@ -1,4 +1,6 @@
-[
+{
+  "drives": [
+
     {
             "name": " 🦕恐龙时代 ",
             "server": "http://pan.smjc.cc",
@@ -61,4 +63,4 @@
         "showAll": false,
         "search": true
     }
-]
+] }
