@@ -117,9 +117,9 @@
 "parses":
 [ {"name":"Json聚合0","type":3,"url":"Web"},
 {"name":"Json聚合1","type": 3,"url": "Demo"},
-{"name":"Json并发0","type":2,"url":"Parallel"},
+{"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"Json并发1","type":2,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"jx","type":2,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name": "爱奇艺","type": 0,"url": "https://jxdp.codermart.net/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]} },
 { "name": "肥猫官解","type": 1,"url": "https://b.umkan.cc/API.php?url=", "ext": { "flag": [ "qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺", "奇艺","youku","YouKu","优酷","sohu", "SoHu", "搜狐", "letv", "LeShi", "乐视", "imgo", "mgtv", "MangGuo", "芒果", "SLYS4k", "BYGA","luanzi", "AliS", "dxzy", "bilibili", "QEYSS", "xigua", "西瓜视频", "腾讯视频", "奇艺视频", "优酷视频", "芒果视频", "乐视视频" ]}},
