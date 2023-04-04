@@ -79,9 +79,7 @@
 {"key": "csp_Ysj","name": "🐲异界┃动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Yj1211","name":"📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_XYQHiker_曲奇动漫","name":"🧀曲奇动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/曲奇动漫.json","jar":"./jar/XYQ.jar;md5;A3A0D399CC8E9E4348060296E4CFAB58"},
-{"key": "csp_XYQHiker_异世界动漫","name":"异世界动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/异世界动漫.json","jar":"./jar/XYQ.jar;md5;A3A0D399CC8E9E4348060296E4CFAB58"},
-
+{"key": "csp_XYQHiker_曲奇动漫","name":"🧀曲奇┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/曲奇动漫.json","jar":"./jar/XYQ.jar;md5;CD3EF08F96987E7E35BEB1D19E2FDAAF"},
 
 
 {"key":"88js","name":"⚽ 88┃看球","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0},
