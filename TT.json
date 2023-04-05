@@ -56,7 +56,11 @@
         {
             "url": "http://tvbo.run.goorm.site/tangs.json",
             "name": "🦙唐三线路"
-        },                
+        }, 
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🍯蜂蜜线路"
+        },              
         {
             "url": "https://yydsys.top/duo/x.json",
             "name": "🐀阿里专线"
