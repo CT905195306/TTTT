@@ -96,11 +96,11 @@
 {"key":"喜马拉雅","name":"👂喜马┃拉雅","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/ximalaya.js"},
 
 
-{"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
-{"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
-{"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
-{"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
+{"key":"csp_Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_AliPS","name":"🦊盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Yisou","name":"😹易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Upyunso","name":"😻Up搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
 
 {"key":"皮皮鸭","name":"🌸皮皮鸭┃嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/pipiya.json"},
