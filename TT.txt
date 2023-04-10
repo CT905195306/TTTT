@@ -72,7 +72,6 @@
 {"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","欧美剧","海外剧"]},
 {"key":"爱酷","name":"💖资源┃爱酷","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"可米","name":"🦀资源┃可米","type":1,"api":"https://cj.kemi.lol/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","playUrl":"json:https://www.itvbox.cc/fflz.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["记录片","国产剧","欧美剧","香港剧"]},
 {"key":"非凡1","name":"️🐝非凡┃去广","type": 1,"api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/","playUrl": "json:https://www.itvbox.cc/fflz.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","欧美剧","纪录片",]},
 //https://dx.maclsj.com/players/ali/pc.php?url=
 {"key":"量子","name":"🏂资源┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","playUrl":"json:https://www.itvbox.cc/fflz.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories": ["国产剧","香港剧","欧美剧","记录片"]},
@@ -137,7 +136,6 @@
 {"key":"米爱影视","name":"🍦米爱┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/米爱.js"},
 {"key":"饭团影视","name":"🍦饭团┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/饭团.js"},
 {"key":"七年影视","name":"🍦七年┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/七年.js"},
-{"key":"素白白","name":"🍦素白白┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/baibai.js"},
 
 
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
