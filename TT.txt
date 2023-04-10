@@ -53,7 +53,7 @@
 {"key":"万能影院","name":"🗾万能┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/wanneng.js"},
 {"key":"棉花影视","name":"💮棉花┃影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
 "ext":"http://118.190.144.126"},
-
+{"key":"IKan","name":"🤩爱看┃影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 
 
 {"key":"csp_DiDuan" ,"name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
