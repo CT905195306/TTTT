@@ -22,6 +22,8 @@
 {"key":"csp_AppTT","name":"🐰图图┃App","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"./jar/XYQ.jar;md5;4104a2f78bf63731767d5b589d48eb45"},
+{"key":"csp_Paper","name":"💥阿里┃纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 {"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_WoGG","name":"👽饭佬影视┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_Alist","name":"🅿香雅晴┃网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/Alist.json","jar":"./jar/XYQ.jar;md5;A3A0D399CC8E9E4348060296E4CFAB58"},
@@ -80,6 +82,7 @@
 {"key":"csp_Dm84","name":"🚌动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XYQHiker_异世界动漫","name":"🐲异界┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异世界动漫.json","jar":"./jar/XYQ.jar;md5;A3A0D399CC8E9E4348060296E4CFAB58"},
+{"key":"csp_Ysj","name":"🌐异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_XYQHiker_曲奇动漫","name":"🧀曲奇┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/曲奇动漫.json"},
 {"key":"路漫漫","name":"🚶路漫漫┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/路漫漫.js"},
@@ -102,6 +105,9 @@
 {"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
+{"key":"Upyunso","name":"💥阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},    
+{"key":"Alips","name":"💥阿里┃盘搜","type": 3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},   
+{"key":"Yisou","name":"💥阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 
 
