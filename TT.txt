@@ -155,8 +155,8 @@
 
 "parses":
 [ 
-//{"name":"Json聚合0","type":3,"url":"Web"},
-//{"name":"Json聚合1","type": 3,"url": "Demo"},
+{"name":"Json聚合0","type":3,"url":"Web"},
+{"name":"Json聚合1","type": 3,"url": "Demo"},
 //{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
