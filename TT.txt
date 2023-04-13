@@ -171,7 +171,7 @@
 { "name" : "尘烟", "type" : 1, "url" : "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 {"name":"小鱼","type":0,"url":"http://json.84jia.com/api/bfq/?key=JzZOypg2BgyJJOPoJp&url="},
 {"name":"jluo","type":1,"url":"https://ff.406np.xyz/api/?key=UhFJtziFsebs8WXSBF&url="},
-{"name":"线路2","type":0,"url":"http://a.210457.xyz/js/?url="},
+{"name":"xyz","type":0,"url":"http://a.210457.xyz/js/?url="},
 {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"猫影视","type":0,"url":"https://jx.maoyingshi.cc/player/?url="},
 {"name":"茶韵","type":0,"url":"https://chaxun.truechat365.com/?url="},
