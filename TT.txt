@@ -185,7 +185,6 @@
 },
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","企鹅","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
-{ "name": "blsck", "type": 1, "url": "http://lanlan.ckflv.cn/?url=","header": {"User-Agent": "okhttp/4.1.0" }},
 
 
 {"name":"icu","type":1,"url":"https://api.json.icu/api/?key=5c22918440e3fa30cfd2da50264ff210&url="},
