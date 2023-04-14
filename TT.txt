@@ -131,9 +131,9 @@
 {"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
-{"key":"Upyunso","name":"💥阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},    
-{"key":"Alips","name":"💥阿里┃盘搜","type": 3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},   
-{"key":"Yisou","name":"💥阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+{"key":"Upyunso","name":"💥阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},    
+{"key":"Alips","name":"💥阿里┃盘搜","type": 3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},   
+{"key":"Yisou","name":"💥阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 
 
