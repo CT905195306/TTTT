@@ -8,8 +8,6 @@
 //{"key":"直播转点播","name":"📺电视┃直播","type":3,"api":"./js/直播转点播.js","ext":"./json/直播仓.json"},
 {"key":"csp_Bili","name":"🅱️哔哩┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"ext":"http://饭太硬.ga/x/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱️哔哩┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
-{"key":"py_mstd","name":"🅱️哔哩┃美食","type": 3,"api":"py_mstd","searchable":0,"quickSearch":0,"filterable":1,"ext":"./ms.py","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
-{"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/blzb.js","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
 
 
 
