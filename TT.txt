@@ -122,7 +122,7 @@
 {"key": "csp_XYQHiker_曲奇动漫","name":"🧀曲奇┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/曲奇动漫.json"},
 {"key":"路漫漫","name":"🚶路漫漫┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/路漫漫.js"},
 {"key":"nt动漫","name":"🧬NT┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/ntdm.js"},
-{"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/wqdm.json","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
+//{"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/wqdm.json","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
 
 
 
