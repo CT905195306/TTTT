@@ -1,4 +1,4 @@
-{"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066B0150C902B3D51BDE7A433BE83",
+{"spider":"./fan.txt;md5;613066B0150C902B3D51BDE7A433BE83",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 
 
