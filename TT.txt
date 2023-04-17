@@ -33,7 +33,7 @@
 "quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
-{"key": "csp_FanYY","name": "💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
+//{"key": "csp_FanYY","name": "💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
@@ -124,6 +124,7 @@
 {"key": "csp_XYQHiker_曲奇动漫","name":"🧀曲奇┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/曲奇动漫.json"},
 {"key":"路漫漫","name":"🚶路漫漫┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/路漫漫.js"},
 {"key":"nt动漫","name":"🧬NT┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/ntdm.js"},
+{"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/维奇.json"},
 
 
 
