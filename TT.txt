@@ -115,7 +115,7 @@
 {"key":"nt动漫","name":"🧬NT┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/ntdm.js"},
 
 
-{"key":"csp_XPath腾讯体育","name":"🐧腾讯┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/CT/TT/raw/branch/master/txty.json"},
+//{"key":"csp_XPath腾讯体育","name":"🐧腾讯┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/CT/TT/raw/branch/master/txty.json"},
 {"key":"88js","name":"⚽ 88┃看球","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_xp_qiumi","name":"⚽ Jrs┃球迷","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ga/x/xp/dj看球.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽310┃看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/310直播.json"},
