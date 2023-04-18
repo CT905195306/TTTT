@@ -10,13 +10,13 @@
 {"key":"csp_Biliych","name":"🅱️哔哩┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
 
 
-{"key":"Qtv","name":"🐧腾腾┃解析","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
-{"key":"Itv","name":"🥝爱爱┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
-{"key":"Mtv","name":"🍋芒芒┃解析","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"Qtv","name":"🐧腾讯┃官源","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
+{"key":"Itv","name":"🥝爱奇艺┃官源","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
+{"key":"Mtv","name":"🍋芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_SP360","name":"🍊360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
-{"key":"drpy_js_优酷","name":"👑优酷┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
-{"key":"drpy_js_菜狗","name":"🐶搜狗┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/Tong/raw/branch/master/sougou.js"},
-{"key":"西瓜","name":"🍉西瓜┃视频","type": 3,"api":"py_xigua","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/xigua.py"},
+{"key":"drpy_js_优酷","name":"👑优酷┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
+{"key":"drpy_js_菜狗","name":"🐶搜狗┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/Tong/raw/branch/master/sougou.js"},
+{"key":"西瓜","name":"🍉西瓜┃官源","type": 3,"api":"py_xigua","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/xigua.py","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
 
 
 {"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
