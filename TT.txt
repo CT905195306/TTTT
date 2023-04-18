@@ -34,6 +34,8 @@
 {"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/aliyun.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 {"key": "csp_WoGG","name": "👽玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:8080/token.txt"},
+custom_spider.jar
+{"key": "csp_WoGG","name": "👽玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:8080/token.txt","jar":"./jar/custom_spider.jar;md5;BE7BB5C4900ED56F8CC189AEABF0A989"},
 {"key": "csp_XYQBiu_磁力熊","name": "🧸磁力熊┃4K","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/json/磁力熊.json"},
 {"key":"csp_Alist","name":"🅿香雅晴┃网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/Alist.json","jar":"./jar/XYQ.jar;md5;A3A0D399CC8E9E4348060296E4CFAB58"},
 {"key":"csp_Alist1","name":"🅿饭太硬┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/Alist1.json"},
