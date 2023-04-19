@@ -37,12 +37,11 @@
 
 
 
-{"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/EKiUcRgb","jar":"./jar/aliyun.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
-{"key": "csp_WoGG","name": "👽玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:8080/token.txt"},
+{"key":"纸条","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
+"ext":"https://pastebin.com/raw/A4Ksj3wb","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
 //{"key": "csp_WoGG","name": "👽玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/alitoken","jar":"./jar/custom_spider.jar;md5;BE7BB5C4900ED56F8CC189AEABF0A989"},
-{"key": "csp_XYQBiu_磁力熊","name": "🧸磁力熊┃4K","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/json/磁力熊.json"},
+//{"key": "csp_XYQBiu_磁力熊","name": "🧸磁力熊┃4K","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/json/磁力熊.json"},
 {"key":"AList","name":"🦄Alist┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
-
 {"key":"WebDAV","name":"🎉Web┃DAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/webdav.json","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
 
 
