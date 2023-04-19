@@ -137,8 +137,7 @@
 {"key":"去看吧","name":"💨去看吧┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/去看吧.json"},
 {"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/%e7%bb%b4%e5%a5%87.json"},
 {"key":"drpy_js_妮可动漫","name":"动漫 | 妮可动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/妮可动漫.js"},
-{"key":"drpy_js_怡萱动漫","name":"动漫 | 怡萱动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/怡萱动漫.js"},
-{"key":"drpy_js_异世界动漫","name":"动漫 | 异世界动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/异世界动漫.js"},
+{"key":"drpy_js_怡萱动漫","name":"动漫 | 怡萱动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/%e6%80%a1%e8%90%b1%e5%8a%a8%e6%bc%ab.js"},
 {"key":"drpy_js_omofun动漫","name":"动漫 | omofun动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/omofun动漫.js"},
 
 
