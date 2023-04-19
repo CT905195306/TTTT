@@ -1,5 +1,5 @@
 var rule={
-    title:'妮可动漫',
+	title:'妮可动漫',
 	host:'http://www.nicotv.me',
 	url:'/video/fyclass/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
