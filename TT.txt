@@ -17,7 +17,7 @@
 {"key":"drpy_js_优酷","name":"👑优酷┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
 {"key":"drpy_js_菜狗","name":"🐶搜狗┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/Tong/raw/branch/master/sougou.js"},
 {"key":"py_xigua","name": "🍉西瓜┃官源","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./py/xigua.py"},
-{"key": "乐视(官源)","name":"乐视TV","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/letv/at/xml","searchable":1,"quickSearch":1,"filterable":0,"categories"},
+{"key": "乐视(官源)","name":"乐视TV","type":3,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/letv/at/xml","searchable":1,"quickSearch":1,"filterable":0,"categories"},
 
 
 //{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
