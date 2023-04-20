@@ -17,6 +17,8 @@
 {"key":"drpy_js_优酷","name":"👑优酷┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
 {"key":"drpy_js_菜狗","name":"🐶搜狗┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/Tong/raw/branch/master/sougou.js"},
 {"key":"py_xigua","name": "🍉西瓜┃官源","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./py/xigua.py"},
+{"key":"小猫咪","name":"🐱小猫咪┃官源","type":1,"api":"http://zy.xiaomaomi.vip/mzy/api.php/provide/vod","searchable":1,"quickSearch":1},
+
 
 //{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
 //{"key":"360","name":"🔍360┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/360.js"},
@@ -29,8 +31,7 @@
 {"key":"csp_AppTT","name":"🐰图图┃App","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"纸条","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"https://pastebin.com/raw/A4Ksj3wb","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
-{"key":"csp_Czsapp","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","m3u8ads":"hd.youyhn.com","playerType":2,"searchable":1,
-"quickSearch":1,"filterable":1},
+{"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长.js"},
 {"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XYQHiker_布蕾","name": "⚡️布雷┃蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MeiJu69","name":"🗽69美剧┃直连","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
