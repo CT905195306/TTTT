@@ -1,5 +1,4 @@
-{
-"spider":"./jar/fan.txt;md5;613066B0150C902B3D51BDE7A433BE83",
+{"spider":"./jar/fan.txt;md5;613066B0150C902B3D51BDE7A433BE83",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 
 
@@ -18,7 +17,6 @@
 {"key":"drpy_js_优酷","name":"👑优酷┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
 {"key":"drpy_js_菜狗","name":"🐶搜狗┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/Tong/raw/branch/master/sougou.js"},
 {"key":"py_xigua","name": "🍉西瓜┃官源","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./py/xigua.py"},
-
 
 //{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
 //{"key":"360","name":"🔍360┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/360.js"},
@@ -158,7 +156,7 @@
 {"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
-{"key":"Upyunso","name":"💥阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"}
+{"key":"Upyunso","name":"💥阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},    
 {"key":"Alips","name":"💥阿里┃盘搜","type": 3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},   
 {"key":"Yisou","name":"💥阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 {"key": "csp_WoGG","name": "👽玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/alitoken","jar":"./jar/custom_spider.jar;md5;BE7BB5C4900ED56F8CC189AEABF0A989"},
