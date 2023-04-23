@@ -93,7 +93,6 @@
 {"key":"UM影院","name":"⏺UM┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/um.js"},
 {"key":"看看电影","name":"🥷看看┃电影","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/kankandianying.js"},
 {"key":"兄弟影视","name":"🤴兄弟┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/xiongdiyingshi.js"},
-{"key":"大师兄影视","name":"🐵大师兄┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/dashixiongyingshi.js"},
 {"key":"创艺影视","name":"🌋创艺┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/chuangyi.js"},
 {"key":"二次萌","name":"🏠二次┃萌","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/ercimeng.js"},
 {"key":"万能影院","name":"🗾万能┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/wanneng.js"},
