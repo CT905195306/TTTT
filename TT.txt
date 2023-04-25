@@ -59,7 +59,7 @@
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/斗鱼直播.json"},
 {"key":"csp_XPath腾讯体育","name":"🐧腾讯┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/CT/TT/raw/branch/master/txty.json"},
 {"key":"88看球","name":"⚽ 88┃看球","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/88kq.js"},
-{"key":"JRS","name":"🏐JRS┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/jrs直播.json"},
+{"key":"JRS","name":"🏐JRS┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/CT/TT/raw/branch/master/jrs%E7%9B%B4%E6%92%AD.json"},
 {"key":"兔小贝","name":"🐰兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝.json"},
 {"key": "py_baby","name": "👼宝宝┃合集","type": 3,"api": "py_baby","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/baby.py"},
 {"key": "csp_XYQHiker_‍亲宝资源","name":"👯宝宝┃资源","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/宝宝.json"},
