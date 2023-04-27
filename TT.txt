@@ -1,4 +1,4 @@
-{"spider":"./jar/fan.txt;md5;5F336F6DE028983FEF9F3C8EA638DFB0",
+{"spider":"./jar/fan.txt;md5;E911EF9B3F3C5101A90CDFD022F566F0",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 
 
