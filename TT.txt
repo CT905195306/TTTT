@@ -210,7 +210,6 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"左岸1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
 {"name":"左岸2","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="},
-{"name":"左岸3","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=abhstwDGRSUVYZ0127&mgtv=app&url="},
 {"name":"jh","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"虎虎","type":1,"url":"http://ghost.laohu.cool/yhys.php?url="},
 {"name":"肥猫","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
