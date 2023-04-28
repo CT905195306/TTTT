@@ -169,20 +169,14 @@
 
 
 
-{"key":"云搜","name":"🍂云搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
-{"key":"盘搜","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
-{"key":"易搜","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
-{"key":"找资源","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU$$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar"},
-{"key":"蜂蜜天下第一","name":"🐝七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
+{"key":"七夜","name":"🐝七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$自己去注册$$$qq112233"},
+{"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 {"key":"AList","name":"🦄Alist┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
 {"key":"WebDAV","name":"🎉Web┃DAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/webdav.json","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
-
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 
 {"key":"皮皮鸭","name":"🌸皮皮鸭┃嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/pipiya.json"},
 {"key":"csp_XYQHiker素白白","name":"🌸素白白┃嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/素白白.json"},
