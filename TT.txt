@@ -220,8 +220,6 @@
 {"name":"H5D","type":0,"url":"https://player.iizny.com/?url="},
 {"name":"wt1","type":0,"url":"http://jxapi.wutao7.top/miui/?url="},
 {"name":"wt2","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
-{"name":"虎虎","type":1,"url":"http://ghost.laohu.cool/yhys.php?url="},
-{"name":"肥猫","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
 {"name":"bozrc","url":"https://jx.bozrc.com:4433/player/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"bf","type":1,"url":"https://bf.cpvps.cn/?url="},
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url=","ext":{"flag":["qq","腾讯","企鹅","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
