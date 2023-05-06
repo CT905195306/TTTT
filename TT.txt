@@ -216,6 +216,7 @@
 {"name":"fei","type":0,"url":"https://vip.feifeiab.com/?url="},
 {"name":"jh","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"jxdp","type":0,"url":"https://jxdp.codermart.net/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"腾讯专用","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url="},
 {"name":"腾讯","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"芒果","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
