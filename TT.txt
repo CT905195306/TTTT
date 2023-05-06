@@ -42,8 +42,8 @@
 {"key":"农民影视","name":"🌾农民┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/农民.json","jar":"./jar/YSC.jar;md5;9CF7B0B78F0174EA34D64F59F1A141C4"},
 {"key":"csp_DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Czsapp","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XYQHiker_鸭奈飞影视","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/鸭奈飞影视.json"},
-{"key": "csp_XYQHiker_电影盒子","name":"🧃电影┃盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/电影盒子.json"},
+{"key":"csp_XYQHiker_鸭奈飞影视","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/鸭奈飞影视.json","jar":"./jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
+{"key": "csp_XYQHiker_电影盒子","name":"🧃电影┃盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/电影盒子.json","jar":"./jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
 {"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"👓新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
@@ -60,8 +60,8 @@
 
 
 
-{"key":"csp_Alist","name":"🅿香雅晴┃网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/Alist.json","jar":"./jar/XYQ.jar;md5;A3A0D399CC8E9E4348060296E4CFAB58"},
-{"key":"csp_Alist1","name":"🅿饭太硬┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/Alist1.json"},
+//{"key":"csp_Alist","name":"🅿香雅晴┃网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/Alist.json","jar":"./jar/XYQ.jar;md5;A3A0D399CC8E9E4348060296E4CFAB58"},
+//{"key":"csp_Alist1","name":"🅿饭太硬┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"./json/Alist1.json"},
 {"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/虎牙直播.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/斗鱼直播.json"},
 {"key":"csp_XPath腾讯体育","name":"🐧腾讯┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/CT/TT/raw/branch/master/txty.json"},
@@ -83,9 +83,9 @@
 {"key":"nt动漫","name":"🧬NT┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/ntdm.js"},
 {"key":"去看吧","name":"💨去看吧┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/去看吧.json"},
 {"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/%e7%bb%b4%e5%a5%87.json"},
-{"key":"drpy_js_妮可动漫","name":"💘妮可┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/妮可动漫.js","jar":"./jar/custom_spider.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"},
-{"key":"drpy_js_怡萱动漫","name":"👺怡萱┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/%e6%80%a1%e8%90%b1%e5%8a%a8%e6%bc%ab.js","jar":"./jar/custom_spider.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"},
-{"key":"drpy_js_omofun动漫","name":"😜omofun┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/omofun动漫.js","jar":"./jar/custom_spider.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"},
+{"key":"drpy_js_妮可动漫","name":"💘妮可┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/妮可动漫.js","jar":"./jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
+{"key":"drpy_js_怡萱动漫","name":"👺怡萱┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/%e6%80%a1%e8%90%b1%e5%8a%a8%e6%bc%ab.js","jar":"./jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
+{"key":"drpy_js_omofun动漫","name":"😜omofun┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/omofun动漫.js","jar":"./jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
 
 
 
