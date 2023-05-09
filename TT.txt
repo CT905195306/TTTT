@@ -213,6 +213,21 @@
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+
+{
+            "name": "牛逼",
+            "type": 0,
+            "url": "http://json.84jia.com/api/?key=JzZOypg2BgyJJOPoJp&url="
+        },
+     
+        {
+            "name": "他们说飞云牛逼",
+            "type": 0,
+            "url": "http://lanlan.ckflv.cn/?url="
+        },
+
+
+
 {"name":"左岸1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
 {"name":"左岸2","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name": "爱奇艺","type": 0,"url":"https://jx.zhanlangbu.com/?url="},
