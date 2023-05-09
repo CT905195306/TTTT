@@ -250,7 +250,7 @@
             "type": 0,
             "url": "https://vcnjsfnjshfolmllxoashnbjhxck12dd65xca2cdqas1236.junniu.net/analysis.php?v="
         },
-
+ {"name":"自费购买的解析","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3266342&key=aeiknuvGHPQWXYZ126&url="},
 
 
 {"name":"左岸1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
