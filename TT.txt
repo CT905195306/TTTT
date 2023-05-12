@@ -16,7 +16,7 @@
 {"key":"Qtv","name":"🐧腾讯┃官源","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Itv","name":"🥝爱奇艺┃官源","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
 {"key":"Mtv","name":"🍋芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"360","name":"🍊360┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/360.js"},
+{"key":"csp_SP33","name":"🍊360┃官源","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"drpy_js_优酷","name":"👑优酷┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
 {"key":"drpy_js_菜狗","name":"🐶搜狗┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/Tong/raw/branch/master/sougou.js"},
 {"key":"py_xigua","name":"🍉西瓜┃官源","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/xigua.py"},
@@ -27,7 +27,7 @@
 //{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
 //{"key":"爱奇艺","name":"🥝奇艺┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/iqy.js"},
 //{"key":"芒果","name":"🥭芒果┃TV","type":3,"playerType":2,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
-
+//{"key":"360","name":"🍊360┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/360.js"},
 
 
 
