@@ -26,6 +26,10 @@
             "name": "🦁饭太硬"
         }, 
         {
+            "url": "https://jihulab.com/tt15912/tv/-/raw/master/tangsan.json",
+            "name": "🦙唐三线路"
+        }, 
+        {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "🍎小苹果"
         }, 
@@ -53,10 +57,6 @@
             "url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8",
             "name": "🦬云星日记阿里版"
         },  
-        {
-            "url": "http://tvbo.run.goorm.site/tangs.json",
-            "name": "🦙唐三线路"
-        }, 
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🍯蜂蜜线路"
