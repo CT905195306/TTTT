@@ -60,11 +60,11 @@
 {"key":"csp_biubiu_voflix","name":"🎈Vofl┃直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/voflix.json"},
 {"key": "csp_XBPQ_茉莉","name": "🌼茉莉┃高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"{ 
 \"免嗅\":\"0\",\"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",\"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"简介\":\"class=\\\"left text-muted\\\"&&</span>\", \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",\"分类url\":\"https://hdmoli.com/mlist/index{cateId}-{catePg}.html\"}"},	
-{"key": "csp_XBPQ_御龙","name": "🐉御龙┃高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan:./json/yulong.json"},	
-{"key": "csp_XBPQ_端木","name": "🏕️端木┃蓝光 ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/DM.json"},	
+{"key": "csp_XBPQ_御龙","name": "🐉御龙┃高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan:./json/yulong.json","jar":"./jar/duoduo.jar;md5;2294DE5CE71B2F23A2AC5ED3884EEEA2"},	
+{"key": "csp_XBPQ_端木","name": "🏕️端木┃蓝光 ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/DM.json","jar":"./jar/duoduo.jar;md5;2294DE5CE71B2F23A2AC5ED3884EEEA2"},	
 {"key":"csp_ole","name":"🎺欧乐┃影院","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_可米","name":"🛎可米┃影视","type":1,"api":"https://cj.kemi.lol/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_XBPQ_奇优","name": "🧼奇优┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c./json/奇优影院.json"},	
+{"key": "csp_XBPQ_奇优","name": "🧼奇优┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c./json/奇优影院.json","jar":"./jar/duoduo.jar;md5;2294DE5CE71B2F23A2AC5ED3884EEEA2"},	
 
 
 
