@@ -228,7 +228,7 @@
             {
            
                 "name":"爱豆","type":1,
-                "url":"https://jx.aidouer.net/?url=",
+                "url":"https://jx.aidouer.net/?url=",  },
               
 
 {"name":"左岸1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
