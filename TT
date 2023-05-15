@@ -12,6 +12,10 @@
     "sourceName": "🎋多多仓库🎋",
        "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/a.txt"
   },
+  {
+    "sourceName": "🚚运输车仓库🚚",
+       "sourceUrl": "https://weixine.net/api.json"
+  },
    {
     "sourceName": "🎄日后仓库🎄",
        "sourceUrl": "http://rihou.cc:66/多仓/0.php"
