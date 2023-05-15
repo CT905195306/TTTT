@@ -213,27 +213,6 @@
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-
- {
-
-                "name":"纯净/B站","type":1,
-                "url":"https://im1907.top/?jx=",
-               
-            },
-            {
-
-                "name":"综合/B站","type":1,
-                "url":"https://jx.jsonplayer.com/player/?url=",
-                
-            },
-            {
-       
-                "name":"爱豆","type":1,
-                "url":"https://jx.aidouer.net/?url=",
-               
-            },
-
-
 {"name":"左岸1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
 {"name":"左岸2","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name":"爱奇艺","type":0,"url":"https://jx.zhanlangbu.com/?url="},
