@@ -36,6 +36,7 @@
 
 //{"key":"csp_WoGG","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 {"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt"},
+{"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/磁力熊.json"},
 {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"sp-AppTT","name":"🐰图图┃影视","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/4127/6.txt;md5; d6c1a5d3236865b209efac8e4d9ce427","ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW"},
 {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
@@ -79,6 +80,7 @@
 {"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt"},
 {"key":"PanSearch","name":"🙀盘Search┃4k","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt"},
 //{"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt$$$q727021945$$$q727021945"},
+{"key":"yinfans","name":"🎻音范丝┃4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json"},
 
 
 
@@ -138,7 +140,7 @@
 {"key":"端木","name":"🫐端木┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/端木.json"},
 {"key":"影视大全","name":"🫒影视┃大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json"},
 {"key":"zy_新浪资源","name":"🏄🏻新浪┃资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","体育"]},
-{"key":"yinfans","name":"🎻音范丝┃4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json"},
+
 
 
 
@@ -197,7 +199,6 @@
 
 
 {"key":"WebDAV","name":"🎉Web┃DAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/webdav.json","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
-{"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XBPQ/磁力熊.json"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./jar/tok.txt"},
 
 
