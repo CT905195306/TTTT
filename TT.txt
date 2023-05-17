@@ -179,9 +179,8 @@
 
 
 
-//{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt","jar":"./jar/shangui.jar"},
-{"key":"Gitcafe","name":"🍼小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./tok.txt","jar":"./jar/xiaohual.jar;md5;bed08dbf8d0d51ae4b3cef87345717c6"},
+{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt","jar":"./jar/shangui.jar"},
+
 
 
 
