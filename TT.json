@@ -6,6 +6,10 @@
             "name": "🐻熊熊专用版"
         }, 
         {
+            "url": "https://jihulab.com/tt15912/tv/-/raw/master/duoduoali.json",
+            "name": "🐼熊熊阿里专线"
+        }, 
+        {
             "url": "https://yydsys.top/duo",
             "name": "🦅应用多多家庭版"
         },
@@ -70,10 +74,6 @@
             "name": "🍯蜂蜜线路"
         },              
         {
-            "url": "https://yydsys.top/duo/ali",
-            "name": "🐀阿里专线"
-        },
-        {
             "url": "https://lantongxue.cc/s.json",
             "name": "🐥Lan同学线路"
         },
@@ -108,6 +108,14 @@
         {
             "url": "http://9xi4o.tk/0725.json",
             "name": "🐋4K云盘"
-        }           
+        },
+        {
+            "url": "https://yydsys.top/duo/ali",
+            "name": "🐀多多阿里专线"
+        },
+        {
+            "url": "https://jihulab.com/tt15912/tv/-/raw/master/ali.json",
+            "name": "🚙运输车阿里专线"
+        }         
         ]
       }
