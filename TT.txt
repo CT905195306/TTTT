@@ -74,6 +74,12 @@
 {"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
 
+{"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/酷影.js"},
+{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/多米.js"},
+{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/如意.js"},
+
+
+
 
 
 
