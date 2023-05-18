@@ -4,7 +4,7 @@
   "sites": [		
 		{
 			"key": "csp_阿里七夜",
-			"name": "🔎┃阿里┃七夜",
+			"name": "🔎阿里┃七夜",
 			"type": 3,
 			"api": "csp_Dovx",
 			"searchable": 1,
@@ -13,7 +13,7 @@
 			"ext": "./jar/tok.txt"},	
 		{
 			"key": "csp_WoGG",
-			"name": "💂‍┃阿里┃玩偶",
+			"name": "💂‍阿里┃玩偶",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
@@ -22,7 +22,7 @@
 			"ext": "./jar/tok.txt"},	
      {
 			"key":"PanSearch",
-			"name":"🏵️‍┃阿里┃PanS",
+			"name":"🏵️‍阿里┃PanS",
 			"type":3,
 			"api":"csp_PanSearch",
 			"searchable":1,
@@ -31,7 +31,7 @@
 			"ext": "./jar/tok.txt"},		
 		{
 			"key": "Upyunso",
-			"name": "🌤️┃阿里┃云搜",
+			"name": "🌤️阿里┃云搜",
 			"type": 3,
 			"api": "csp_UpYun",
 			"searchable": 1,
@@ -40,7 +40,7 @@
 			"ext": "./jar/tok.txt"},
 		{
 			"key": "Alips",
-			"name": "📀┃阿里┃盘搜",
+			"name": "📀阿里┃盘搜",
 			"type": 3,
 			"api": "csp_PanSou",
 			"searchable": 1,
@@ -49,7 +49,7 @@
 			"ext": "./jar/tok.txt"},
 		{
 			"key": "Yisou",
-			"name": "🎯┃阿里┃易搜",
+			"name": "🎯阿里┃易搜",
 			"type": 3,
 			"api": "csp_YiSo",
 			"searchable": 1,
@@ -58,7 +58,7 @@
 			"ext": "./jar/tok.txt"},
 		{
 			"key": "Zhaozy",
-			"name": "🔍┃阿里┃找片",
+			"name": "🔍阿里┃找片",
 			"type": 3,
 			"api": "csp_Zhaozy",
 			"searchable": 1,
@@ -67,7 +67,7 @@
 			"ext": "./jar/tok.txt$$$q727021945$$$q727021945"},
     {
       "key": "push_agent",
-      "name": "📨┃影视┃推送",
+      "name": "📨影视┃推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
