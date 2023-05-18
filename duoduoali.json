@@ -2,7 +2,8 @@
  "spider": "./jar/duoduoali.jar;md5;2294DE5CE71B2F23A2AC5ED3884EEEA2",
  "wallpaper": "https://yydsys.top/bg.php",
   "sites": [
-{"key": "新片热播", "name": "🔷新片┃热播", "type": 1, "api": "https://api.iku.cool/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": [   "连续剧",   "动漫" ]},  
+{"key": "新片热播", "name": "🔷新片┃热播", "type": 1, "api": "https://api.iku.cool/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": [   "连续剧",   "动漫" ]}, 
+{"key":"csp_XYQBiu_磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./duoali/磁力熊.json"}, 
 {"key": "csp_阿里七夜","name": "🔎阿里┃七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./jar/tok.txt"},
 {"key": "csp_WoGG","name": "💂‍阿里┃玩偶","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./jar/tok.txt"},
 {"key":"PanSearch","name":"🏵️‍阿里┃PanS","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext": "./jar/tok.txt"},
