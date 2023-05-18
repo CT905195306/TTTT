@@ -1,5 +1,5 @@
 {
-  "spider": "./YSCal.jar;md5;72A43C4C8465140DEBB61F91B1C4C289",
+  "spider": "./jar/YSCal.jar;md5;72A43C4C8465140DEBB61F91B1C4C289",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
