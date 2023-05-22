@@ -1,4 +1,4 @@
-{"spider":"./jar/fan.txt;md5;f8f76c056bd4f099a4b545173b16ac2e",
+{"spider":"./jar/fan.txt;md5;e8fe5d2c9d119879e383a85df8ffd027",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 
 
@@ -89,6 +89,7 @@
 {"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt"},
 {"key":"PanSearch","name":"🙀盘Search┃4k","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt"},
 {"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt$$$q727021945$$$q727021945"},
+{"key":"TuGou","name":"😿土狗┃4K","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt"},
 {"key":"yinfans","name":"🎻音范丝┃4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json"},
 
 
