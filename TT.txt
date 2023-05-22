@@ -236,6 +236,12 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 //{"name":"左岸1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
+{"name":"我","type":1,"url":"https://api.key521.cn/api/json.php/?key=wfPzUH3NeVNdMlgWxJ&url=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"] }},
+{"name":"爱","type":1,"url":"http://j.grelighting.cn/parser/?url=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"] }},
+{"name":"夜","type":1,"url":"http://bpq.xdv.icu/analysis.php?v=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+{"name":"猫","type":1,"url":"https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+ {"name":"子","type":1,"url":"https://jx.ccabc.cc/cc.php?url=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"] }},
+
 {"name":"腾腾直解","type":1,"url":"http://api.playaaaa.com/qq/000167kkkk.php?url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
 {"name":"腾腾解析","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
 {"name":"高清解析1","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
