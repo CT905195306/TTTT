@@ -63,6 +63,7 @@
 {"key":"飞云","name":"🐲腾飞┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
 {"key":"csp_app_源头","name":"🐈肥猫┃蓝光","type":1,"playerType":2,"api":"http://xn--wnup5g.xn--z7x900a.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://jx.jsonplayer.com/player/?url="},
 //{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/如意.js"},
+{"key":"红红","name":"🌈红红┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MeiJu69","name":"🏕️69美剧┃直连","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"drpy_js_看韩剧","name":"🌰看韩剧┃App","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/看韩剧.js"},
