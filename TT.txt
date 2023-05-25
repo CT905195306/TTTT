@@ -17,7 +17,6 @@
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/磁力熊.json"},
 {"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt"},
 {"key":"sp-AppTT","name":"🐰图图┃影视","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/4127/6.txt;md5; d6c1a5d3236865b209efac8e4d9ce427","ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW"},
-{"key":"csp_BuLei","name":"⚡️布雷┃蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$q905195306$$$CHANG123456789"},
 {"key":"csp_apple","name":"🍎苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🎉一起┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"熊熊","name":"🧸熊熊┃App","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
@@ -26,11 +25,12 @@
 {"key":"红红","name":"🌈红红┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_BuLei","name":"⚡️布雷┃蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$q905195306$$$CHANG123456789"},
 {"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/酷影.js"},
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"}, 
 {"key":"飞云","name":"🐲腾飞┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
 {"key":"csp_app_源头","name":"🐈肥猫┃蓝光","type":1,"playerType":2,"api":"http://xn--wnup5g.xn--z7x900a.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://jx.jsonplayer.com/player/?url="},
-
+{"key":"csp_Lgyy","name":"🌀蓝光┃影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 
 
 {"key":"量子","name":"🏂资源┃量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
@@ -50,7 +50,6 @@
 {"key":"csp_Vofl","name":"🎈Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🏝奥特┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
-{"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Smdyy","name": "🐴神马┃直连","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Ysgc","name":"🏭工厂┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_555","name":"5️⃣️五五┃直连","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
