@@ -85,6 +85,8 @@
 {"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
 
 
+{"key":"相声小品","name":"🏮相声┃小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/Blixp.json"},
+{"key": "戏 曲" ,"name": "🎈国粹┃戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/Blixq.json"},
 
 {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/少儿教育.json"},
