@@ -74,10 +74,6 @@
 {"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
 
 
-{"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_If101","name":"🛫 If101┃飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 
 {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/少儿教育.json"},
