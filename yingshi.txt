@@ -17,7 +17,10 @@
 //{"key":"csp_Bili","name":"🅱️哔哩┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/json/bilibili.json"},
 //{"key":"csp_Bili","name":"🅱️哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/CT/TT/raw/branch/master/bz.json"},
 
-
+        {"key": "csp_XYQHiker_土狗搜索","name":"📀土狗搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/土狗搜索.json"},
+        {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/DOVX搜索.json"},
+        {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(XYQ)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/云盘分享.json"},
+        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/盘搜索.json"},
 
 
 {"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt"},
