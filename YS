@@ -1,0 +1,37 @@
+{
+  "storeHouse": [
+  {
+    "sourceName": "🐻熊熊仓库🐻",
+    "sourceUrl": "https://jihulab.com/tt15912/tv/-/raw/master/yingshi.json"
+  },
+  {
+    "sourceName": "🌴欧歌仓库🌴",
+    "sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
+  },
+  {
+    "sourceName": "🎋多多仓库🎋",
+       "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/a.txt"
+  },
+  {
+    "sourceName": "🔥运输车仓库🔥",
+       "sourceUrl": "https://weixine.net/api.json"
+  },
+   {
+    "sourceName": "🎄日后仓库🎄",
+       "sourceUrl": "http://rihou.cc:66/多仓/0.php"
+  },
+  {
+    "sourceName": "🍁影视仓库🍁",
+       "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/a"
+  }, 
+  {
+    "sourceName": "🌸安卓哥仓库🌸",
+       "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
+  }, 
+  {
+    "sourceName": "❤️安卓哥PY仓库❤️",
+       "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"
+  }
+
+  ]
+}
