@@ -223,7 +223,8 @@
 
 
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_If101","name":"🛫 If101┃飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_If101","name":"🛫 If101┃飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"101","name":"🛫 If101┃飞","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/if101.js"},
 {"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
