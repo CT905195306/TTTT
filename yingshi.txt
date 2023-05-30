@@ -4,7 +4,7 @@
 
 "sites":
 [
-{"key":"csp_77","name":"🐼熊熊┃推荐","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"js豆瓣","name":"🐼️熊熊┃推荐","type":3,"api":"./js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 {"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#熊熊直播$https://agit.ai/CT/TZB/raw/branch/master/T.txt#&&&https://api.caonm.net/api/mc/"},
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./js/lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/blzb.js"},
 {"key":"csp_Biliych","name":"🅱️哔哩┃音乐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
@@ -40,7 +40,8 @@
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"}, 
 {"key":"飞云","name":"🐲腾飞┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
 {"key":"csp_app_源头","name":"🐈肥猫┃蓝光","type":1,"playerType":2,"api":"http://xn--wnup5g.xn--z7x900a.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://jx.jsonplayer.com/player/?url="},
-{"key": "csp_XYQHiker_独播库","name":"👒独播┃库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/独播库.json","jar":"./jar/XYQ.jar;md5;F11FD6E9A2AB6748E2E28B49464B1641"},
+{"key":"csp_77","name":"👒酷云┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_XYQHiker_独播库","name":"🛩️独播┃库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/独播库.json","jar":"./jar/XYQ.jar;md5;F11FD6E9A2AB6748E2E28B49464B1641"},
 {"key":"csp_DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Czsapp","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
