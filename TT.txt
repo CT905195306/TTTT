@@ -30,7 +30,6 @@
 {"key":"黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BuLei","name":"⚡️布雷┃蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$q905195306$$$CHANG123456789"},
-{"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/酷影.js"},
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"}, 
 {"key":"飞云","name":"🐲腾飞┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
 {"key":"csp_app_源头","name":"🐈肥猫┃蓝光","type":1,"playerType":2,"api":"http://xn--wnup5g.xn--z7x900a.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://jx.jsonplayer.com/player/?url="},
