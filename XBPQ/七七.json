@@ -1,4 +1,5 @@
- "请求头": "Dalvik/2.1.0 (Linux; U; Android 10; JNY-AL10 Build/HUAWEIJNY-AL10)",
+ { 
+   "请求头": "Dalvik/2.1.0 (Linux; U; Android 10; JNY-AL10 Build/HUAWEIJNY-AL10)",
   "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
   "分类url": "http://api.tyun77.cn/api.php/provide/searchFilter?type_id={cateId}&pagenum={catePg}&pagesize=24",
   "二次截取": "",
@@ -27,3 +28,4 @@
   "播放列表": "data.episodes[]",
   "播放标题": "title",
   "播放链接": "playurl"
+}
