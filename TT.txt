@@ -6,16 +6,7 @@
 [
 //{"key":"js豆瓣","name":"🐼️熊熊┃推荐","type":3,"api":"./js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 //{"key":"csp_77","name":"🐼️熊熊┃推荐","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{
-  "key": "csp_XBPQ_酷云77",
-  "name": "酷云77",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext":./XBPQ/七七.json
-},
+{"key": "csp_XBPQ_酷云77","name": "酷云77","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./XBPQ/七七.json"},
 {"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#熊熊直播$https://agit.ai/CT/TZB/raw/branch/master/T.txt#&&&https://api.caonm.net/api/mc/"},
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./js/lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/blzb.js"},
 {"key":"csp_Biliych","name":"🅱️哔哩┃音乐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
