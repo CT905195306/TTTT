@@ -95,6 +95,7 @@
 {"key":"drpy_js_优酷","name":"👑优酷┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
 {"key":"drpy_js_菜狗","name":"🐶搜狗┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/Tong/raw/branch/master/sougou.js"},
 {"key":"py_xigua","name":"🍉西瓜┃官源","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/xigua.py"},
+{"key": "蓝光官采", "name": "🐱猫咪┃解析", "type": 1, "api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "playUrl": "https://jx.jsonplayer.com/player/?url=", "filterable": 0, "categories": ["国产剧", "综艺", "动漫", "香港剧", "动作片", "科幻片", "战争片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片"]},
 {"key":"zy_新浪资源","name":"🏄🏻新浪┃资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","体育"]},
 
 
