@@ -258,7 +258,6 @@
 {"name": "西瓜","type": 0,"url": "https://www.nxflv.com/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name": "搜狗","type": 0,"url": "https://jx.m3u8.pw/?url="},
 {"name":"yim","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
-{"name": "如意4K", "type": 1, "url": "http://xhww.fun:63/再偷就删.php?url=", "User-Agent": "okhttp/3.12.0", "ext": {"flag": ["qq","ruyi4K","腾讯","hgvip","hgyx","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","XAl","yk","mgtv","imgo","芒果","CL4K","renrenmi","hulihuli-","ltnb","bilibili","BAGY","SLYS4K","DM-FT1","DM-FT3","bilibili","1905","xigua"]}},
 {"name":"880","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 {"name":"5566","type":1,"url":"http://47.119.122.235:5566/json/free.php?url="},
 {"name":"4567","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
