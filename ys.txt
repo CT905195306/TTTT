@@ -18,8 +18,7 @@
 {"key":"熊熊","name":"🐼️笨笨┃熊熊","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
 {"key":"黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 //{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"}, 
-  { "key": "csp_ruyi",  "name": "如意┃APP",  "type": 3,  "api": "csp_AppYsV2",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "playerType": "1",  "ext": "http://cms.maoyingshi.cc/api.php/app/"
-        }, 
+  { "key": "csp_ruyi",  "name": "如意┃APP",  "type": 3,  "api": "csp_AppYsV2",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "playerType": "1",  "ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"http://xhww.fun:63/小米/小暴脾气.jar;md5;975c8ac43a0f8513bb4d32ca0de03340"}, 
 {"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
 {"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
 //{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/多米.js"},
