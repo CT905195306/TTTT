@@ -17,7 +17,9 @@
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
 {"key":"熊熊","name":"🐼️笨笨┃熊熊","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
 {"key":"黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"}, 
+//{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"}, 
+  { "key": "csp_ruyi",  "name": "如意┃APP",  "type": 3,  "api": "csp_AppYsV2",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "playerType": "1",  "ext": "http://cms.maoyingshi.cc/api.php/app/"
+        }, 
 {"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
 {"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
 //{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/多米.js"},
@@ -257,6 +259,7 @@
 {"name": "优酷","type": 0,"url": "https://yun.ckmov.com/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "西瓜","type": 0,"url": "https://www.nxflv.com/?url=","ext": {"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name": "搜狗","type": 0,"url": "https://jx.m3u8.pw/?url="},
+{ "name": "如意4K",  "type": 1,  "url": "http://xhww.fun:63/再偷就删.php?url=",  "User-Agent": "okhttp/3.12.0",  "ext": {"flag": ["qq", "ruyi4K", "腾讯", "hgvip", "hgyx", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "XAl","yk", "mgtv","imgo","芒果", "CL4K", "renrenmi", "hulihuli-", "ltnb", "bilibili", "BAGY", "SLYS4K", "DM-FT1", "DM-FT3", "bilibili", "1905", "xigua"] }},
 {"name":"yim","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 {"name":"880","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 {"name":"5566","type":1,"url":"http://47.119.122.235:5566/json/free.php?url="},
