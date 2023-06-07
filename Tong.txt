@@ -1,4 +1,4 @@
-{"spider":"./jar/fan.txt;md5;07099ea7d907106be7990ad9db491f2a",
+{"spider":"https://pan.shangui.cc/f/GZbYhz/fan.txt;md5;8e5f048383b35728c4f1bb21c708c0c7",
 "wallpaper":"https://饭太硬.ml/深色壁纸/api.php",
 
 
