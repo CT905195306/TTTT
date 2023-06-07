@@ -20,7 +20,7 @@
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"}, 
 {"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
 //{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
-{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/多米.js"},
+//{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/多米.js"},
 {"key":"csp_app_源头","name":"🐈肥猫┃蓝光","type":1,"playerType":2,"api":"http://xn--wnup5g.xn--z7x900a.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://jx.jsonplayer.com/player/?url="},
 {"key":"csp_77","name":"👒酷云┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XYQHiker_独播库","name":"🛩️独播┃库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/独播库.json","jar":"./jar/XYQ.jar;md5;F11FD6E9A2AB6748E2E28B49464B1641"},
