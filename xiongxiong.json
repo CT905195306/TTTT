@@ -145,12 +145,9 @@
 "跳转播放链接":"https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
 "二次跳转播放链接":"https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接":"\"url\"*\"&&\""}},
-{"key":"csp_XYQHiker_野荷塘影院","name":"🍈野荷塘┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/野荷塘影院.json"},
-{"key":"csp_XYQHiker_锐行加速影院","name":"☕锐行┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/锐行加速影院.json"},
 {"key":"csp_dushangjihuoke","name":"🗽段友┃视频","api":"csp_AppYsV2","type":3,"m3u8ads":"hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://shangjihuoke.com/api.php/v1.vod"},
 {"key":"drpy_js_子子影视","name":"☁️子子┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/子子影视.js"},
 {"key":"一龙","name":"🍒一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
-{"key":"端木","name":"🫐端木┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/端木.json"},
 {"key":"影视大全","name":"🫒影视┃大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json"},
 
 
@@ -162,8 +159,6 @@
 {"key":"米杏","name":"🍊资源┃米杏","type":1,"api":"https://www.mixing.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","剧集","综艺","动漫","纪录片"]},
 {"key":"tvb云播","name":"⛅资源┃TVB","type":0,"api":"http://www.tvyb03.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"明帝","name":"️🤴资源┃明帝","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","直播"]},
-{"key":"酷客影视","name":"👔酷客┃影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XYQH/酷客影视.json"},
 {"key":"大米星球","name":"🌏大米┃星球","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/大米星球.json"},
 {"key":"城市影视","name":"🏟城市┃电影","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/城市.js"},
