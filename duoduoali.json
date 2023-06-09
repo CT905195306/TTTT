@@ -11,7 +11,7 @@
 {"key": "Upyunso","name": "😻Up搜┃4K","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./jar/tok.txt"},
 {"key": "Alips","name": "🦊盘搜┃4K","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./jar/tok.txt"},
 {"key": "Yisou","name": "😹易搜┃4K","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./jar/tok.txt"},
-{"key": "Zhaozy","name": "🐺找资源┃4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./jar/tok.txt$$$q905195306$$$CHANG0624"},
+{"key": "Zhaozy","name": "🐺找资源┃4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./jar/tok.txt$$$fanfan$$$qqq111"},
 {"key": "push_agent","name": "📨影视┃推送","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0,"ext": "./jar/tok.txt"}],
 "parses": [
 {"name": "1号线","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
