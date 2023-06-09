@@ -1,35 +1,52 @@
 {
-  "spider": "./jar/YSCal.jar;md5;72A43C4C8465140DEBB61F91B1C4C289",
+  "spider": "./ali.jar;md5;33fb009cd453ddb80489af074394016a",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
-      "key": "本地",
-      "name": "本地",
+	"key": "豆瓣",
+	"name": "🔍豆瓣荐片",
+	"type": 3,
+	"api": "https://cf.weixine.net/js/lib/drpy2.min.js",
+	"searchable": 0,
+	"quickSearch": 0,
+	"filterable": 0,
+	"ext": "https://cf.weixine.net/js/douban.js"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "👽玩偶哥哥",
       "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_KungFu404",
+      "name": "🌱有效聚合",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
       "filterable": 0,
       "changeable": 0
     },
     {
       "key": "UP云搜",
-      "name": "☁️UP云搜",
+      "name": "🖥UP云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "./jar/tok.txt"
+      "changeable": 0
     },
     {
       "key": "纸条",
-      "name": "📜纸条搜索",
+      "name": "🖥纸条搜索",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "./jar/tok.txtt"
+      "changeable": 0
     },
     {
       "key": "易搜",
@@ -38,8 +55,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "./jar/tok.txt"
+      "changeable": 0
     },
     {
       "key": "阿里云盘",
@@ -48,8 +64,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "./jar/tok.txt"
+      "changeable": 0
     },
     {
       "key": "盘搜",
@@ -58,8 +73,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "./jar/tok.txt"
+      "changeable": 0
     },
     {
       "key": "网盘搜索",
@@ -68,8 +82,16 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "./jar/tok.txt"
+      "changeable": 0
+    },
+    {
+      "key": "土狗搜索",
+      "name": "🖥土狗搜索",
+      "type": 3,
+      "api": "csp_TuGou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "找资源",
@@ -79,17 +101,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./jar/tok.txt$$$q905195306$$$CHANG0624"
-    },
-    {
-      "key": "土狗搜索",
-      "name": "🖥土狗搜索",
-      "type": 3,
-      "api": "csp_TuGou",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "./jar/tok.txt"
+      "ext": "null$$$yunshuche$$$11223344"
     },
     {
       "key": "push_agent",
@@ -99,8 +111,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./jar/tok.txt",
-      "jar":"./jar/YSC.jar"
+      "jar":"https://cf.weixine.net/YSC.jar"
     }
   ]
 }
