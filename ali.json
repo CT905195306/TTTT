@@ -1,8 +1,8 @@
 {
-  "spider": "./ali.jar;md5;33fb009cd453ddb80489af074394016a",
+  "spider": "./jar/ali.jar;md5;33fb009cd453ddb80489af074394016a",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
-    {
+   {
 	"key": "豆瓣",
 	"name": "🔍豆瓣荐片",
 	"type": 3,
