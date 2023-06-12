@@ -12,7 +12,7 @@
 {"key":"csp_AppTT","name":"🐰图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"新片热播","name":"🔷新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 {"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BuLei","name":"⚡️布雷┃蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fabu.bulei.cc/$$$login$$$905195306$$$CHANG123456789"},
+{"key":"csp_BuLei","name":"⚡️布雷┃蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://movie.bulei.cc/$$$login$$$905195306$$$CHANG123456789"},
 //{"key":"csp_XYQHiker_布蕾","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.ilime.cc$$$login$$$q905195306$$$CHANG123456789"},
 //{"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc$$$login$$$905195306$$$CHANG123456789"},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
