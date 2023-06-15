@@ -86,6 +86,13 @@
 //{"key": "4KHDR","name":"🐭HDR┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4KHDR.json","jar":"./jar/YSC.jar;md5;0c8f389da29fc3ee9ecf2e94fc8a1c88"},
 {"key":"yinfans","name":"🎻音范丝┃4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json"},
 
+{"key":"玩偶","name":"🐻玩偶┃G  O","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./jar/tok.txt+4k|fhd|auto $$$https://wogg.xyz/","jar":"./jar/pg.jar"},
+{"key":"玩偶1","name":"🐻玩偶┃饭饭","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./jar/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
+{"key":"易搜","name":"🌞易搜┃G  O","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
+"ext":"./jar/tok.txt+4k|fhd|auto"},
+{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt","jar":"./jar/xyq.jar;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 
 
 
@@ -167,14 +174,6 @@
 {"key":"米爱影视","name":"🍘米爱┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/米爱.js"},
 {"key":"饭团影视","name":"🍙饭团┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/饭团.js"},
 {"key":"七年影视","name":"🍬七年┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/七年.js"},
-
-
-
-
-
-
-
-//{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt","jar":"./jar/shangui.jar"},
 
 
 
