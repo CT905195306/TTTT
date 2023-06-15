@@ -20,12 +20,7 @@
   {"key":"PP","name":"🐯胖虎┃影视","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"img+http://gh.t4tv.hz.cz/newjar.bmp;md5;0fb8ce58262f4a75345dc190bdc8815b"},
 {"key": "热播库","name": "🌭热播┃之家","type": 3,"api": "csp_XBPQ","ext": "http://xhww.fun:63/小米/源/热播.json"},
 {"key":"黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"}, 
-{"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
-{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
-{"key":"聚合蓝光","name":"🔒聚合┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://xn--yeta099v.online:66/api.php/app/"},
-{"key":"聚合资源","name":"⛵聚合┃资源","type":3,"api":"csp_AppYsV2","ext":"https://tv.ysle.cn/api.php/app/"},
-{"key":"飞云","name":"🚁飞云┃资源","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"http://www.lfytyl.com/api.php/app/"},    
+{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},     
 //{"key":"csp_app_源头","name":"🐈肥猫┃蓝光","type":1,"playerType":2,"api":"http://xn--wnup5g.xn--z7x900a.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://jx.jsonplayer.com/player/?url="},
 {"key":"csp_77","name":"👒酷云┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XYQHiker_独播库","name":"🛩️独播┃库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/独播库.json","jar":"./jar/XYQ.jar;md5;F11FD6E9A2AB6748E2E28B49464B1641"},
@@ -59,8 +54,6 @@
 {"key": "csp_XBPQ_奇优","name": "🧼奇优┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/奇优影院.json"},
 
 
-
-
 {"key":"量子","name":"🏂资源┃量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
 {"key":"非凡","name":"🦉资源┃非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 {"key":"快播","name":"🌤️资源┃快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
@@ -90,8 +83,6 @@
 {"key":"py_xigua","name":"🍉西瓜┃官源","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/xigua.py"},
 {"key": "蓝光官采", "name": "🐱小猫咪┃官源", "type": 1, "api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "playUrl": "https://jx.jsonplayer.com/player/?url=", "filterable": 0, "categories": ["国产剧", "综艺", "动漫", "香港剧", "动作片", "科幻片", "战争片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片"]},
 {"key":"zy_新浪资源","name":"🏄🏻新浪┃资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","体育"]},
-{"key":"饭后","name":"🍛饭后┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"json:https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
-
 
 
 
