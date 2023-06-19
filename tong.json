@@ -241,6 +241,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"如意4K","type":1,"url":"http://xhww.fun:63/神秘的哥哥们.php?url=","User-Agent":"okhttp/3.12.0"},
 {"name":"FY4K","type":1,"url":"https://daina.hk/api/?key=e7eeb27cfc347b8de7c1bf0c40b3d3bb&url="},
+{"name": "落叶🍂","type": 1,"url": "http://110.42.2.247:880//analysis//json//?uid=2373&my=fgimDLMOQTUWYZ0568&url=","flag": [	"mgtv",	"qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果",	"芒果"]},
 {"name":"左岸","type":1,"url":"https://vip.daina.hk/fyzy/json.php?&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name":"kkju","type":0,"url":"https://kankanju.cc/f/jxplayer.php?v="},
 {"name":"8c4","type":0,"url":"https://play.8c4.cn/play/?url="},
