@@ -11,7 +11,6 @@
 {"key":"csp_DuoX","name":"🔥多线┃APP","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"影探4K","name":"💧影探┃4K","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/yingtan.js"},
 { "key": "如意4K", "name": "🥚如意┃4K", "type": 3, "api":"./js/lib/drpy2.min.js","ext":"./js/ruyi.js"},
-{"key":"车姐4K","name":"🦆车姐┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 //{"key":"csp_AppTT","name":"🐰图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"新片热播","name":"🔷新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 {"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
