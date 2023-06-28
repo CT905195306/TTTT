@@ -108,15 +108,12 @@
 
 
 
-{"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/",
-"categories": ["国产剧","港台剧","欧美剧","韩国剧","国产动漫","日本动漫"]},
 {"key": "🌀暴风","name":"🌀暴风┃资源","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/暴风.json","jar":"./jar/小暴脾气6.jar;md5;68468D6FD4914032BB8F3AD2B375B949"},
 {"key":"非凡","name":"🕊️非凡┃资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
 {"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
-{"key":"聚合资源","name":"⛵聚合┃资源","type":3,"api":"csp_AppYsV2","ext":"https://tv.ysle.cn/api.php/app/"},
-{"key":"飞云","name":"🚁飞云┃资源","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"http://www.lfytyl.com/api.php/app/"}, 
+ 
 
 
 
