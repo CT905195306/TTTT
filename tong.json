@@ -23,7 +23,6 @@
 {"key": "酷酷","name": "🍂酷酷┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "瑞丰","name": "☘辣辣┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"暴风","name":"🌀暴风┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/"},
 {"key": "🌀暴风","name":"🌀暴风┃资源","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/暴风.json"},
 {"key":"PP","name":"🐯胖虎┃影视","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"img+http://gh.t4tv.hz.cz/newjar.bmp;md5;0fb8ce58262f4a75345dc190bdc8815b"},
 {"key": "热播库","name": "🌭热播┃之家","type": 3,"api": "csp_XBPQ","ext": "http://xhww.fun:63/小米/源/热播.json"},
@@ -112,8 +111,6 @@
 
 {"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","国产动漫","日本动漫"]},
-{"key":"暴风","name":"🌀暴风┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/",
-"categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
 {"key":"非凡","name":"🕊️非凡┃资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
 {"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/",
