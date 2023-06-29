@@ -160,7 +160,7 @@
 {"key":"一龙","name":"🍒一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
 {"key":"影视大全","name":"🫒影视┃大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json"},
 {"key":"棉花影视","name":"⚜棉花┃影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"./jar/QJ.jar;md5;A264D33E664119FED5AF99338DEF9CA4"},
-{"key":"TVB云播","name":"TVB┃云播","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./XYQH/TVB云播.json"},
+{"key":"TVB云播","name":"💧TVB┃云播","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./XYQH/TVB云播.json"},
 
 
 {"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
