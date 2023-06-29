@@ -11,7 +11,6 @@
 {"key":"探探","name":"🏵影探┃4K","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"AppTT","name":"🐰图图┃影视","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./jar/custom_spider.jar;md5;a41ca4cee6c2af1fcc0c7fd0fc28fb3d"},
 //{"key":"影探4K","name":"💧影探┃4K","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/yingtan.js"},
-//{"key":"csp_AppTT","name":"🐰图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 //{"key": "运输车", "name": "💧运输车┃4K", "type": 3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/feiyun.json"},
 //{"key":"北极狐", "name": "💡北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
 //{"key": "云云资源", "name": "💡飞云┃4K", "type": 3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/yunyun.json","jar":"./jar/小暴脾气6.jar;md5;68468D6FD4914032BB8F3AD2B375B949"},
@@ -161,7 +160,7 @@
 {"key":"一龙","name":"🍒一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
 {"key":"影视大全","name":"🫒影视┃大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json"},
 {"key":"棉花影视","name":"⚜棉花┃影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"./jar/QJ.jar;md5;A264D33E664119FED5AF99338DEF9CA4"},
-
+{"key":"TVB云播","name":"TVB┃云播","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/TVB云播.js"},
 
 
 {"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
