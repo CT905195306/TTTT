@@ -23,7 +23,7 @@
 {"key": "酷酷","name": "🍂酷酷┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "瑞丰","name": "☘辣辣┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"PP","name":"🐯胖虎┃影视","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"img+http://gh.t4tv.hz.cz/newjar.bmp;md5;0fb8ce58262f4a75345dc190bdc8815b"},
 {"key":"鸭奈飞","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key":"乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/乐猪.json"}, 
