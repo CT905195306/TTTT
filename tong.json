@@ -15,7 +15,7 @@
 //{"key":"北极狐", "name": "💡北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
 //{"key": "云云资源", "name": "💡飞云┃4K", "type": 3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/yunyun.json","jar":"./jar/小暴脾气6.jar;md5;68468D6FD4914032BB8F3AD2B375B949"},
 {"key": "csp_kkj","name": "👑看看┃4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E7%9C%8B%E7%9C%8B%E5%89%A7.json","jar":"./jar/小暴脾气6.jar;md5;68468D6FD4914032BB8F3AD2B375B949"}, 
-{"key": "狐狸","name": "🦊狐狸┃4k", "type": 3,"api": "csp_AppYsV2",  "searchable": 1, "quickSearch": 1,  "filterable": 1, "ext": "https://www.kuin.one/api.php/app/"}, 
+{"key":"鸭奈飞","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"}, 
 {"key":"陌陌","name":"🍄陌陌┃直连","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DuoX","name":"🔥多线┃APP","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"新片热播","name":"🔷新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
