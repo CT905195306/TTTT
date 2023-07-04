@@ -63,10 +63,10 @@
 {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XBPQ_JOJO", "name": "👲🏿JOJO┃直连", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"二次截取": "class=\"content-body\"&&class=\"content-lift\"", "数组": "<a&&</a>", "图片": "src=\"&&\"", "标题": "class=\"card-title\">&&</p>", "副标题": "class=\"item-speed\">&&</p>", "链接": "href=\"&&\"", "播放数组": "class=\"plyr-sidebar-list&&</div>", "嗅探词": "aliyundrive.net#cn-beijing-data", "搜索url": "https://app.syrme.top/video/search?q={wd}", "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录", "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"}}, 
 
-{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
-{"key":"EMO","name":"EMO蓝光","type":3,"api":"csp_AppYsV2","ext":"http://154.31.2.112:8868/mogai_api.php/v1.vod"},
-{"key":"多多美剧","name":"多多美剧","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zhuiju.co","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},{"key":"影视王朝","name":"影视王朝","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
-{"key":"时常影视","name":"时常影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
+{"key":"南瓜影视","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
+{"key":"EMO","name":"👿EMO┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://154.31.2.112:8868/mogai_api.php/v1.vod"},
+{"key":"影视王朝","name":"🙉影视┃王朝","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
+{"key":"时常影视","name":"🔯时常┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
 
 {"key":"七夜","name":"🐝七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
 {"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
