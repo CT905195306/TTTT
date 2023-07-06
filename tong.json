@@ -98,7 +98,7 @@
 //{"key": "4KHDR","name":"🐭HDR┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4KHDR.json","jar":"./jar/YSC.jar;md5;0c8f389da29fc3ee9ecf2e94fc8a1c88"},
 //{"key":"玩偶","name":"🐻玩偶┃G O","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt+4k|fhd|auto $$$https://wogg.xyz/","jar":"./jar/pg.jar;md5;9DE2C4D780FF879533923011AAFE6EEA"},
 //{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
-{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt","jar":"./jar/XYQ.jar;md5;9A3FA8EEBD33B1E4CC2A5AD20DFB7C84"},
+{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt"},
 
 
 
