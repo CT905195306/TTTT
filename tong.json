@@ -25,6 +25,7 @@
 {"key": "测试","name": "🎅落落┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://luoye.shop:66/api.php/app/"},
 {"key": "瑞丰","name": "☘辣辣┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"EMO","name":"👿EMO┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://154.31.2.112:8868/mogai_api.php/v1.vod"},
 {"key":"迪迪","name":"🌽️爱迪┃蓝光","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
@@ -50,7 +51,6 @@
 {"key":"csp_Vofl","name":"🎈Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🏝奥特┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Smdyy","name": "🐴神马┃直连","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -60,29 +60,6 @@
 {"key": "csp_XBPQ_JOJO", "name": "👲🏿JOJO┃直连", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"二次截取": "class=\"content-body\"&&class=\"content-lift\"", "数组": "<a&&</a>", "图片": "src=\"&&\"", "标题": "class=\"card-title\">&&</p>", "副标题": "class=\"item-speed\">&&</p>", "链接": "href=\"&&\"", "播放数组": "class=\"plyr-sidebar-list&&</div>", "嗅探词": "aliyundrive.net#cn-beijing-data", "搜索url": "https://app.syrme.top/video/search?q={wd}", "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录", "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"}}, 
 
 
-
-
-{ "key": "csp_mdd", "name": "🥚萌蛋蛋┃影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://app.mengdandan.com/xgapp.php/v1/" }, 
-{"key": "ok","name": "🏝️Free┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}
-},
-{"key":"PP","name":"🐯胖虎┃影视","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"img+http://gh.t4tv.hz.cz/newjar.bmp;md5;0fb8ce58262f4a75345dc190bdc8815b"},
-{"key":"鸭奈飞","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
-{"key": "热播库","name": "🌭热播┃之家","type": 3,"api": "csp_XBPQ","ext": "http://xhww.fun:63/小米/源/热播.json"},
-{"key":"南瓜影视","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
-{"key":"时常影视","name":"🔯时常┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
-
-
-
-
-{"key":"七夜","name":"🐝七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"PanSearch","name":"🙀盘Search┃4k","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto$$$q905195306$$$CHANG0624"},
-//{"key": "4KHDR","name":"🐭HDR┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4KHDR.json","jar":"./jar/YSC.jar;md5;0c8f389da29fc3ee9ecf2e94fc8a1c88"},
-//{"key":"玩偶","name":"🐻玩偶┃G O","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt+4k|fhd|auto $$$https://wogg.xyz/","jar":"./jar/pg.jar;md5;9DE2C4D780FF879533923011AAFE6EEA"},
-//{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt","jar":"http://cdn.qiaoji8.com/fix0610.jar;md5;a264d33e664119fed5af99338def9ca4"},
 
 
 
@@ -106,6 +83,38 @@
 //{"key":"芒果","name":"🥭芒果┃TV","type":3,"playerType":2,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
 //{"key":"csp_SP33","name":"🍊360┃官源","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"csp_WoGG","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+
+
+
+
+
+
+{"key":"七夜","name":"🐝七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
+{"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
+{"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
+{"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
+{"key":"PanSearch","name":"🙀盘Search┃4k","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
+{"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto$$$q905195306$$$CHANG0624"},
+//{"key": "4KHDR","name":"🐭HDR┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4KHDR.json","jar":"./jar/YSC.jar;md5;0c8f389da29fc3ee9ecf2e94fc8a1c88"},
+//{"key":"玩偶","name":"🐻玩偶┃G O","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt+4k|fhd|auto $$$https://wogg.xyz/","jar":"./jar/pg.jar;md5;9DE2C4D780FF879533923011AAFE6EEA"},
+//{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt","jar":"http://cdn.qiaoji8.com/fix0610.jar;md5;a264d33e664119fed5af99338def9ca4"},
+
+
+
+
+
+
+
+{ "key": "csp_mdd", "name": "🥚萌蛋蛋┃影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://app.mengdandan.com/xgapp.php/v1/" }, 
+{"key": "ok","name": "🏝️Free┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}
+},
+{"key":"PP","name":"🐯胖虎┃影视","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"img+http://gh.t4tv.hz.cz/newjar.bmp;md5;0fb8ce58262f4a75345dc190bdc8815b"},
+{"key":"鸭奈飞","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
+{"key": "热播库","name": "🌭热播┃之家","type": 3,"api": "csp_XBPQ","ext": "http://xhww.fun:63/小米/源/热播.json"},
+{"key":"南瓜影视","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
+{"key":"时常影视","name":"🔯时常┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
+
+
 
 
 
