@@ -27,6 +27,16 @@
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+ {
+            "key": "小苹果",
+            "name": "🍎主力源",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://t.grelighting.cn/html/xpg102.jar;md5;bc95d810af9fab60c0781280ba56d6b1"
+        },
 {"key":"EMO","name":"👿EMO┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://154.31.2.112:8868/mogai_api.php/v1.vod"},
 {"key":"迪迪","name":"🌽️爱迪┃蓝光","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"黄黄","name":"😎黄黄┃蓝光","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
