@@ -283,7 +283,7 @@
 {"name":"4k专用", "type":1, "url":"https://jx.tvcms.top/api/?key=0e6ba5eac2b38a9f02c3ebea29ab96eb&url=", "ext": {"flag":["TD"], "header":{ "User-Agent":"Dart/2.14 (dart:io)"} }}, 
 { "name":"FY4K", "type":1, "url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url=", "ext":{"flag":["FY","qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]} },
 { "name": "飞云", "type": 1, "url": "http://htp.behds.cn/json/2023223456/fy4k2.php?url=" },
-{"name": "✌️夜曲","type": 1,"url": "http://xhww.fun:63/小米特别爱肥猫.php?url=","ext": {"flag": ["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent": ""}}},
+{"name": "✌️夜曲","type": 1,"url": "http://xhww.fun:63/小米特别爱肥猫.php?url=","ext": {"flag": ["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"]}},
 {"name": "小艺🌾","type": 1,"url": "https://xjx.tvcms.top/api/?key=86e9e99ae4e23391b0531a2489f57273&url=","flag": ["mmal","TD","TDB"],"header": {"User-Agent": "okhttp/3.12.11"}},
 {"name": "稻香🌾","type": 1,"url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url=","flag": ["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"]},
 {"name": "25芒果🥭","type": 1,"url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=","flag": ["imgo","mgtv","芒果"]},
