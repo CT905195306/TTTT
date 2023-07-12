@@ -1,10 +1,11 @@
 {
     "urls": [
            
+       
         {
-            "url": "https://jihulab.com/tt15912/tv/-/raw/master/Xiong.json",
+            "url": "https://pan.shangui.cc/f/Bz1mcp/xiongxiong.json",
             "name": "🐻熊熊专用版"
-        }, 
+        },  
         {
             "url": "https://jihulab.com/tt15912/tv/-/raw/master/ali.json",
             "name": "🐼熊熊阿里专线"
@@ -130,8 +131,9 @@
             "name": "🐋4K云盘"
         },
          {
-            "url": "https://pan.shangui.cc/f/Bz1mcp/xiongxiong.json",
-            "name": "🐻熊熊跑路云盘"
-        }        
+            "url": "https://jihulab.com/tt15912/tv/-/raw/master/Xiong.json",
+            "name": "🐻熊熊备用版"
+        }
+                
         ]
       }
