@@ -1,4 +1,4 @@
-{"spider":"./jar/yiyi.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9",
+{"spider":"./jar/yiyi.jar;md5;50bc219c741872bc7a60e79c7584edb4",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://agit.ai/CT/TZB/raw/branch/master/yiyi.txt"]}]}],
 
 "sites":[
