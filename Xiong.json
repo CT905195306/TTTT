@@ -5,10 +5,6 @@
 "sites":
 [
 {"key":"js豆瓣","name":"🐼️熊熊┃推荐","type":3,"api":"./js/lib/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./js/douban.js"},
-{"key":"drpy_js_360影视","name":"弹幕 | 360[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"弹幕 | 爱奇艺[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
-{"key":"drpy_js_百忙无果","name":"弹幕 | 芒果[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/百忙无果.js"},
-{"key":"drpy_js_腾云驾雾","name":"弹幕 | 腾讯[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 { "key":"js_荐片", "name":"⏳荐片┃影视", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"csp_YGP","name":"⭕新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"MV_vod","name":"🎸MTV┃合集","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":0,"changeable":0},
@@ -67,7 +63,10 @@
 {"key":"zy_新浪资源","name":"🏄🏻新浪┃资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","体育"]},
 
 
-
+//{"key":"drpy_js_360影视","name":"弹幕 | 360[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/360影视.js"},
+//{"key":"drpy_js_奇珍异兽","name":"弹幕 | 爱奇艺[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
+//{"key":"drpy_js_百忙无果","name":"弹幕 | 芒果[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/百忙无果.js"},
+//{"key":"drpy_js_腾云驾雾","name":"弹幕 | 腾讯[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
 //{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
 //{"key":"爱奇艺","name":"🥝奇艺┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/iqy.js"},
