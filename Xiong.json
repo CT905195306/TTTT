@@ -1,4 +1,4 @@
-{"spider":"./jar/fan.txt;md5;18b8df1e0f7813098c1e70979a264aad",
+{"spider":"./jar/fan.txt;md5;43d5af5fc45bbff83ae54e4f3fe703e5",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 
@@ -22,7 +22,6 @@
 //{"key":"csp_apple","name":"🍎小苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"EMO","name":"👿EMO┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://154.31.2.112:8868/mogai_api.php/v1.vod"},
 {"key":"迪迪","name":"🌽️爱迪┃蓝光","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-{"key":"黄黄","name":"😎黄黄┃蓝光","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"聚合蓝光","name":"🔒聚合┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://xn--yeta099v.online:66/api.php/app/"}, 
 //{"key":"csp_BuLei","name":"⚡️布雷┃蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ml/$$$auto$$$905195306$$$CHANG123456789"},
 {"key":"布雷蓝光","name":"⚡️布雷┃蓝光","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"}, 
