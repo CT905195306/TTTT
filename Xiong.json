@@ -191,7 +191,6 @@
 "ext":"./XYQH/大米星球.json"},
 {"key":"城市影视","name":"🏟城市┃电影","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/城市.js"},
 {"key":"米爱影视","name":"🍘米爱┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/米爱.js"},
-{"key":"饭团影视","name":"🍙饭团┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/饭团.js"},
 {"key":"七年影视","name":"🍬七年┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/七年.js"},
 
 
