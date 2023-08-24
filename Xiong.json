@@ -139,7 +139,6 @@
 
 
 {"key":"AList","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
-{"key":"csp_Alist1","name":"🅿饭太硬┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://饭太硬.top/tv/alist.json"},
 {"key":"py_baby","name":"👼宝宝┃合集","type":3,"api":"py_baby","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/baby.py"},
 
 
