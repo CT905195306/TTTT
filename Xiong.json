@@ -30,6 +30,7 @@
 //{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
 //{"key":"4KHDR","name":"🧲世界┃磁力","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"http://smallmi.xiaohewanwan.love:63/cili/4khdr.js"},
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
+{"key":"影库","name":"😃七七┃影库","type":3,"api":"csp_XBPQ","ext":{"主页url": "http://qqysk.top/","搜索url": "http://qqysk.top/index.php/vod/search.html?wd={wd}","分类": "电影$1#电视剧$2#动漫$4#综艺$3", "分类url": "http://qqysk.top/index.php/vod/type/id/{cateId}.html"}},
 {"key":"迷你库","name":"Ⓜ️迷你库┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"迪迪","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"蚂蚁2","name":"🐜️蚂蚁┃APP","type":3,"api":"csp_AppYsV2","ext":"http://guan.yy365.vip/api.php/app/"},
