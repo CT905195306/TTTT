@@ -27,6 +27,7 @@
 {"key":"耐看","name":"😣耐看┃影视","type":3,"api":"csp_XBPQ","ext":{"分类数组":"swiper-wrapper\"*&&</ul>","分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html","搜索图片":"http://smr.xzam.cn:66/1.jpg"},"jar":"https://jihulab.com/xiaohutx/meisha/-/raw/main/5.jar"},
 {"key":"新片热播","name":"🔷新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 { "key": "js_农民", "name": "🌾农民┃直连", "type": 3, "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/nongmin.js" },
+{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json"},
 //{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
 {"key": "荐片","name": "⏳荐片┃磁力","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
