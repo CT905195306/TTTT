@@ -60,6 +60,12 @@
 
 
 
+{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+{ "key": "py_huya", "name": "🐯虎牙┃[PY]", "type": 3, "api": "py_huya", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./py/huya.py" }, 
+{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","searchable": 0,"quickSearch": 0,"changeable":0},
+
+
+
 
 
 {"key":"Qtv","name":"🐧腾讯┃官源","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -145,20 +151,6 @@
 
 
 
-{"key":"csp_Dm84","name":"🚌动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XYQHiker_异世界动漫","name":"🐲异界┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异世界动漫.json","jar":"./jar/XYQ.jar;md5;9A3FA8EEBD33B1E4CC2A5AD20DFB7C84"},
-{"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"🐾日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"路漫漫","name":"🚶路漫漫┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/路漫漫.js"},
-{"key":"nt动漫","name":"🧬NT┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/ntdm.js"},
-{"key":"去看吧","name":"💨去看吧┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/去看吧.json"},
-{"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/%e7%bb%b4%e5%a5%87.json"},
-{"key":"drpy_js_妮可动漫","name":"💘妮可┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/妮可动漫.js","jar":"./jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
-{"key":"drpy_js_怡萱动漫","name":"👺怡萱┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/%e6%80%a1%e8%90%b1%e5%8a%a8%e6%bc%ab.js","jar":"./jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
-
-
-
-
 {"key":"XBPQ_fant2","name":"🍙饭团┃影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影院.json"},
 {"key":"UM影院","name":"⏺UM┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/um.js"},
 {"key":"看看电影","name":"🥷看看┃电影","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/kankandianying.js"},
@@ -219,14 +211,25 @@
 {"key":"csp_XYQBiu_310直播","name":"⚽310┃看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/x/XYQ/310直播.json"},
 {"key":"csp_XPath_企鹅体育","name":"🐧企鹅┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/x/xp/企鹅直播.json"},
 {"key":"酷奇js","name":"🎤酷奇┃MV","type": 3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js","searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0},
-{ "key": "py_huya", "name": "🐯虎牙┃[PY]", "type": 3, "api": "py_huya", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./py/huya.py" }, 
-{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"csp_XBPQ_聚短视频","name":"📽️聚短┃视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"changeable":0,"ext":"./XBPQ/dsp.json"},
 {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"酷狗mv","name":"🐶酷狗┃MV","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/酷狗mv.js"},
 {"key":"csp_Yj1211","name":"📽️网红┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"音悦台","name":"🎵音悦┃Tai","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/音悦台.js"},
+
+
+
+
+{"key":"csp_Dm84","name":"🚌动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_XYQHiker_异世界动漫","name":"🐲异界┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异世界动漫.json","jar":"./jar/XYQ.jar;md5;9A3FA8EEBD33B1E4CC2A5AD20DFB7C84"},
+{"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Anime1","name":"🐾日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"路漫漫","name":"🚶路漫漫┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/路漫漫.js"},
+{"key":"nt动漫","name":"🧬NT┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/ntdm.js"},
+{"key":"去看吧","name":"💨去看吧┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/去看吧.json"},
+{"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/%e7%bb%b4%e5%a5%87.json"},
+{"key":"drpy_js_妮可动漫","name":"💘妮可┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/妮可动漫.js","jar":"./jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
+{"key":"drpy_js_怡萱动漫","name":"👺怡萱┃动漫","type":3,"api":"./js/lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/%e6%80%a1%e8%90%b1%e5%8a%a8%e6%bc%ab.js","jar":"./jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
 
 
 
