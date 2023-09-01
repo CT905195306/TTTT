@@ -5,64 +5,6 @@
 "sites":
 [
 {"key":"js豆瓣","name":"🐼️熊熊┃推荐","type":3,"api":"./js/lib/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./js/douban.js"},
-{
-            "key": "腾讯资源",
-            "name": "️🐧腾讯影视",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-            "playUrl":"https://jxdp.codermart.net/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        {
-            "key": "芒果资源",
-            "name": "️🥭芒果影视",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
-            "playUrl":"https://vip.lianfaka.com/vip/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        {
-            "key": "爱奇艺资源",
-            "name": "️🥝奇艺影视",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-            "playUrl":"https://jxdp.codermart.net/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        {
-            "key": "优酷资源",
-            "name": "️👔优酷影视",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
-            "playUrl":"https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        {
-            "key": "搜狐资源",
-            "name": "️🦊搜狐影视",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
-            "playUrl":"https://jx.xmflv.com/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-
-{"key":"csp_MeiJu69","name":"♋️69|美剧","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-
 {"key":"csp_YGP","name":"⭕新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"MV_vod","name":"🎸MV┃合集","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
 {"key": "zibo","name": "📻直播┃电台","type": 3,"api": "./js/zb.js","searchable": 1,"quickSearch": 1,"filterable": 1},
