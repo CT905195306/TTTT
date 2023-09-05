@@ -26,10 +26,7 @@
 { "key": "app_轻简", "name": "🐭轻简┃影视", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/", "categories": [ "电影", "电视剧", "综艺", "动漫" ] },
 {"key": "荐片","name": "⏳荐片┃磁力","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key":"新6V","name":"✂️新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
-{"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar"},
-{"key": "csp_XYQHiker_BT天堂","name":"✈️BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar": "./jar/83.jar"},
-{"key": "csp_XYQHiker_极影网","name":"✨极影┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jyw.json","jar": "./jar/83.jar"},
+
 
 
 
@@ -60,6 +57,15 @@
 //{"key":"芒果","name":"🥭芒果┃TV","type":3,"playerType":2,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
 //{"key":"csp_SP33","name":"🍊360┃官源","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"csp_WoGG","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+
+
+
+
+{"key":"新6V","name":"✂️新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
+{"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar"},
+{"key": "csp_XYQHiker_BT天堂","name":"✈️BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar": "./jar/83.jar"},
+{"key": "csp_XYQHiker_极影网","name":"✨极影┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jyw.json","jar": "./jar/83.jar"},
+
 
 
 
