@@ -13,13 +13,13 @@
             "key":"czzy",
             "name":"厂长资源[cat]",
             "type":3,
-            "api":"./js/cat/czzy_open.js"
+            "api":"https://jihulab.com/tt15912/tv/-/raw/master/js/cat/czzy_open.js"
         },
 		 {
             "key":"kkys",
             "name":"快看影视[cat]",
             "type":3,
-            "api":"./js/cat/kkys_open.js"
+            "api":"https://jihulab.com/tt15912/tv/-/raw/master/js/cat/kkys_open.js"
         },
 {"key":"小纸条_cli","name":"📜小纸条┃4K","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt", "timeout":30},
 //{"key":"聚搜","name":"👶聚搜┃俊版","type":4,"api":"http://home.jundie.top:9520/ali/cli_Alii?&token=fcd763eb4e034629a1bfdd8b0dd99ad3","searchable":1,"quickSearch":1,"filterable":1},
