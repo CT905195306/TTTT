@@ -1,5 +1,5 @@
 // 自动从 地址发布页 获取&跳转url地址
-import { Crypto, load, _ } from './js/lib/cat.js';
+import { Crypto, load, _ } from './lib/cat.js';
 
 let key = 'czzy';
 let host = 'https://www.cz01.vip/'; // 厂长地址发布页
