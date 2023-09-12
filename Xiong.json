@@ -24,6 +24,7 @@
 {"key": "荐片","name": "⏳荐片(jun)┃磁力","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"小纸条_cli","name":"📜小纸条(jun)┃4K","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt", "timeout":30}, 
 
+{"key": "荐片","name": "⏳荐片(jun)┃磁力","type": 4,"api": "csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/CT/Tong/raw/branch/master/cat/csp_JP.json"},
 
 //失效{"key":"蚂蚁2","name":"🐜️蚂蚁┃影视","type":3,"api":"csp_AppYsV2","ext":"http://guan.yy365.vip/api.php/app/"},
 //失效{"key": "野兔资源","name": "🐰夜色┃玉兔","type": 1, "playerType":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","categories": ["无敌4K资源","电影","动漫动画","国产剧","日韩剧","泰剧","欧美剧","纪录片"],"searchable": 1,"quickSearch": 1},
