@@ -22,9 +22,9 @@
 {"key":"mybili","name":"🅱️哔哩┃极速","type":3,"api":"https://xhdwc.tk/cat/mybili_open.js"  }, 
 
 
-{"key":"蚂蚁2","name":"🐜️蚂蚁┃影视","type":3,"api":"csp_AppYsV2","ext":"http://guan.yy365.vip/api.php/app/"},
-{"key": "野兔资源","name": "🐰夜色┃玉兔","type": 1, "playerType":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","categories": ["无敌4K资源","电影","动漫动画","国产剧","日韩剧","泰剧","欧美剧","纪录片"],"searchable": 1,"quickSearch": 1},
-{"key": "csp_AList_Alist","name": "🍰小鸭┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xhww.fun:63/小米/源/alist.json"},
+//失效{"key":"蚂蚁2","name":"🐜️蚂蚁┃影视","type":3,"api":"csp_AppYsV2","ext":"http://guan.yy365.vip/api.php/app/"},
+//失效{"key": "野兔资源","name": "🐰夜色┃玉兔","type": 1, "playerType":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","categories": ["无敌4K资源","电影","动漫动画","国产剧","日韩剧","泰剧","欧美剧","纪录片"],"searchable": 1,"quickSearch": 1},
+{"key": "csp_AList_Alist","name": "🍰小鸭┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yywp.json"},
 { "key": "app_轻简", "name": "🐭轻简┃影视", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/", "categories": [ "电影", "电视剧", "综艺", "动漫" ] },
 {"key": "荐片","name": "⏳荐片┃磁力","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
