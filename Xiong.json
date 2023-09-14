@@ -32,17 +32,6 @@
 {"key": "csp_AList_Alist","name": "🍰小鸭┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yywp.json"},
 { "key": "app_轻简", "name": "🐭轻简┃影视", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/", "categories": [ "电影", "电视剧", "综艺", "动漫" ] },
 {"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{
-			"key": "yumi1",
-			"name": "玉米┃APP",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"playerType": 2,
-			"filterable": 1,
-			"ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
-		},
 
 
 
