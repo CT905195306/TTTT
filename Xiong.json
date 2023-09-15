@@ -93,7 +93,7 @@
 {"key":"达达龟","name":"🐢达达┃乌龟","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/达达龟.js"},
 {"key":"耐看","name":"😣耐看┃影视","type":3,"api":"csp_XBPQ","ext":{"分类数组":"swiper-wrapper\"*&&</ul>","分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html","搜索图片":"http://smr.xzam.cn:66/1.jpg"},"jar":"https://jihulab.com/xiaohutx/meisha/-/raw/main/5.jar"},
 {"key":"新片热播","name":"🔷新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
-{"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"https://agit.ai/CT/Tong/raw/commit/806080800a0eed27f7bc784b36e278df4ab19e54/js/lib/drpy2.min.js","ext":"./js/农民.js"},
+{"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"./js/lib/drpy3.min.js","ext":"./js/农民.js"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
 {"key":"影库","name":"😃七七┃影库","type":3,"api":"csp_XBPQ","ext":{"主页url": "http://qqysk.top/","搜索url": "http://qqysk.top/index.php/vod/search.html?wd={wd}","分类": "电影$1#电视剧$2#动漫$4#综艺$3", "分类url": "http://qqysk.top/index.php/vod/type/id/{cateId}.html"},"jar":"./jar/xiaohu5.jar"},
 {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
