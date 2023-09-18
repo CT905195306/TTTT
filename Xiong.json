@@ -16,10 +16,10 @@
 
 {"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://xhdwc.tk/cat/czzy_open.js"  },
 {"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://xhdwc.tk/cat/kkys_open.js"  },
+{"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://cloud.lxweb.cn/f/6AlSw/kunyu77_open.js"},
 {"key":"subaibai","name":"💮素白白┃极速","type":3,"api":"https://xhdwc.tk/cat/subaibai_open.js" },  
 { "key": "zxzj", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/zxzj_open.js"},
-{"key": "nangua","name": "南瓜≛猫猫","type": 3,"api": "https://cloud.lxweb.cn/f/og8IY/ng_open.js","categories": ["电视剧", "电影", "综艺", "动漫"]},
-{"key": "kunyu77","name": "七七≛猫猫","type": 3,"api": "https://cloud.lxweb.cn/f/6AlSw/kunyu77_open.js"},
+{"key": "nangua","name": "🎃南瓜┃极速","type": 3,"api": "https://cloud.lxweb.cn/f/og8IY/ng_open.js","categories": ["电视剧", "电影", "综艺", "动漫"]},
 //{ "key": "wogg", "name": "玩偶｜猫影视app", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext": "23c4d8d16005492487d8bbe83a0fb45a" },
 //{"key":"csp_Ikanbot","name": "🤖爱看┃机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar"},
 //{ "key": "bili", "name": "🅱️哔哩┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bili_open.js"},
