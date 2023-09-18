@@ -52,7 +52,8 @@
                 "大陆综艺"
             ]
         },
-
+        {"key":"奇奇","name":"🍓奇奇┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
+{"key":"奇奇","name":"🎯奇奇┃采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 //{  "key": "廠長",  "name": "🏭厂长┃影视",  "type": 3,  "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",  "searchable": 1,  "changeable": 1},
 //{"key":"csp_Czsapp","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
