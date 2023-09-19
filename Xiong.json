@@ -32,9 +32,9 @@
 
 
 {"key":"蚂蚁","name":"🐜️蚂蚁┃影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"}, 
-{"key":"Ant","name":"🐜蚂蚁┃蓝光","type":3,"playerType":1,"api":"./lib/apiv49drpy2.min.js","ext":"./js/蚂蚁.js"},
-{"key":"畅梦","name":"🛌畅梦┃影视","type":3,"api":"./lib/apiv49drpy2.min.js","ext":"./js/changmeng.js"},
-{"key":"追忆","name": "🏇追忆┃蓝光","type":3,"api":"./lib/apiv49drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
+{"key":"Ant","name":"🐜蚂蚁┃蓝光","type":3,"playerType":1,"api":"./js/lib/drpy2.min.js","ext":"./js/蚂蚁.js"},
+{"key":"畅梦","name":"🛌畅梦┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/changmeng.js"},
+{"key":"追忆","name": "🏇追忆┃蓝光","type":3,"api":"./js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
 {"key": "看B站","name":"🐰B站┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
 "分类url": "https://kanb.tv/Show/{cateId}KKK{class}KKKKK{catePg}KKK{year}.html[http://https://kanb.tv/category/{cateId}.html]",
 "分类": "电影$Movie#电视剧$lianxuju#综艺$Variety#动漫$bilibili#国产$ChinaComics#番剧$fanju"} },
