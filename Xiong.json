@@ -32,6 +32,19 @@
 
 
 {"key":"蚂蚁","name":"🐜️蚂蚁┃影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"}, 
+       {
+            "key": "看B站",
+            "name": "看B站",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://kanb.tv/Show/{cateId}KKK{class}KKKKK{catePg}KKK{year}.html[http://https://kanb.tv/category/{cateId}.html]",
+                "分类": "电影$Movie#电视剧$lianxuju#综艺$Variety#动漫$bilibili#国产$ChinaComics#番剧$fanju"
+            }
+        },
 //失效{"key": "野兔资源","name": "🐰夜色┃玉兔","type": 1, "playerType":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","categories": ["无敌4K资源","电影","动漫动画","国产剧","日韩剧","泰剧","欧美剧","纪录片"],"searchable": 1,"quickSearch": 1},
 {"key": "csp_AList_Alist","name": "🍰小鸭┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yywp.json"},
 { "key": "app_轻简", "name": "🐭轻简┃影视", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/", "categories": [ "电影", "电视剧", "综艺", "动漫" ] },
