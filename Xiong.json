@@ -32,26 +32,15 @@
 
 
 {"key":"蚂蚁","name":"🐜️蚂蚁┃影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"}, 
-       {
-            "key": "看B站",
-            "name": "看B站",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://kanb.tv/Show/{cateId}KKK{class}KKKKK{catePg}KKK{year}.html[http://https://kanb.tv/category/{cateId}.html]",
-                "分类": "电影$Movie#电视剧$lianxuju#综艺$Variety#动漫$bilibili#国产$ChinaComics#番剧$fanju"
-            }
-        },
-{"key": "野兔资源","name": "🐰夜色┃玉兔","type": 1, "playerType":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","categories": ["无敌4K资源","电影","动漫动画","国产剧","日韩剧","泰剧","欧美剧","纪录片"],"searchable": 1,"quickSearch": 1},
+{"key": "看B站","name":"🐰B站┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
+"分类url": "https://kanb.tv/Show/{cateId}KKK{class}KKKKK{catePg}KKK{year}.html[http://https://kanb.tv/category/{cateId}.html]",
+"分类": "电影$Movie#电视剧$lianxuju#综艺$Variety#动漫$bilibili#国产$ChinaComics#番剧$fanju"} },
 {"key": "csp_AList_Alist","name": "🍰小鸭┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yywp.json"},
 { "key": "app_轻简", "name": "🐭轻简┃影视", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/", "categories": [ "电影", "电视剧", "综艺", "动漫" ] },
 {"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"奇奇","name":"🍓奇奇┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 { "key": "jszy", "name": "🎯极速┃App","type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "playUrl":"https://k.playerla.com/?url=", "searchable": 1,"changeable": 1,"quickSearch": 1, "filterable": 1, "categories": ["内地剧","动画片","大陆综艺"]},
-        
+ 
 
 
 //{  "key": "廠長",  "name": "🏭厂长┃影视",  "type": 3,  "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",  "searchable": 1,  "changeable": 1},
@@ -107,7 +96,7 @@
 {"key": "py_央视片库","name": "🌏央视┃片库","type": 3,"api": "py_cctv","ext": "./py/yspk.py"},
 {"key":"南瓜","name":"🎃南瓜┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/南瓜.js"},
 {"key":"黑狐","name":"🦊黑狐┃影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ","ext": {    "主页url": "http://fagmn.com",    "数组": "class=\"stui-vodlist__box\"&&</a",    "图片": "data-original=\"&&\"",    "标题": "title=\"&&\"",    "链接": "href=\"&&\"",    "嗅探词": ".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",    "过滤词": "/hls/#php",    "副标题": "<span class=\"pic-text text-right\">&&</span>",    "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",    "搜索模式": "1",    "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",    "搜索图片": "data-original=\"&&\"",    "搜索标题": "title=\"&&\"",    "搜索链接": "href=\"&&\"",    "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",    "搜索后缀": "/view/",    "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",    "线路标题": ">&&<",    "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",    "状态": "地区：&&</p>",    "导演": "导演：&&</p>",    "主演": "主演：&&</p>",    "简介": "简介：&&</div>",    "播放列表": "<a&&/a>",    "播放标题": ">&&<",    "播放链接": "href=\"&&\"",    "免嗅": "0",    "分类": "电影$1#电视剧$2#动漫$3#综艺$4",    "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}
-        },
+ },
 {"key":"达达龟","name":"🐢达达┃乌龟","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/达达龟.js"},
 {"key":"耐看","name":"😣耐看┃影视","type":3,"api":"csp_XBPQ","ext":{"分类数组":"swiper-wrapper\"*&&</ul>","分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html","搜索图片":"http://smr.xzam.cn:66/1.jpg"},"jar":"https://jihulab.com/xiaohutx/meisha/-/raw/main/5.jar"},
 {"key":"新片热播","name":"🔷新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
