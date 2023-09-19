@@ -44,7 +44,7 @@
 {"key":"奇奇","name":"🍓奇奇┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 { "key": "jszy", "name": "🎯极速┃App","type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "playUrl":"https://k.playerla.com/?url=", "searchable": 1,"changeable": 1,"quickSearch": 1, "filterable": 1, "categories": ["内地剧","动画片","大陆综艺"]},
  
-
+{"key":"极速","name":"️🏃极速┃资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
 
 //{  "key": "廠長",  "name": "🏭厂长┃影视",  "type": 3,  "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",  "searchable": 1,  "changeable": 1},
 //{"key":"csp_Czsapp","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
