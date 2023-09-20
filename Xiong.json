@@ -238,7 +238,7 @@
 {"key": "py_dashan","name": "💋搭讪┃教程","type": 3,"api": "py_dashan","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.shangui.cc/f/M0g3Iy/%E6%90%AD%E8%AE%AA.py"},
 {"key": "py_dapei","name": "💃搭配┃教程","type": 3,"api": "py_dapei","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.shangui.cc/f/YJKkhy/%E6%90%AD%E9%85%8D.py"},
 { "key": "csp_Bili", "name": "🅱️哔哩┃综合", "type": 3, "api": "csp_Bili", "searchable": 1, "quickSearch": 0, "filterable": 1,"ext": "https://agit.ai/CT/TT/raw/branch/master/bili.json"},
-{"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Bili.json"},
+{"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/Bili.json"},
 {"key": "js_B站精简","name": "🅱️哔哩┃精简","type": 3,"api": "https://jihulab.com/tt15912/tv/-/raw/master/js/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.shangui.cc/f/ANbzsy/B%E7%AB%99%E7%B2%BE%E7%AE%80.js"},
 {"key": "py_meishi","name": "🅱️美食┃合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.shangui.cc/f/o2yNc7/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.py"},
 {"key": "py_zyy","name": "🅱️中医┃药区","type": 3,"api": "py_zyy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/zyy.py"},
