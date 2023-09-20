@@ -278,8 +278,8 @@
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_Aid","name":"🚑︎急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio": 3.8},
-"jar":"https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"},
+//{"key":"csp_Aid","name":"🚑︎急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio": 3.8},"jar":"https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"},
+{"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio": 3.8}},
 
 {"key": "py_youer","name": "🅱️幼儿┃教育","type": 3,"api": "py_youer","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/youer.py"},
 {"key": "py_xiaoxue","name": "🅱️小学┃教育","type": 3,"api": "py_xiaoxue","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/xiaoxue.py"},
