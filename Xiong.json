@@ -21,11 +21,10 @@
 { "key": "zxzj", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/zxzj_open.js"},
 {"key": "nangua","name": "🎃南瓜┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/ng_open.js","categories": ["电视剧", "电影", "综艺", "动漫"]},
 { "key": "bili", "name": "🅱️哔哩┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bili_open.js" ,"searchable": 1,"changeable": 0,"ext": {"categories": "沙雕动画#沙雕穿越#沙雕","cookie": "" }},
-{ "key": "bookan", "name": "📚book┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
 { "key": "boosj", "name": "🧗‍童趣┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
 { "key": "cntv", "name": "🎯新闻┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/cntv_open.js"},
 { "key": "tuxiaobei", "name": "🐰兔小贝┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/tuxiaobei_open.js"},
-
+{ "key": "bookan", "name": "📚book┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
 //{"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://xhdwc.tk/cat/czzy_open.js"  },
 //{"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://xhdwc.tk/cat/kkys_open.js"  },
 //{"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://cloud.lxweb.cn/f/6AlSw/kunyu77_open.js"},
@@ -36,7 +35,7 @@
 //{"key":"csp_Ikanbot","name": "🤖爱看┃机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar"},
 {"key": "ok","name": "🏝️Free┃极速","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 
-{ "key": "js_童趣", "name": "🧗‍童趣┃搜视", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/tongqu.js" },
+
 
 {"key":"哔哩","name":"🅱️哔哩(jun)┃合集","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=mp4","ext":{"type":"抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会#美食"},"searchable":1,"quickSearch":1,"filterable":1},
 { "key":"csp_woggcli", "name":"📕玩偶(jun)┃4K", "type":4, "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=d16c20edf3084319a144f5d54de74365", "searchable":1, "quickSearch":1, "filterable":1},
@@ -104,6 +103,7 @@
 
 
 
+{ "key": "js_童趣", "name": "🧗‍童趣┃搜视", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/tongqu.js" },
 {"key":"MV_vod","name":"🎸MV┃合集","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
 {"key": "zibo","name": "📻直播┃电台","type": 3,"api": "./js/zb.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "py_央视片库","name": "🌏央视┃片库","type": 3,"api": "py_cctv","ext": "./py/yspk.py"},
@@ -115,6 +115,7 @@
 {"key":"新片热播","name":"🔷新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
 {"key":"影库","name":"😃七七┃影库","type":3,"api":"csp_XBPQ","ext":{"主页url": "http://qqysk.top/","搜索url": "http://qqysk.top/index.php/vod/search.html?wd={wd}","分类": "电影$1#电视剧$2#动漫$4#综艺$3", "分类url": "http://qqysk.top/index.php/vod/type/id/{cateId}.html"},"jar":"./jar/xiaohu5.jar"},
+{"key":"YQK","name":"🎉一起看┃App","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"迷你库","name":"Ⓜ️迷你库┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"迪迪","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
