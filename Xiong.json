@@ -115,7 +115,7 @@
 {"key":"新片热播","name":"🔷新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
 {"key":"影库","name":"😃七七┃影库","type":3,"api":"csp_XBPQ","ext":{"主页url": "http://qqysk.top/","搜索url": "http://qqysk.top/index.php/vod/search.html?wd={wd}","分类": "电影$1#电视剧$2#动漫$4#综艺$3", "分类url": "http://qqysk.top/index.php/vod/type/id/{cateId}.html"},"jar":"./jar/xiaohu5.jar"},
-{"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar": "./jar/nb3.jar;md5;F5BC56DF4FF888488B226132FF3F8CD0"},
+//{"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar": "./jar/nb3.jar;md5;F5BC56DF4FF888488B226132FF3F8CD0"},
 {"key":"YQK","name":"🎉一起看┃App","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top","jar": "./jar/nb3.jar;md5;F5BC56DF4FF888488B226132FF3F8CD0"},
 {"key":"迷你库","name":"Ⓜ️迷你库┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"迪迪","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
