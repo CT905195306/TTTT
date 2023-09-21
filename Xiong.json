@@ -87,9 +87,9 @@
 
 
 {"key":"新6V","name":"✂️新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
-{"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar"},
-{"key": "csp_XYQHiker_BT天堂","name":"✈️BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar": "./jar/83.jar"},
-{"key": "csp_XYQHiker_极影网","name":"✨极影┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jyw.json","jar": "./jar/83.jar"},
+{"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
+{"key": "csp_XYQHiker_BT天堂","name":"✈️BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
+{"key": "csp_XYQHiker_极影网","name":"✨极影┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jyw.json","jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
 
 
 
