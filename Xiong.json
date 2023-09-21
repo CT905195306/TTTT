@@ -22,14 +22,14 @@
 {"key": "nangua","name": "🎃南瓜┃极速","type": 3,"api": "https://cloud.lxweb.cn/f/og8IY/ng_open.js","categories": ["电视剧", "电影", "综艺", "动漫"]},
 { "key": "bili", "name": "🅱️哔哩┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bili_open.js" ,"searchable": 1,"changeable": 0,"ext": {"categories": "沙雕动画#沙雕穿越#沙雕","cookie": "" }},
 
-//{ "key": "wogg", "name": "玩偶｜猫影视app", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext": "23c4d8d16005492487d8bbe83a0fb45a" },
+//{ "key": "wogg", "name": "玩偶｜猫影视app", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext": "d16c20edf3084319a144f5d54de74365" },
 //{"key":"csp_Ikanbot","name": "🤖爱看┃机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar"},
 {"key": "ok","name": "🏝️Free┃OK","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 
 { "key": "js_童趣", "name": "🧗‍童趣┃搜视", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/tongqu.js" },
 
 {"key":"哔哩","name":"🅱️哔哩(jun)┃合集","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=mp4","ext":{"type":"抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会#美食"},"searchable":1,"quickSearch":1,"filterable":1},
-{ "key":"csp_woggcli", "name":"📕玩偶(jun)┃4K", "type":4, "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=23c4d8d16005492487d8bbe83a0fb45a", "searchable":1, "quickSearch":1, "filterable":1},
+{ "key":"csp_woggcli", "name":"📕玩偶(jun)┃4K", "type":4, "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=d16c20edf3084319a144f5d54de74365", "searchable":1, "quickSearch":1, "filterable":1},
 //{"key": "荐片","name": "⏳荐片(jun)┃磁力","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"小纸条_cli","name":"📜小纸条(jun)┃4K","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt", "timeout":30}, 
 
