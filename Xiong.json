@@ -21,10 +21,10 @@
 { "key": "zxzj", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/zxzj_open.js"},
 {"key": "nangua","name": "🎃南瓜┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/ng_open.js","categories": ["电视剧", "电影", "综艺", "动漫"]},
 { "key": "bili", "name": "🅱️哔哩┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bili_open.js" ,"searchable": 1,"changeable": 0,"ext": {"categories": "沙雕动画#沙雕穿越#沙雕","cookie": "" }},
-{ "key": "bkk", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
-{ "key": "tqq", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
+{ "key": "bookan", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
+{ "key": "boosj", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
 { "key": "cntv", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/cntv_open.js"},
-{ "key": "liv", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/libvio_open.js"},
+
 
 //{"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://xhdwc.tk/cat/czzy_open.js"  },
 //{"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://xhdwc.tk/cat/kkys_open.js"  },
