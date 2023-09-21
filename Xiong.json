@@ -24,8 +24,9 @@
 
 //{ "key": "wogg", "name": "玩偶｜猫影视app", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext": "23c4d8d16005492487d8bbe83a0fb45a" },
 //{"key":"csp_Ikanbot","name": "🤖爱看┃机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar"},
+{"key": "ok","name": "🏝️Free┃OK","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 
-{ "key": "js_童趣", "name": "🧗‍童趣┃搜视", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/tongqu.js" },
+{ "key": "js_童趣", "name": "🧗‍童趣┃搜视", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/tongqu.js" },
 
 {"key":"哔哩","name":"🅱️哔哩(jun)┃合集","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=mp4","ext":{"type":"抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会#美食"},"searchable":1,"quickSearch":1,"filterable":1},
 { "key":"csp_woggcli", "name":"📕玩偶(jun)┃4K", "type":4, "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=23c4d8d16005492487d8bbe83a0fb45a", "searchable":1, "quickSearch":1, "filterable":1},
@@ -158,8 +159,6 @@
 
 
 { "key": "csp_mdd", "name": "🥚萌蛋蛋┃影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://app.mengdandan.com/xgapp.php/v1/" }, 
-{"key": "ok","name": "🏝️Free┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}
-},
 {"key":"PP","name":"🐯胖虎┃影视","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"img+http://gh.t4tv.hz.cz/newjar.bmp;md5;0fb8ce58262f4a75345dc190bdc8815b"},
 {"key":"鸭奈飞","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key": "热播库","name": "🌭热播┃之家","type": 3,"api": "csp_XBPQ","ext": "http://xhww.fun:63/小米/源/热播.json"},
@@ -278,7 +277,7 @@
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_Aid","name":"🚑︎急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio": 3.8},"jar":"./jar/aid.jar;md5;510FA1663F7067BD4D40DE06097202BF"},
+//{"key":"csp_Aid","name":"🚑︎急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio": 3.8},"jar":"./jar/aid.jar;md5;510FA1663F7067BD4D40DE06097202BF"},
 {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio": 3.8}},
 
 {"key": "py_youer","name": "🅱️幼儿┃教育","type": 3,"api": "py_youer","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/youer.py"},
