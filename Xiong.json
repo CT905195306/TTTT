@@ -35,7 +35,6 @@
 
 
 {"key":"蚂蚁","name":"🏇蚂蚁┃直连","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
-{"key":"Ant","name":"🐜️蚂蚁┃蓝光","type":3,"playerType":1,"api":"./js/lib/drpy2.min.js","ext":"./js/蚂蚁.js"},
 {"key":"Yumi","name":"🌽Yumi┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Yumi影视.js"},
 {"key": "看B站","name":"🐰B站┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
 "分类url": "https://kanb.tv/Show/{cateId}KKK{class}KKKKK{catePg}KKK{year}.html[http://https://kanb.tv/category/{cateId}.html]",
@@ -43,7 +42,6 @@
 {"key": "csp_AList_Alist","name": "🍰小鸭┃网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yywp.json"},
 { "key": "app_轻简", "name": "🐭轻简┃影视", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/", "categories": [ "电影", "电视剧", "综艺", "动漫" ] },
 {"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key":"奇奇","name":"🍓奇奇┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 //{ "key":"jszy", "name":"🎯极速┃App","type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "playUrl":"https://k.playerla.com/?url=","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","动画片","大陆综艺"]},
 {"key":"极速","name":"️🎯极速┃App","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
 
@@ -161,7 +159,6 @@
 { "key": "csp_mdd", "name": "🥚萌蛋蛋┃影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://app.mengdandan.com/xgapp.php/v1/" }, 
 {"key":"PP","name":"🐯胖虎┃影视","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"img+http://gh.t4tv.hz.cz/newjar.bmp;md5;0fb8ce58262f4a75345dc190bdc8815b"},
 {"key":"鸭奈飞","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
-{"key": "热播库","name": "🌭热播┃之家","type": 3,"api": "csp_XBPQ","ext": "http://xhww.fun:63/小米/源/热播.json"},
 {"key":"南瓜影视","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
 {"key":"时常影视","name":"🔯时常┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/QJ.jar;md5;CEE9F2D2DB9E38F46933D836A9D8B674"},
 
@@ -177,7 +174,6 @@
 //{"key":"乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/乐猪.json"}, 
 {"key": "csp_XBPQ_茉莉","name": "🌼茉莉┃高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"{ 
 \"免嗅\":\"0\",\"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",\"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"简介\":\"class=\\\"left text-muted\\\"&&</span>\", \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",\"分类url\":\"https://hdmoli.com/mlist/index{cateId}-{catePg}.html\"}"},
-{"key": "csp_XBPQ_御龙","name": "🐉御龙┃高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yulong.json"},
 {"key":"csp_xml_可米","name":"🛎可米┃影视","type":1,"api":"https://cj.kemi.lol/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_XBPQ_奇优","name": "🧼奇优┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/奇优影院.json"},
 {"key":"zy_新浪资源","name":"🏄🏻新浪┃资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","体育"]},
