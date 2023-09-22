@@ -16,7 +16,7 @@
 {"key": "ok","name": "🏝️Free┃极速","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 {"key":"csp_Ikanbot","name": "🤖爱看┃机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar;md5;0850B28AB78744D5360AF1A6E00593F1"},
 
-
+{ "key": "wogg", "name":"😼玩偶┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext": "d16c20edf3084319a144f5d54de74365" },
 {"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/czzy_open.js"  },
 {"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kkys_open.js"  },
 {"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/kunyu77_open.js"},
@@ -34,7 +34,7 @@
 //{"key":"subaibai","name":"💮素白白┃极速","type":3,"api":"https://xhdwc.tk/cat/subaibai_open.js" },  
 //{"key": "nangua","name": "🎃南瓜┃极速","type": 3,"api": "https://cloud.lxweb.cn/f/og8IY/ng_open.js","categories": ["电视剧", "电影", "综艺", "动漫"]},
 
-{ "key": "wogg", "name": "玩偶┃猫影视app", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext": "d16c20edf3084319a144f5d54de74365" },
+
 
 
 
