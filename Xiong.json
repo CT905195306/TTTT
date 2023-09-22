@@ -59,76 +59,15 @@
 {"key":"csp_Vofl","name":"🎈Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_Ysgc","name":"🏭工场┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.ysgc1.cc/"},
-{"key": "csp_XBPQ_JOJO", "name": "👲🏿JOJO┃直连", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {
-				"二次截取": "class=\"content-body\"&&class=\"content-lift\"",
-				"数组": "<a&&</a>",
-				"图片": "src=\"&&\"",
-				"标题": "class=\"card-title\">&&</p>",
-				"副标题": "class=\"item-speed\">&&</p>",
-				"链接": "href=\"&&\"",
-				"播放数组": "class=\"plyr-sidebar-list&&</div>",
-				"嗅探词": "aliyundrive.net#cn-beijing-data.aliyundrive.net#alicloudccp.com#srcurity-token",
-				"搜索url": "https://jojo.bdys.top/video/search?q={wd}",
-				"分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
-				"分类url": "https://jojo.bdys.top/video/{cateId}?page={catePg}&size=18;;u0"
-			}
-		},
+{"key": "csp_XBPQ_JOJO", "name": "👲🏿JOJO┃直连", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"二次截取": "class=\"content-body\"&&class=\"content-lift\"","数组": "<a&&</a>","图片": "src=\"&&\"","标题": "class=\"card-title\">&&</p>","副标题": "class=\"item-speed\">&&</p>","链接": "href=\"&&\"","播放数组": "class=\"plyr-sidebar-list&&</div>","嗅探词": "aliyundrive.net#cn-beijing-data.aliyundrive.net#alicloudccp.com#srcurity-token","搜索url": "https://jojo.bdys.top/video/search?q={wd}","分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录","分类url": "https://jojo.bdys.top/video/{cateId}?page={catePg}&size=18;;u0"}},
 
 
-{
-    "key": "素白",
-    "name": "🦢素白白┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://我不是.肥猫.love:63/json/素白白.json"
-    },
-    {
-    "key": "虎虎",
-    "name": "🐯虎虎┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
-    },  
-{
-   "key": "熊猫",
-   "name": "🐼熊猫┃影视",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "ext": {
-      "简介": "<p>&&</p>",
-      "主演": "主演：class=\"module-info-item-title\">&&</span>",
-      "导演": "导演：&&</span>",
-      "影片年代": "年份：&&</li>",
-      "影片地区": "地区：&&</li>",
-      "影片类型": "类型：&&</li>",
-      "影片状态": "更新：&&</span>",
-      "数组": "<a&&</div></div></a>",
-      "标题": "title=\"&&\"",
-      "图片": "data-original=\"&&\"",
-      "链接": "href=\"&&\"",
-      "副标题": "<div class=\"module-item-note\">&&</div>",
-      "线路数组": "data-dropdown-value=&&</div>[排序:索尼>快看]",
-      "线路标题": "<span>&&</small>[替换:</span><small>>>🐼共]+集",
-      "播放数组": "<div class=\"module-play-list\">&&</div>",
-      "播放标题": "<span>&&</span>",
-      "播放列表": "<a&&</a>",
-      "播放链接": "href=\"&&\"",
-      "分类": "电影&电视剧&综艺&动漫",
-      "分类值": "52&69&77&75",
-      "分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
-   }
-},
-    {
-      "key": "YQK_spider",
-      "name": "🙆一起┃电视",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://hk-api-cf.yqk5659.com"
-    },
+{ "key": "素白","name": "🦢素白白┃影视","type": 3,"api": "csp_XBPQ","ext": "http://我不是.肥猫.love:63/json/素白白.json" },
+{"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "http://我不是.肥猫.love:63/json/虎虎.json" },  
+{"key": "熊猫","name": "🐼熊猫┃影视","type": 3,"api": "csp_XBPQ","ext": {"简介": "<p>&&</p>","主演": "主演：class=\"module-info-item-title\">&&</span>","导演": "导演：&&</span>","影片年代": "年份：&&</li>","影片地区": "地区：&&</li>","影片类型": "类型：&&</li>","影片状态": "更新：&&</span>","数组": "<a&&</div></div></a>","标题": "title=\"&&\"","图片": "data-original=\"&&\"","链接": "href=\"&&\"","副标题": "<div class=\"module-item-note\">&&</div>","线路数组": "data-dropdown-value=&&</div>[排序:索尼>快看]","线路标题": "<span>&&</small>[替换:</span><small>>>🐼共]+集","播放数组": "<div class=\"module-play-list\">&&</div>","播放标题": "<span>&&</span>","播放列表": "<a&&</a>","播放链接": "href=\"&&\"","分类": "电影&电视剧&综艺&动漫","分类值": "52&69&77&75","分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"}},
+
+{"key": "YQK_spider","name": "🙆一起┃电视","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://hk-api-cf.yqk5659.com","jar":"http://我不是.肥猫.love:63/Jar/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"},
+
 {"key":"蚂蚁","name":"🐜蚂蚁┃直连","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 {"key":"Yumi","name":"🌽Yumi┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Yumi影视.js"},
 {"key": "看B站","name":"🐰B站┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
