@@ -27,6 +27,7 @@
 { "key": "boosj", "name": "🧗‍童趣┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
 { "key": "cntv", "name": "🎯新闻┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/cntv_open.js"},
 { "key": "tuxiaobei", "name": "🐰兔小贝┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/tuxiaobei_open.js"},
+{ "key": "贝乐虎", "name": "🐱贝乐虎┃极速", "searchable": 1,"quickSearch": 1,"filterable": 1,"type": 3,"style":{ "type":"rect", "ratio":0.8 },"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/Be_open.js"},
 { "key": "bookan", "name": "📚book┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
 //{"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://xhdwc.tk/cat/czzy_open.js"  },
 //{"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://xhdwc.tk/cat/kkys_open.js"  },
