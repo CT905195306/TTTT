@@ -91,8 +91,7 @@
 //{  "key": "快看",  "name": "👀快看┃App",  "type": 3,  "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",  "searchable": 1,  "changeable": 1},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷影2","name": "💡酷影┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
-{"key":"京项","name": "京项┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/京项影视.js"},
-{"key": "4K视界","name": "4K☆视界","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://yycms.77ev.cn/api.php/app/"},
+{"key": "4K视界","name": "4K☆┃视界","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://yycms.77ev.cn/api.php/app/"},
 
 
 {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/js/lib/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0},
