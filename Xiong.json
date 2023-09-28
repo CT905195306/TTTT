@@ -11,27 +11,9 @@
 {"key":"yc","name":"☄️影巢┃4K","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./jar/tok.txt","jar":"./jar/app.jar"},
 //{"key": "csp_KungFu404","name":"⚙️阿里┃设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/阿里设置.txt"},
 {"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
-{
-      "key": "App热剧",
-      "name": "🐱热剧猫┃4K",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://notabug.org/ymz123/ymz/raw/master/Js/%e7%83%ad%e5%89%a7%e7%8c%ab.js"
-    },
-{
-      "key": "追忆",
-      "name": "🍼追忆┃4K",
-      "type": 3,
-      "api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://smallmi.xiaohewanwan.love:63/zhuiyi.js"
-    },
+{"key": "追忆","name": "🍼追忆┃4K","type": 3,"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://smallmi.xiaohewanwan.love:63/zhuiyi.js"},
+{"key": "App热剧","name": "🐱热剧猫┃4K","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://notabug.org/ymz123/ymz/raw/master/Js/%e7%83%ad%e5%89%a7%e7%8c%ab.js"},
+
 
 {"key": "ok","name": "🏝️Free┃极速","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 {"key":"csp_Ikanbot","name": "🤖爱看┃机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar;md5;0850B28AB78744D5360AF1A6E00593F1"},
@@ -167,29 +149,7 @@
 {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar": "./jar/nb3.jar;md5;F5BC56DF4FF888488B226132FF3F8CD0"},
 //{"key": "YQK_spider","name": "🎉一起看┃App","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "","jar":"./jar/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"},
 //{"key":"YQK","name":"🎉一起看┃App","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top","jar": "./jar/nb3.jar;md5;F5BC56DF4FF888488B226132FF3F8CD0"},
-{"key": "熊猫","name": "🐼熊猫┃影视","type": 3,"api": "csp_XBPQ","ext":{
-      "简介": "<p>&&</p>",
-      "主演": "主演：class=\"module-info-item-title\">&&</span>",
-      "导演": "导演：&&</span>",
-      "影片年代": "年份：&&</li>",
-      "影片地区": "地区：&&</li>",
-      "影片类型": "类型：&&</li>",
-      "影片状态": "更新：&&</span>",
-      "数组": "<a&&</div></div></a>",
-      "标题": "title=\"&&\"",
-      "图片": "data-original=\"&&\"",
-      "链接": "href=\"&&\"",
-      "副标题": "<div class=\"module-item-note\">&&</div>",
-      "线路数组": "data-dropdown-value=&&</div>[排序:索尼>快看]",
-      "线路标题": "<span>&&</small>[替换:</span><small>>>🐼共]+集",
-      "播放数组": "<div class=\"module-play-list\">&&</div>",
-      "播放标题": "<span>&&</span>",
-      "播放列表": "<a&&</a>",
-      "播放链接": "href=\"&&\"",
-      "分类": "电影&电视剧&综艺&动漫",
-      "分类值": "52&69&77&75",
-      "分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
-   }},
+{"key": "熊猫","name": "🐼熊猫┃影视","type": 3,"api": "csp_XBPQ","ext":{"简介": "<p>&&</p>","主演": "主演：class=\"module-info-item-title\">&&</span>","导演": "导演：&&</span>","影片年代": "年份：&&</li>","影片地区": "地区：&&</li>","影片类型": "类型：&&</li>","影片状态": "更新：&&</span>","数组": "<a&&</div></div></a>","标题": "title=\"&&\"","图片": "data-original=\"&&\"","链接": "href=\"&&\"","副标题": "<div class=\"module-item-note\">&&</div>","线路数组": "data-dropdown-value=&&</div>[排序:索尼>快看]","线路标题": "<span>&&</small>[替换:</span><small>>>🐼共]+集","播放数组": "<div class=\"module-play-list\">&&</div>","播放标题": "<span>&&</span>","播放列表": "<a&&</a>","播放链接": "href=\"&&\"","分类": "电影&电视剧&综艺&动漫","分类值": "52&69&77&75","分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"}},
 
    
 {"key":"迷你库","name":"Ⓜ️迷你库┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
