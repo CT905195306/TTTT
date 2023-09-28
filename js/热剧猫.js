@@ -1,4 +1,4 @@
-    var rule = {
+ var rule = {
         title: '热剧猫', // csp_AppYsV2
         host: 'http://v.aaaa0.top:2525',
         hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
