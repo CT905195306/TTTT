@@ -16,7 +16,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://smallmi.xiaohewanwan.love:63/zhuiyi.js"
+      "ext": "./js/追忆.js"
     },
 {"key": "App热剧","name": "🐱热剧猫┃4K","type": 3,
       "playerType": 2,
@@ -24,7 +24,7 @@
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://notabug.org/ymz123/ymz/raw/master/Js/%e7%83%ad%e5%89%a7%e7%8c%ab.js"
+      "ext": "./js/热剧猫.js"
     },
 {"key": "csp_Alistxy","name": "♻️Alist┃4K","type": 3,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar;md5;CAF2D12E5D059B70E2B2B7DA5A09F743","api": "csp_AListxy","searchable": 1,"quickSearch": 1,"ext": {  "drives": [    
 {"name": "💢小雅1","server": "http://124.71.206.236:5678","version": 3 },
