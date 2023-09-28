@@ -28,7 +28,7 @@
 { "key": "cntv", "name": "🎯新闻┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/cntv_open.js"},
 { "key": "tuxiaobei", "name": "🐰兔小贝┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/tuxiaobei_open.js"},
 { "key": "贝乐虎", "name": "🐯贝乐虎┃极速", "searchable": 1,"quickSearch": 1,"filterable": 1,"type": 3,"style":{ "type":"rect", "ratio":0.8 },"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/Be_open.js"},
-{ "key": "dsp", "name": "📗短视频┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/dsp_open.js"},
+{ "key": "dsp", "name": "📱短视频┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/dsp_open.js"},
 
 { "key": "bookan", "name": "📚book┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
 //{"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://xhdwc.tk/cat/czzy_open.js"  },
@@ -135,7 +135,7 @@
 
 
 { "key": "js_童趣", "name": "🧗‍童趣┃搜视", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/tongqu.js" },
-{"key":"MV_vod","name":"🎸MV┃合集","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
+{"key":"MV_vod","name":"🎻MV┃合集","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
 {"key": "zibo","name": "📻直播┃电台","type": 3,"api": "./js/zb.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "py_央视片库","name": "🌏央视┃片库","type": 3,"api": "py_cctv","ext": "./py/yspk.py"},
 {"key":"南瓜","name":"🎃南瓜┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/南瓜.js"},
