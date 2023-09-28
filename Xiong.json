@@ -13,7 +13,7 @@
 {"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
 {
       "key": "App热剧",
-      "name": "🐱┃剧猫┃4K",
+      "name": "🐱热剧猫┃4K",
       "type": 3,
       "playerType": 2,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
@@ -24,7 +24,7 @@
     },
 {
       "key": "追忆",
-      "name": "🍼┃追忆┃4K",
+      "name": "🍼追忆┃4K",
       "type": 3,
       "api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js",
       "searchable": 1,
