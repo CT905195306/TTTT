@@ -11,8 +11,8 @@
 {"key":"yc","name":"☄️影巢┃4K","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./jar/tok.txt","jar":"./jar/app.jar"},
 //{"key": "csp_KungFu404","name":"⚙️阿里┃设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/阿里设置.txt"},
 {"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
-{"key": "追忆","name": "🍼追忆┃4K","type": 3,"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://smallmi.xiaohewanwan.love:63/zhuiyi.js"},
-{"key": "App热剧","name": "🐱热剧猫┃4K","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://notabug.org/ymz123/ymz/raw/master/Js/%e7%83%ad%e5%89%a7%e7%8c%ab.js"},
+{"key": "追忆","name": "🍼追忆┃4K","type": 3,"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js追忆.js"},
+{"key": "App热剧","name": "🐱热剧猫┃4K","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js热剧猫.js"},
 {"key": "csp_Alistxy","name": "♻️Alist┃4K","type": 3,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar;md5;CAF2D12E5D059B70E2B2B7DA5A09F743","api": "csp_AListxy","searchable": 1,"quickSearch": 1,"ext": {  "drives": [    
 {"name": "💢小雅1","server": "http://124.71.206.236:5678","version": 3 },
 {"name": "💢小雅2","server": "http://112.10.205.74:5678","version": 3 },   
