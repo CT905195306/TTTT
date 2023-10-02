@@ -35,8 +35,6 @@
 { "key": "贝乐虎", "name": "🐯贝乐虎┃极速", "searchable": 1,"quickSearch": 1,"filterable": 1,"type": 3,"style":{ "type":"rect", "ratio":0.8 },"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/Be_open.js"},
 //{ "key": "dsp", "name": "📱短视频┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/dsp_open.js"},
 { "key": "bookan", "name": "📚book┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
-{"key": "zhaifu","name": "奥秘宅腐","type": 3,"api": "csp_AppYsV2","ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
-{"key": "suoni","name": "奥秘索尼","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/caiji.js","ext": {    "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",   "categories": [ "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "海外剧", "大陆综艺", "国产动漫"    ]}},
 //{"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://xhdwc.tk/cat/czzy_open.js"  },
 //{"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://xhdwc.tk/cat/kkys_open.js"  },
 //{"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://cloud.lxweb.cn/f/6AlSw/kunyu77_open.js"},
