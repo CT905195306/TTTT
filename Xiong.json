@@ -11,8 +11,8 @@
 {"key":"yc","name":"☄️影巢┃4K","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./jar/tok.txt","jar":"./jar/app.jar"},
 //{"key": "csp_KungFu404","name":"⚙️阿里┃设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/阿里设置.txt"},
 {"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
-{ "key":"Mino", "name":"Mino", "type":3, "api":"csp_Appto", "searchable":1, "quickSearch":1, "changeable":1, "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx" }, 
-{ "key":"追忆", "name":"追忆", "type":3, "api":"csp_Appto", "searchable":1, "quickSearch":1, "changeable":1, "ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE" },
+{"key":"Mino","name":"👻Mino┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
+{"key":"追忆","name":"✌追忆┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
 {"key": "App热剧","name": "🐱热剧猫┃4K","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
 {"key": "csp_Alistxy","name": "♻️Alist┃4K","type": 3,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar;md5;CAF2D12E5D059B70E2B2B7DA5A09F743","api": "csp_AListxy","searchable": 1,"quickSearch": 1,"ext": {"drives": [    
 {"name": "💢小雅1","server": "http://124.71.206.236:5678","version": 3 },
