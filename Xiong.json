@@ -23,6 +23,23 @@
 {"key":"csp_Ikanbot","name": "🤖爱看┃机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar;md5;0850B28AB78744D5360AF1A6E00593F1"},
 {"key":"Mino","name":"👻Mino┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
 
+{    "key": "蜗牛弹幕",
+                "name": "🐌蜗牛┃影视",
+				                "type": 3,
+								                "api": "csp_XBPQ",
+												                "ext": {
+																 "简介":"class=\"video-info-item video-info-content vod_content\">&&</span>",               
+																  "数组":"class=\"module-item-text\"&&class=\"loading\"",
+																    "线路数组":"data-dropdown-value=&&</div>",
+																	   "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",        
+																	    "副标题":" class=\"module-item-text\">&&</div>",   
+																		 "分类":"电影$1#日韩剧$21#海外剧$2#动漫$20",   
+																		     "分类url":"https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"   
+																			         }
+																					         },
+
+																							 {"key":"快帆","name":"⛵快帆┃影视","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
+
 { "key": "wogg", "name":"😼玩偶┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext":"./jar/tok.txt"},
 {"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/czzy_open.js"},
 {"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kkys_open.js"},
