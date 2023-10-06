@@ -18,18 +18,8 @@
 {"name": "💢小雅3","server": "http://182.120.114.23:5678","version": 3 },
 {"name": "💢小雅4","server": "https://222.248.200.97:8765","version": 3 }]}},
 
-{
-      "key": "csp_好戏",
-      "name": "好戏影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rihou.vip:88/hccx/好戏影视.json"
 
-     
-    },
+
 {"key": "ok","name": "🏝️Free┃极速","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 {"key":"csp_Ikanbot","name": "🤖爱看┃机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar;md5;0850B28AB78744D5360AF1A6E00593F1"},
 {"key":"Mino","name":"👻Mino┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
@@ -94,14 +84,15 @@
 {"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },  
 
 {"key": "蜗牛弹幕","name": "🐌蜗牛┃影视","type": 3,"api": "csp_XBPQ","ext": {
-"简介":"class=\"video-info-item video-info-content vod_content\">&&</span>",               
+"简介":"class=\"video-info-item video-info-content vod_content\">&&</span>",   
 "数组":"class=\"module-item-text\"&&class=\"loading\"",
 "线路数组":"data-dropdown-value=&&</div>",
-"线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",        
+"线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",  
 "副标题":" class=\"module-item-text\">&&</div>",   
 "分类":"电影$1#日韩剧$21#海外剧$2#动漫$20",   
 "分类url":"https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"   }},
 {"key":"快帆","name":"⛵快帆┃影视","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
+{"key": "csp_好戏","name": "💥好戏┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/好戏影视.json"},
 
 {"key":"蚂蚁","name":"🐜蚂蚁┃直连","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 {"key":"Yumi","name":"🌽Yumi┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Yumi影视.js"},
