@@ -27,7 +27,7 @@
 
 
 { "key": "wogg", "name":"😼玩偶┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext":"./jar/tok.txt"},
-{"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/czzy_open.js"},
+//{"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/czzy_open.js"},
 {"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kkys_open.js"},
 {"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/kunyu77_open.js"},
 {"key":"subaibai","name":"💮素白白┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/subaibai_open.js" },  
@@ -94,10 +94,8 @@
 {"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },  
 {"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js",
 "ext":"./js/mimiju.js"},
-{"key":"drp迷迷剧","name":"🔥B┃短剧","type":3,"api":"./js/lib/drpy2.min.js",
-"ext":"./js/pz.js"},
-{"key":"dr剧","name":"🔥354┃短剧","type":3,"api":"./js/lib/drpy2.min.js",
-"ext":"./js/354.js"},
+{"key":"B站","name":"🔥B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
+{"key":"dr剧","name":"🔥354┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/354.js"},
 {"key":"py_bilibili","name":"💋bb┃直播","type":3,"api":"py_bilibili","ext":"./py/bilibili.py"},
 
 {"key": "蜗牛弹幕","name": "🐌蜗牛┃影视","type": 3,"api": "csp_XBPQ","ext": {
