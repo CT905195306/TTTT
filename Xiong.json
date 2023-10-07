@@ -96,12 +96,11 @@
 "ext":"./js/mimiju.js"},
 {"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
 {"key":"354","name":"🌟‍354┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/354.js"},
-{"key":"188","name":"🌟‍188┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/188.js"},
-{"key":"539","name":"🌟‍539┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/539.js"},
-{"key":"91","name":"🌟‍19┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
-{"key":"Auete","name":"🌟‍Auete┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Auete.js"},
-{"key":"icio","name":"🌟‍icio┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/icio.js"},
-{"key":"justlive","name":"🌟justlive┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/justlive.js"},
+
+
+{"key":"91","name":"🌟‍91free┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
+{"key":"auete","name":"🌟‍Auete┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Auete.js"},
+
 
 
 {"key": "蜗牛弹幕","name": "🐌蜗牛┃影视","type": 3,"api": "csp_XBPQ","ext": {
