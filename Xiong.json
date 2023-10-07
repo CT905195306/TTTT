@@ -79,7 +79,7 @@
 
 { "key": "素白","name": "🦢素白白┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/素白白.json" },
 {"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },  
-{"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"style": {"type": "rect","ratio": 1.433},"api":"./js/lib/drpy2.min.js",
+{"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js",
 "ext":"./js/mimiju.js"},
 
 //{"key": "骚火电影","name": "🔥骚火┃影视","type": 3,"playerType": 1,"api": "./js/lib/drpy2.min.js","ext": "./js/骚火.js"},
