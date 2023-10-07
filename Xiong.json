@@ -77,11 +77,6 @@
 				"搜索url": "https://jiohub.top/video/search?q={wd}&pid=-qlDbwwDcZ8t1hJN7H0sGh36bnsUqsuyQ2drIL4zs0s=",
 				"分类": "电影$电影#国产$国产#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
 				"分类url": "https://jojo.bdys.top/video/{cateId}?page={catePg}&size=18;;u0"}},
-
-{ "key": "素白","name": "🦢素白白┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/素白白.json" },
-{"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },  
-{"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js",
-"ext":"./js/mimiju.js"},
 {"key": "saohuo","name": "🔥骚火┃直连","type": 3,"searchable": 1,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ","ext": {
 				"分类url": "https://shdy3.com/list/{cateId}-{catePg}.html;;r1da",
 				"分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
@@ -93,7 +88,12 @@
 				"跳转播放链接": "<iframe*src=\"&&\"",
 				"二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
 				"三次跳转播放链接": "\"url\"*\"&&\""}},
-{"key": "世界","name": "世界┃APP","type": 3,"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js",
+{ "key": "素白","name": "🦢素白白┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/素白白.json" },
+{"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },  
+{"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js",
+"ext":"./js/mimiju.js"},
+
+{"key": "世界","name":"🌏世界┃APP","type": 3,"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
