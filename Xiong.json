@@ -94,9 +94,8 @@
 {"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },  
 {"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js",
 "ext":"./js/mimiju.js"},
-{"key":"B站","name":"🔥B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
-{"key":"dr剧","name":"🔥354┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/354.js"},
-{"key":"py_bilibili","name":"💋bb┃直播","type":3,"api":"py_bilibili","ext":"./py/bilibili.py"},
+{"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
+{"key":"354","name":"🌟‍354┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/354.js"},
 
 {"key": "蜗牛弹幕","name": "🐌蜗牛┃影视","type": 3,"api": "csp_XBPQ","ext": {
 "简介":"class=\"video-info-item video-info-content vod_content\">&&</span>",   
