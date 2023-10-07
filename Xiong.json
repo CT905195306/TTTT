@@ -24,7 +24,7 @@
 {"key": "世界","name":"🌏世界┃APP","type": 3,"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js","searchable": 1,
 "quickSearch": 1,"filterable": 1,"ext": "./js/sj.js"},
 { "key": "js_ikanbot2", "name": "🤖爱看┃机器", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/ikanbot2.js" },
-
+{ "key": "js_ikanbot3", "name": "🤖爱看┃机器", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/ikanbot3.js" },
 
 { "key": "wogg", "name":"😼玩偶┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext":"./jar/tok.txt"},
 //{"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/czzy_open.js"},
@@ -96,6 +96,13 @@
 "ext":"./js/mimiju.js"},
 {"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
 {"key":"354","name":"🌟‍354┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/354.js"},
+{"key":"188","name":"🌟‍188┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/188.js"},
+{"key":"539","name":"🌟‍539┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/539.js"},
+{"key":"91","name":"🌟‍19┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
+{"key":"Auete","name":"🌟‍Auete┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Auete.js"},
+{"key":"icio","name":"🌟‍icio┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/icio.js"},
+{"key":"justlive","name":"🌟justlive┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/justlive.js"},
+
 
 {"key": "蜗牛弹幕","name": "🐌蜗牛┃影视","type": 3,"api": "csp_XBPQ","ext": {
 "简介":"class=\"video-info-item video-info-content vod_content\">&&</span>",   
