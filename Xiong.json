@@ -41,16 +41,7 @@
 //{"key": "nangua","name": "🎃南瓜┃极速","type": 3,"api": "https://cloud.lxweb.cn/f/og8IY/ng_open.js","categories": ["电视剧", "电影", "综艺", "动漫"]},
 
 //失效{ "key": "zxzj", "name": "📗在线┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/zxzj_open.js"},
-{"key": "迷迷影视","name": "迷迷┃BPQ","type": 3, "api": "csp_XBPQ","ext": {"分类url":"https://mimiju.com/vodshow/21-----A------2023.html","分类":"短剧$1#电视剧$2#电影$3#动漫$4#综艺$5"}},
-{"key": "迷迷ju","name": "迷迷ju┃BPQ","type": 3, "api": "csp_XYQHiker","ext": "./json/迷迷剧.json"},
-{"key":"drpy_js_迷迷剧",
-             "name":"迷你剧",
-             "type":3,
-             "style": {
-           "type": "rect",
-           "ratio": 1.433},
-             "api":"./js/lib/drpy2.min.js",
-             "ext":"./js/mimiju.js"},
+
 
 {"key":"哔哩","name":"🅱️哔哩(jun)┃合集","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=mp4","ext":{"type":"抖音热歌#经典无损音乐合集#超清MV#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会#美食"},"searchable":1,"quickSearch":1,"filterable":1},
 { "key":"csp_woggcli", "name":"📕玩偶(jun)┃4K", "type":4, "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=dcf40d38be08420a830757f561fcdc0b", "searchable":1, "quickSearch":1, "filterable":1},
@@ -88,7 +79,8 @@
 
 { "key": "素白","name": "🦢素白白┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/素白白.json" },
 {"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },  
-
+{"key":"drpy_js_迷迷剧","name":"迷迷┃剧","type":3,"style": {"type": "rect","ratio": 1.433},"api":"./js/lib/drpy2.min.js",
+"ext":"./js/mimiju.js"},
 
 //{"key": "骚火电影","name": "🔥骚火┃影视","type": 3,"playerType": 1,"api": "./js/lib/drpy2.min.js","ext": "./js/骚火.js"},
 {"key": "蜗牛弹幕","name": "🐌蜗牛┃影视","type": 3,"api": "csp_XBPQ","ext": {
