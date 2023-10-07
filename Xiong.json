@@ -17,7 +17,7 @@
 {"name": "💢小雅2","server": "http://112.10.205.74:5678","version": 3 },   
 {"name": "💢小雅3","server": "http://182.120.114.23:5678","version": 3 },
 {"name": "💢小雅4","server": "https://222.248.200.97:8765","version": 3 }]}},
-{"key":"py_douyin","name":"💋抖音┃直播","type":3,"api":"py_douyin","ext":"./py/douyin.py"},
+
 
 {"key": "ok","name": "🏝️Free┃App","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 //{ "key": "js_ikanbot2", "name": "🤖爱看┃机器", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/ikanbot2.js" },
@@ -128,7 +128,7 @@
 //{ "key": "py_huya", "name": "🐯虎牙┃[PY]", "type": 3, "api": "py_huya", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./py/huya.py" }, 
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/js/lib/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./js/lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/blzb.js"},
-
+{"key":"py_douyin","name":"💋抖音┃直播","type":3,"api":"py_douyin","ext":"./py/douyin.py"},
 
 
 
