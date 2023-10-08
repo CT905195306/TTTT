@@ -1,4 +1,4 @@
-{"spider":"./jar/fan.txt;md5;c780fa00cbcc2f49f4e446f225a155e7",
+{"spider":"./jar/fan.txt;md5;5388d60fb0519fa359339c3252fa5e69",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 
@@ -381,9 +381,8 @@
 {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/js/lib/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
 
 
-{"key":"csp_Dm84","name":"🚌动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
+
 {"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
 {"key":"路漫漫","name":"🚶路漫漫┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/路漫漫.js"},
 {"key":"去看吧","name":"💨去看吧┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/去看吧.json"},
