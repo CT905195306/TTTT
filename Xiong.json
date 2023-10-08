@@ -19,7 +19,7 @@
 {"name": "💢小雅4","server": "https://222.248.200.97:8765","version": 3 }]}},
 
  {"key": "csp_XBPQ_vstv",
-      "name": "🎅VS☆短剧",
+      "name": "🎅VS┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -32,7 +32,7 @@
     },
 	{
         "key": "yqkan_open",
-        "name": "短🛁剧",
+        "name": "🛁一起看┃短剧",
         "type": 3,
         "api": "csp_YQKan",
         "searchable": 1,
