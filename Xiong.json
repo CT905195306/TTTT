@@ -232,7 +232,7 @@
 "二次跳转播放链接": "\"url\"*\"&&\""}},
 
 
-{"key":"B站","name":"🐰🌟‍B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
+{"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
 {"key":"91","name":"🍮91free┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
 {"key":"auete","name":"🐾Auete┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Auete.js"},
 
