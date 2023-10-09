@@ -12,7 +12,6 @@
 //{"key": "csp_KungFu404","name":"⚙️阿里┃设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/阿里设置.txt"},
 {"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
 {"key":"布蕾影视","name":"⚡️布蕾┃4K","type":3,"api":"csp_AppMao","playerType":2,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+3/"},
-{"key":"热剧猫","name":"🐱热剧猫┃4K","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/热剧猫.js"},
 {"key": "csp_Alistxy","name": "♻️Alist┃4K","type": 3,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar;md5;CAF2D12E5D059B70E2B2B7DA5A09F743","api": "csp_AListxy","searchable": 1,"quickSearch": 1,"ext": {"drives": [    
 {"name": "💢小雅1","server": "http://124.71.206.236:5678","version": 3 },
 {"name": "💢小雅2","server": "http://112.10.205.74:5678","version": 3 },   
@@ -236,7 +235,7 @@
 {"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
 {"key":"91","name":"🍮91free┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
 {"key":"auete","name":"🐾Auete┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Auete.js"},
-
+{"key":"热剧猫","name":"🐱热剧猫┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/热剧猫.js"},
 
 
 {"key": "蜗牛弹幕","name": "🐌蜗牛┃影视","type": 3,"api": "csp_XBPQ","ext": {
