@@ -200,7 +200,7 @@
 { "key": "素白","name": "🦢素白白┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/素白白.json" },
 {"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },  
 {"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mimiju.js"},
-{"key": "csp_XBPQ_vstv","name": "🎅VS┃短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": {
+{"key": "csp_XBPQ_vstv","name": "🎅VSY┃短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": {
 "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }},
 
 {"key": "皮皮","name": "🦐皮皮┃影视","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","api": "csp_XBPQ","ext": {
