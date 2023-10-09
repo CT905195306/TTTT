@@ -7,7 +7,8 @@
 {"key":"js豆瓣","name":"🐼️熊熊┃推荐","type":3,"api":"./js/lib/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./js/douban.js"},
 {"key":"csp_YGP","name":"⭕新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
-{"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt+4k|auto|fhd","filter": "./json/wogg.json"}, 
+{"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt+4k|auto|fhd","filter": "./json/wogg.json","danmu" : false,"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"}, 
+//{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {"token": "dcf40d38be08420a830757f561fcdc0b", "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : false},"jar":"./jar/928.jar"},
 {"key":"yc","name":"☄️影巢┃4K","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./jar/tok.txt","jar":"./jar/app.jar;md5;3A7FEBFE4DDEC367680DE3FED71F8EA7"},
 //{"key": "csp_KungFu404","name":"⚙️阿里┃设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/阿里设置.txt"},
 {"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
@@ -118,7 +119,6 @@
 		
 //{"key": "yqkan_open","name": "🛁YQK┃短剧","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"./jar/OpenSpider.jar"},
 //{"key": "玩偶短剧","name":"🐻玩偶┃短剧","type": 3,"api": "csp_XBPQ","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": {"二次截取": "1&&-1+module-item-cover","数组": "module-item-pic&&module-item-cover","图片": "data-src\"&&\"","副标题": "module-item-text*>&&</div","链接": "href=\"&&\"","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "剧情：&&</div>","搜索url": "https://wogg.xyz/index.php/vodsearch/-------------.html?wd={wd}","分类url": "https://wogg.xyz//index.php/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;阿里","阿里token":"dcf40d38be08420a830757f561fcdc0b","分类":"短剧$40"}},
-//{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {"token": "dcf40d38be08420a830757f561fcdc0b", "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : false},"jar":"./jar/928.jar"},
 //{"key":"荐片","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar":"./jar/928.jar"},
 
 { "key": "wogg", "name":"😼玩偶┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext":"./jar/tok.txt"},
