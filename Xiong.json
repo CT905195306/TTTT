@@ -235,7 +235,7 @@
 {"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
 {"key":"91","name":"🍮91free┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
 {"key":"auete","name":"🐾Auete┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Auete.js"},
-
+{"key":"热剧猫","name":"🐾热剧猫┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/热剧猫.js"},
 
 
 {"key": "蜗牛弹幕","name": "🐌蜗牛┃影视","type": 3,"api": "csp_XBPQ","ext": {
