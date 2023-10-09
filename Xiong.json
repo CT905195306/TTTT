@@ -118,9 +118,8 @@
 //{"key": "yqkan_open","name": "🛁YQK┃短剧","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"./jar/OpenSpider.jar"},
 
 //{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {"token": "dcf40d38be08420a830757f561fcdc0b", "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : false},"jar":"./jar/928.jar"},
-{"key":"玩偶弹幕版","name":"玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {
-"token": "dcf40d38be08420a830757f561fcdc0b","filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json",
-"danmu" : true},"jar":"./jar/928.jar"},
+//{"key":"玩偶弹幕版","name":"玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "dcf40d38be08420a830757f561fcdc0b","filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : true},"jar":"./jar/928.jar"},
+{"key":"玩偶弹幕版","name":"玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": { "token": "dcf40d38be08420a830757f561fcdc0b","filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json","danmu" : true,"jar":"./jar/928.jar"}},
 //{"key":"荐片","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar":"./jar/928.jar"},
 {"key":"荐片弹幕版","name":"荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/928.jar"},
 
