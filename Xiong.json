@@ -183,6 +183,18 @@
 {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Ysgc","name":"🏭工场┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.ysgc1.cc/"},
+{"key":"蚂蚁","name":"🐜蚂蚁┃直连","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
+{"key": "蜗牛2","name": "蜗牛┃直连","type": 3,"api": "csp_XBPQ","jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": {
+"二次截取":"module-items&&<footer id=+module-item-cover",
+"数组":"module-item-pic&&module-item-cover",
+"副标题":"module-item-text*>&&</div>",
+"简介":"剧情：</span>&&</span>",
+"播放数组":"\"module-blocklist\">&&</div>",
+"播放标题":"<span>&&</span>",
+"分类":"电影$1#海外剧$2#日韩剧$21#动漫$20",
+"分类url": "https://v.wuxivlog.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m"
+}
+		},
 {"key": "csp_XBPQ_JOJO", "name": "👲🏿JOJO┃直连", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"二次截取": "class=\"content-body\"&&class=\"content-lift\"",
 				"数组": "<a&&</a>",
 				"图片": "src=\"&&\"",
@@ -238,8 +250,7 @@
 "二次跳转播放链接": "\"url\"*\"&&\""}},
 
 
-{"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
-{"key":"354","name":"🌟‍354┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/354.js"},
+{"key":"B站","name":"🐰🌟‍B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
 {"key":"91","name":"🍮91free┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
 {"key":"auete","name":"🐾Auete┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/Auete.js"},
 
@@ -256,7 +267,6 @@
 {"key":"快帆","name":"⛵快帆┃影视","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
 {"key": "csp_好戏","name": "💥好戏┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/好戏影视.json"},
 
-{"key":"蚂蚁","name":"🐜蚂蚁┃直连","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 { "key": "app_轻简", "name": "🐭轻简┃影视", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/", "categories": [ "电影", "电视剧", "综艺", "动漫" ] },
 //{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
 //{ "key":"jszy", "name":"🎯极速┃App","type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "playUrl":"https://k.playerla.com/?url=","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","动画片","大陆综艺"]},
