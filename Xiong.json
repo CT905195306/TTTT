@@ -19,7 +19,7 @@
 {"name": "💢小雅3","server": "http://182.120.114.23:5678","version": 3 },
 {"name": "💢小雅4","server": "https://222.248.200.97:8765","version": 3 }]}},
 
-{"key":"玩偶弹幕版","name":"🐻玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": { "token": "./jar/tok.txt","filter": "./json/wogg.json","danmu" : true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
+{"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": { "token": "./jar/tok.txt","filter": "./json/wogg.json","danmu" : true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
 {"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
 
 {"key": "ok","name": "🏝️Free┃App","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
