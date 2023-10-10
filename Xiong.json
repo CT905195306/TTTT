@@ -21,7 +21,14 @@
 
 {"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": { "token": "./jar/tok.txt","filter": "./json/wogg.json","danmu" : true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
 {"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
-
+{"key":"drpy_js_aoao",
+             "name":"嗷嗷",
+             "type":3,
+             "style": {
+           "type": "rect",
+           "ratio": 1.433},
+             "api":"./js/lib/drpy2.min.js",
+             "ext":"./js/aoao.js"},
 {"key": "ok","name": "🏝️Free┃App","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 {"key": "世界","name":"🌏世界┃APP","type": 3,"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js","searchable": 1,
 "quickSearch": 1,"filterable": 1,"ext": "./js/sj.js"},
@@ -128,8 +135,8 @@
 {"key":"subaibai","name":"💮素白白┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/subaibai_open.js" },  
 {"key": "nangua","name": "🎃南瓜┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/ng_open.js","categories": ["电视剧", "电影", "综艺", "动漫"]},
 { "key": "bili", "name": "🅱️哔哩┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bili_open.js" ,"searchable": 1,"changeable": 0},
-{ "key": "boosj", "name": "🧗‍童趣┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
 { "key": "cntv", "name": "🎯新闻┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/cntv_open.js"},
+{ "key": "boosj", "name": "🧗‍童趣┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
 { "key": "tuxiaobei", "name": "🐰兔小贝┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/tuxiaobei_open.js"},
 { "key": "贝乐虎", "name": "🐯贝乐虎┃极速", "searchable": 1,"quickSearch": 1,"filterable": 1,"type": 3,"style":{ "type":"rect", "ratio":0.8 },"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/Be_open.js"},
 //{ "key": "dsp", "name": "📱短视频┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/dsp_open.js"},
