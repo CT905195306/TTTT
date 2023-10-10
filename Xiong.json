@@ -24,10 +24,7 @@
 {"key":"drpy_js_aoao",
              "name":"嗷嗷",
              "type":3,
-             "style": {
-           "type": "rect",
-           "ratio": 1.433},
-             "api":"./js/lib/drpy2.min.js",
+             "api":"http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js",
              "ext":"./js/aoao.js"},
 {"key": "ok","name": "🏝️Free┃App","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 {"key": "世界","name":"🌏世界┃APP","type": 3,"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js","searchable": 1,
