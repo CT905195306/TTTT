@@ -277,9 +277,9 @@
 
 
 
-{"key":"Qtv","name":"🐧腾讯┃官源","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"Itv","name":"🥝爱奇艺┃官源","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
-{"key":"Mtv","name":"🍋芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"腾讯","name":"🐧腾讯┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
+{"key":"爱奇艺","name":"🥝奇艺┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/iqy.js"},
+{"key":"芒果","name":"🥭芒果┃官源","type":3,"playerType":2,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
 {"key":"360","name":"🍊360┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/360.js"},
 {"key":"drpy_js_优酷","name":"👑优酷┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
 {"key":"drpy_js_菜狗","name":"🐶搜狗┃官源","type":3,"api":"./js/lib/drpy.min.js","ext":"https://agit.ai/CT/Tong/raw/branch/master/sougou.js"},
@@ -290,9 +290,7 @@
 //{"key":"drpy_js_百忙无果","name":"弹幕 | 芒果[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/百忙无果.js"},
 //{"key":"drpy_js_腾云驾雾","name":"弹幕 | 腾讯[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 
-//{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
-//{"key":"爱奇艺","name":"🥝奇艺┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/iqy.js"},
-//{"key":"芒果","name":"🥭芒果┃TV","type":3,"playerType":2,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
+
 //{"key":"csp_SP33","name":"🍊360┃官源","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"csp_WoGG","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 
