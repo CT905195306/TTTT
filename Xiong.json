@@ -128,7 +128,7 @@
 //{"key":"荐片","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar":"./jar/928.jar"},
 
 { "key": "wogg", "name":"😼玩偶┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext":"./jar/tok.txt"},
-{"key":"czz","name":"🏭jojo┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/jojo_open.js"},
+{"key":"JOJO","name":"👲🏿JOJO┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/jojo_open.js"},
 {"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kkys_open.js"},
 {"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/kunyu77_open.js"},
 {"key":"subaibai","name":"💮素白白┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/subaibai_open.js" },  
