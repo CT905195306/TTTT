@@ -41,7 +41,7 @@
 {"key":"一起看 ","name":"🎉YQK┃短剧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 //{ "key": "js_ikanbot2", "name": "🤖爱看┃机器", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/ikanbot2.js" },
 //{ "key": "js_ikanbot3", "name": "🤖爱看┃机器", "type": 3, "api": "./js/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/ikanbot3.js" },
-{"key": "zizi","name": "☁️子子┃BPQ","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "1","jar": "./jar/ab.jar;md5;fa797d3f25f35eb3fea9a369bc55620f","ext": {
+{"key": "zizi","name": "☁️子子┃BPQ","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "1","jar": "./jar/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf","ext": {
 				"站名": "子子影视",
 				"主页url": "https://www.ziziys.com",
 				"免嗅": "1",
