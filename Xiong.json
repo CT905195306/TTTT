@@ -16,7 +16,7 @@
 //{"key": "csp_Alistxy","name": "♻️Alist┃4K","type": 3,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar;md5;CAF2D12E5D059B70E2B2B7DA5A09F743","api": "csp_AListxy","searchable": 1,"quickSearch": 1,"ext": {"drives": [    {"name": "💢小雅1","server": "http://124.71.206.236:5678","version": 3 },{"name": "💢小雅2","server": "http://112.10.205.74:5678","version": 3 },   {"name": "💢小雅3","server": "http://182.120.114.23:5678","version": 3 },{"name": "💢小雅4","server": "https://222.248.200.97:8765","version": 3 }]}},
 
 {"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": { "token": "./jar/tok.txt","filter": "./json/wogg.json","danmu" : true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
-{"key":"JOJO弹幕版","name":"👲🏿JOJO┃弹幕","type": 3,"api":"csp_Jiohub","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/1013.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
+{"key":"JOJO弹幕版","name":"👲🏿JOJO┃弹幕","type": 3,"api":"csp_Jiohub","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/1013.jar;md5;D41D8CD98F00B204E9800998ECF8427E"},
 {"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
 
 
