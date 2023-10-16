@@ -183,7 +183,17 @@
 {"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mimiju.js"},
 {"key": "csp_XBPQ_vstv","name": "🎅VSY┃短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": {
 "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }},
-{"key": "XBPQ_葡萄","name": "🍇葡萄┃短剧","type": 3,"api": "csp_XBPQ","ext": {    "数组": "class=\"stui-vodlist__box&&</li",    "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",    "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},	
+{
+            "key": "XBPQ_葡萄",
+            "name": "🍇葡萄┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "数组": "class=\"stui-vodlist__box&&</li",
+                "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+                "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+            }
+        },
 {"key": "js_DJ5","name": "🎈DJ5┃短剧","type": 3,"api": "./js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/短剧网.js"},
 
 {"key": "皮皮","name": "🦐皮皮┃影视","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","api": "csp_XBPQ","ext": {
