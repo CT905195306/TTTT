@@ -11,7 +11,6 @@
 //{"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {"token": "./jar/tok.txt", "filter": "./json/wogg.json","danmu" : false},"jar":"./jar/928.jar"},
 {
 "key": "wobg","name":"🧸玩偶┃4K","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wobg.js","ext": "./jar/tok.txt","jar":"./jar/1013.jar;md5;D41D8CD98F00B204E9800998ECF8427E"},
-{ "key": "js_4KHDR", "name": "👩‍⚕️玩偶┃姐姐", "type": 3, "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/4KHDR.js" }, 
 //{"key":"csp_Wobg","name":"玩偶┃表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0, "ext":"./jar/tok.txt","jar":"./jar/pg.jar;md5;55e3c38d1624229c0905a470bee734f7","timeout":30},
 {"key":"yc","name":"☄️影巢┃4K","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./jar/tok.txt","jar":"./jar/app.jar;md5;3A7FEBFE4DDEC367680DE3FED71F8EA7"},
 //{"key": "csp_KungFu404","name":"⚙️阿里┃设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/阿里设置.txt"},
