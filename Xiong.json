@@ -171,8 +171,10 @@
 				"分类url": "https://jojo.bdys.top/video/{cateId}?page={catePg}&size=18;;u0"}},
 
 { "key": "素白","name": "🦢素白白┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/素白白.json" },
-{"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" }, 
+{"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },
 
+
+{"key":"drpy_js_新片场","name":"新片 | 新片场[js]","type":3,"api":"./js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/新片场.js"},
 {"key":"drpy_js_鸭鸭[V2]","name":"鸭鸭┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/鸭鸭.js"},
 {"key":"drpy_js_影探[V2]","name":"影探┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/影探.js"},
 {"key":"drpy_js_热播库","name":"🐾热播库┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/热播库.js"},
