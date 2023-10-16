@@ -20,7 +20,7 @@
 
 {"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": { "token": "./jar/tok.txt","filter": "./json/wogg.json","danmu" : true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
 {"key":"JOJO弹幕版","name":"👲🏿JOJO┃弹幕","type": 3,"api":"csp_Jiohub","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/1013.jar;md5;D41D8CD98F00B204E9800998ECF8427E"},
-{"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
+//{"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/928.jar;md5;7C4E630D2991BDC5AC8089B963B0D98E"},
 //{"key":"360弹幕版","name":"👲🏿360┃弹幕","type": 3,"api":"csp_Sp360","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/1013.jar;md5;D41D8CD98F00B204E9800998ECF8427E"},
 
 
