@@ -179,7 +179,7 @@
 {"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
 {"key":"91","name":"🍮91free┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
 {"key":"drpy_js_快看","name":"🫣快看┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/快看.js"},
-{"key": "午夜","name": "🌃♠午夜┃影院","type": 3,"api": "csp_XBPQ","ext": {"数组": "pic\">&&</li>","副标题": "item-status text-overflow\">&&</p>","搜索url": "/vodsearch/-------------.html?wd={wd}","搜索数组": "pic\">&&</ul>","搜索副标题": "text-overflow\">&&</p>","线路数组": "role=\"group\"&&</em>","线路标题": ">午夜线路<","分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak","分类": "电影$vod#电视剧$tv#综艺$zongyi#动漫$dongman"}},
+{"key": "午夜","name": "♠午夜┃影视","type": 3,"api": "csp_XBPQ","ext": {"数组": "pic\">&&</li>","副标题": "item-status text-overflow\">&&</p>","搜索url": "/vodsearch/-------------.html?wd={wd}","搜索数组": "pic\">&&</ul>","搜索副标题": "text-overflow\">&&</p>","线路数组": "role=\"group\"&&</em>","线路标题": ">午夜线路<","分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak","分类": "电影$vod#电视剧$tv#综艺$zongyi#动漫$dongman"}},
 
 {"key":"drpy_js_aoao", "name":"⛄嗷嗷┃短剧","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aoao.js"},
 {"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mimiju.js"},
