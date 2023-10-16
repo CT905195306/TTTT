@@ -265,7 +265,7 @@
 
 
 //{"key":"csp_SP33","name":"🍊360┃官源","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-//{"key":"csp_WoGG","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+
 
 
 
@@ -289,8 +289,6 @@
 {"key":"耐看","name":"😣耐看┃影视","type":3,"api":"csp_XBPQ","ext":{"分类数组":"swiper-wrapper\"*&&</ul>","分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html","搜索图片":"http://smr.xzam.cn:66/1.jpg"}},
 {"key":"新片热播","name":"🔷新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar": "./jar/nb3.jar;md5;F5BC56DF4FF888488B226132FF3F8CD0"},
-//{"key": "YQK_spider","name": "🎉一起看┃App","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "","jar":"./jar/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"},
-//{"key":"YQK","name":"🎉一起看┃App","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top","jar": "./jar/nb3.jar;md5;F5BC56DF4FF888488B226132FF3F8CD0"},
 {"key": "熊猫","name": "🐼熊猫┃影视","type": 3,"api": "csp_XBPQ","ext":{"简介": "<p>&&</p>","主演": "主演：class=\"module-info-item-title\">&&</span>","导演": "导演：&&</span>","影片年代": "年份：&&</li>","影片地区": "地区：&&</li>","影片类型": "类型：&&</li>","影片状态": "更新：&&</span>","数组": "<a&&</div></div></a>","标题": "title=\"&&\"","图片": "data-original=\"&&\"","链接": "href=\"&&\"","副标题": "<div class=\"module-item-note\">&&</div>","线路数组": "data-dropdown-value=&&</div>[排序:索尼>快看]","线路标题": "<span>&&</small>[替换:</span><small>>>🐼共]+集","播放数组": "<div class=\"module-play-list\">&&</div>","播放标题": "<span>&&</span>","播放列表": "<a&&</a>","播放链接": "href=\"&&\"","分类": "电影&电视剧&综艺&动漫","分类值": "52&69&77&75","分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"}},
 
    
@@ -333,7 +331,6 @@
 
 {"key":"爱看影院","name":"🤩爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱看影院.json"},
 {"key":"Lezhu","name":"🐷乐猪┃影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
-//{"key":"乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/乐猪.json"}, 
 {"key": "csp_XBPQ_奇优","name": "🧼奇优┃影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/奇优影院.json"},
 {"key":"zy_新浪资源","name":"🏄🏻新浪┃资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","体育"]},
 
@@ -342,7 +339,6 @@
 {  "key": "暴風",  "name": "🌀暴风┃资源",  "type": 1,  "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1},
 {"key":"非凡","name":"🕊️非凡┃资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
 {  "key": "量子",  "name": "🏂量子┃资源",  "type": 0,  "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1},
-//{"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
 
 
 
