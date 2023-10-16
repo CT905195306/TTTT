@@ -174,12 +174,12 @@
 {"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },
 
 
-{"key":"drpy_js_鸭鸭_V2_","name":"鸭鸭┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/鸭鸭.js"},
-{"key":"drpy_js_影探_V2_","name":"影探┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/影探.js"},
+{"key":"drpy_js_鸭鸭_V2_","name":"🦆鸭鸭┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/鸭鸭.js"},
+{"key":"drpy_js_影探_V2_","name":"🏵影探┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/影探.js"},
 {"key":"drpy_js_热播库","name":"🐾热播库┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/热播库.js"},
 {"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
 {"key":"91","name":"🍮91free┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
-{"key":"drpy_js_快看","name":"影视 | 快看[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/快看.js"},
+{"key":"drpy_js_快看","name":"🫣快看┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/快看.js"},
 
 
 
