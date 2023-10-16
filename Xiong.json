@@ -9,8 +9,8 @@
 
 //{"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt+4k|auto|fhd"}, 
 {"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {"token": "./jar/tok.txt", "filter": "./json/wogg.json","danmu" : false},"jar":"./jar/928.jar"},
-//{"key": "wobg","name": "玩偶┃表哥","type": 3,"api": "csp_Wobg","ext": "./jar/tok.txt","jar":"./jar/PG.jar;md5;55e3c38d1624229c0905a470bee734f7" },
-{"key":"csp_Wobg","name":"表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt","jar":"./jar/PG.jar;md5;55e3c38d1624229c0905a470bee734f7","timeout":30},
+
+{"key":"csp_Wobg","name":"表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/token.json","jar":"./jar/PG.jar;md5;55e3c38d1624229c0905a470bee734f7","timeout":30},
 {"key":"yc","name":"☄️影巢┃4K","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./jar/tok.txt","jar":"./jar/app.jar;md5;3A7FEBFE4DDEC367680DE3FED71F8EA7"},
 //{"key": "csp_KungFu404","name":"⚙️阿里┃设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/阿里设置.txt"},
 //{"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
