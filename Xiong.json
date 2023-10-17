@@ -21,7 +21,7 @@
 
 {"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": { "token": "./jar/tok.txt","filter": "./json/wogg.json","danmu" : true},"jar":"./jar/1013.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
 {"key":"JOJO弹幕版","name":"👲🏿JOJO┃弹幕","type": 3,"api":"csp_Jiohub","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/1013.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
-{"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/1013.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
+{"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
 {"key": "賤賤","name": "賤賤","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json","jar": "./jar/fmnb.jar;md5;6aa99ddfd99dd2e5b68615edd29ddb43"},
  
 //{"key":"360弹幕版","name":"🍊360┃弹幕","type": 3,"api":"csp_Sp360","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/1013.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
