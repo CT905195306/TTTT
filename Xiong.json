@@ -135,10 +135,8 @@
 				"跳转播放链接": "<iframe*src=\"&&\"",
 				"二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
 				"三次跳转播放链接": "\"url\"*\"&&\""}},
-
-//{"key":"csp_Czsapp","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_Czsapp","name":"🗯️厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://cz01.me/","filterable": 1},
-{"key":"Czsapp","name":"🗯️厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.cz0101.com/"},
+{"key":"Czsapp","name":"🏭厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.cz0101.com/"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json"},
 {"key":"毛驴","name":"🍓毛驴┃直连","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"}, 
@@ -226,8 +224,6 @@
 {"key":"快帆","name":"⛵快帆┃影视","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
 
 { "key": "app_轻简", "name": "🐭轻简┃影视", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/", "categories": [ "电影", "电视剧", "综艺", "动漫" ] },
-{"key": "賤賤","name": "⏳荐片┃磁力","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json","jar": "./jar/fmnb.jar;md5;6aa99ddfd99dd2e5b68615edd29ddb43"},
-//{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
 //{ "key":"jszy", "name":"🎯极速┃App","type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "playUrl":"https://k.playerla.com/?url=","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","动画片","大陆综艺"]},
 {"key":"极速","name":"️🎯极速┃App","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
 
@@ -264,7 +260,8 @@
 
 
 
-
+{"key": "賤賤","name": "⏳荐片┃磁力","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json","jar": "./jar/fmnb.jar;md5;6aa99ddfd99dd2e5b68615edd29ddb43"},
+//{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"新6V","name":"✂️新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 {"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
 {"key": "csp_XYQHiker_BT天堂","name":"✈️BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
