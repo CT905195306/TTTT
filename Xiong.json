@@ -401,12 +401,6 @@
 //{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./jar/tok.txt+4k|auto|fhd"},
 {"key": "Push","name":"🛴手机┃推送","type":4,"api":"http://home.jundie.top:9520/spider/csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt"},
 
-
-{"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "泥巴","name": "🛫泥巴fm┃飞","type": 3,"api": "csp_NiNi","searchable": 1, "changeable": 1,"jar": "./jar/fmnb.jar;md5;6aa99ddfd99dd2e5b68615edd29ddb43"},
-{ "key": "haiwaikan","name": "🛫海外看fm┃飞", "type": 1, "api": "https://haiwaikan.com/api.php/provide/vod", "searchable": 1, "changeable": 1, "categories": ["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片" ]},
-
 //{"key":"csp_Aid","name":"🚑︎急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio": 3.8},"jar":"./jar/aid.jar;md5;510FA1663F7067BD4D40DE06097202BF"},
 {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio": 3.8}},
 
@@ -414,6 +408,10 @@
 {"key": "py_xiaoxue","name": "🅱️小学┃教育","type": 3,"api": "py_xiaoxue","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/xiaoxue.py"},
 {"key": "py_czxx","name": "🅱️初中┃教育","type": 3,"api": "py_czxx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/chuzhong.py"},
 {"key": "py_gaozxx","name": "🅱️高中┃教育","type": 3,"api": "py_gaozxx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/gaozhong.py"},
+{"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "泥巴","name": "🛫泥巴(fm)┃飞","type": 3,"api": "csp_NiNi","searchable": 1, "changeable": 1,"jar": "./jar/fmnb.jar;md5;6aa99ddfd99dd2e5b68615edd29ddb43"},
+{ "key": "haiwaikan","name": "🛫海外看(fm)┃飞", "type": 1, "api": "https://haiwaikan.com/api.php/provide/vod", "searchable": 1, "changeable": 1, "categories": ["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片" ]},
 {"key":"cc","name":"🌸爱熊熊🌸","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0}],
 
 
