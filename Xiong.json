@@ -24,6 +24,8 @@
 {"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
 //{"key":"360弹幕版","name":"🍊360┃弹幕","type": 3,"api":"csp_Sp360","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
 
+{"key": "賤賤","name": "⏳荐片┃磁力","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json","jar": "./jar/fmnb.jar;md5;6aa99ddfd99dd2e5b68615edd29ddb43"},
+//{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
 
 {"key": "ok","name": "🏝️Free┃App","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 //{"key": "世界","name":"🌏世界┃APP","type": 3,"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/sj.js"},
@@ -185,6 +187,14 @@
 {"key": "csp_XBPQ_vstv","name": "🎅VSY┃短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": {
 "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }},
 
+
+
+{"key":"新6V","name":"✂️新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
+{"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
+{"key": "csp_XYQHiker_BT天堂","name":"✈️BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
+
+
+
 {"key": "午夜","name": "♠午夜┃影视","type": 3,"api": "csp_XBPQ","ext": {"数组": "pic\">&&</li>","副标题": "item-status text-overflow\">&&</p>","搜索url": "/vodsearch/-------------.html?wd={wd}","搜索数组": "pic\">&&</ul>","搜索副标题": "text-overflow\">&&</p>","线路数组": "role=\"group\"&&</em>","线路标题": ">午夜线路<","分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak","分类": "电影$vod#电视剧$tv#综艺$zongyi#动漫$dongman"}},
 {"key": "皮皮","name": "🦐皮皮┃影视","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","api": "csp_XBPQ","ext": {
 "主页url": "http://pipixia.vip/index.php/ajax/data?mid=1&tid=1&page=1&limit=20",
@@ -257,16 +267,6 @@
 
 
 //{"key":"csp_SP33","name":"🍊360┃官源","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
-
-
-
-{"key": "賤賤","name": "⏳荐片┃磁力","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json","jar": "./jar/fmnb.jar;md5;6aa99ddfd99dd2e5b68615edd29ddb43"},
-//{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key":"新6V","name":"✂️新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
-{"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
-{"key": "csp_XYQHiker_BT天堂","name":"✈️BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
-{"key": "csp_XYQHiker_极影网","name":"✨极影┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jyw.json","jar": "./jar/83.jar;md5;F00A942D74A201167E6C15EDAFD510BF"},
 
 
 
