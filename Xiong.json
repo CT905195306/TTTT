@@ -172,19 +172,20 @@
 { "key": "素白","name": "🦢素白白┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/素白白.json" },
 {"key": "虎虎","name": "🐯虎虎┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json" },
 
+{"key":"南瓜","name":"🎃南瓜┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/南瓜.js"},
 {"key":"drpy_js_鸭鸭","name":"🦆鸭鸭┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/鸭鸭.js"},
 {"key":"drpy_js_热播库","name":"🐾热播库┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/热播库.js"},
 {"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
 {"key":"91","name":"🍮91free┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/91.js"},
 {"key":"drpy_js_快看","name":"🫣快看┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/快看.js"},
-{"key": "午夜","name": "♠午夜┃影视","type": 3,"api": "csp_XBPQ","ext": {"数组": "pic\">&&</li>","副标题": "item-status text-overflow\">&&</p>","搜索url": "/vodsearch/-------------.html?wd={wd}","搜索数组": "pic\">&&</ul>","搜索副标题": "text-overflow\">&&</p>","线路数组": "role=\"group\"&&</em>","线路标题": ">午夜线路<","分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak","分类": "电影$vod#电视剧$tv#综艺$zongyi#动漫$dongman"}},
 
+{"key": "js_DJ5","name": "🎈DJ5┃短剧","type": 3,"api": "./js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/短剧网.js"},
 {"key":"drpy_js_aoao", "name":"⛄嗷嗷┃短剧","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aoao.js"},
 {"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mimiju.js"},
 {"key": "csp_XBPQ_vstv","name": "🎅VSY┃短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": {
 "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }},
-{"key": "js_DJ5","name": "🎈DJ5┃短剧","type": 3,"api": "./js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/短剧网.js"},
 
+{"key": "午夜","name": "♠午夜┃影视","type": 3,"api": "csp_XBPQ","ext": {"数组": "pic\">&&</li>","副标题": "item-status text-overflow\">&&</p>","搜索url": "/vodsearch/-------------.html?wd={wd}","搜索数组": "pic\">&&</ul>","搜索副标题": "text-overflow\">&&</p>","线路数组": "role=\"group\"&&</em>","线路标题": ">午夜线路<","分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak","分类": "电影$vod#电视剧$tv#综艺$zongyi#动漫$dongman"}},
 {"key": "皮皮","name": "🦐皮皮┃影视","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","api": "csp_XBPQ","ext": {
 "主页url": "http://pipixia.vip/index.php/ajax/data?mid=1&tid=1&page=1&limit=20",
 "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$http://pipixia.vip/",
@@ -274,7 +275,6 @@
 {"key":"MV_vod","name":"🎻MV┃合集","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
 {"key": "zibo","name": "📻直播┃电台","type": 3,"api": "./js/zb.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "py_央视片库","name": "🌏央视┃片库","type": 3,"api": "py_cctv","ext": "./py/yspk.py"},
-{"key":"南瓜","name":"🎃南瓜┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/南瓜.js"},
 {"key":"黑狐","name":"🦊黑狐┃影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ","ext": { "主页url": "http://fagmn.com", "数组": "class=\"stui-vodlist__box\"&&</a", "图片": "data-original=\"&&\"", "标题": "title=\"&&\"", "链接": "href=\"&&\"", "嗅探词": ".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4", "过滤词": "/hls/#php", "副标题": "<span class=\"pic-text text-right\">&&</span>", "搜索url": "http://fagmn.com/search.php;post;searchword={wd}", "搜索模式": "1", "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>", "搜索图片": "data-original=\"&&\"", "搜索标题": "title=\"&&\"", "搜索链接": "href=\"&&\"", "搜索副标题": "<span class=\"pic-text text-right\">&&</span>", "搜索后缀": "/view/", "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]", "线路标题": ">&&<", "播放数组": "class=\"stui-content__playlist clearfix&&</ul>", "状态": "地区：&&</p>", "导演": "导演：&&</p>", "主演": "主演：&&</p>", "简介": "简介：&&</div>", "播放列表": "<a&&/a>", "播放标题": ">&&<", "播放链接": "href=\"&&\"", "免嗅": "0", "分类": "电影$1#电视剧$2#动漫$3#综艺$4", "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
 
 {"key":"达达龟","name":"🐢达达┃乌龟","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/达达龟.js"},
