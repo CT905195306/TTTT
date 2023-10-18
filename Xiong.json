@@ -162,9 +162,8 @@
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+
 { "key": "py_huya", "name": "🐯虎牙┃[PY]", "type": 3, "api": "py_huya", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./py/huya.py" }, 
-{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./js/lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/blzb.js"},
 {"key":"py_douyin","name":"💋抖音┃直播","type":3,"api":"py_douyin","ext":"./py/douyin.py"},
 
