@@ -62,6 +62,7 @@
 //{"key":"douyu","name":"🐟斗鱼┃极速","searchable":1,"quickSearch":1,"filterable":1,"type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/douyu_open.js"},
 {"key": "huya","name": "🐯虎牙┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/huya_open.js","ext": {"categories": "一起看#网游竞技#英雄联盟#综合手游#英雄联盟手游#王者荣耀#单机热游#颜值#二次元#星秀#音乐#原创"}},
 {"key":"douyu","name":"🐟斗鱼┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/douyu_open.js"},
+{"key":"douyu2","name":"🐟斗鱼2┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/douyu_open3.js"},
 { "key": "bili", "name": "🅱️哔哩┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bili_open.js" ,"searchable": 1,"changeable": 0},
 { "key": "cntv", "name": "🎯新闻┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/cntv_open.js"},
 { "key": "boosj", "name": "🧗‍童趣┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
