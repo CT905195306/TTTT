@@ -20,7 +20,7 @@
 {"key": "csp_Alistxy","name": "♻️Alist┃4K","type": 3,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar","api": "csp_AListxy","searchable": 1,"quickSearch": 1,"ext": {"drives": [  {"name": "💃小雅搜索①","server": "http://124.71.206.236:5678","version": 3},{"name": "💃小雅搜索②","server": "http://60.204.139.228:5678/","version": 3},{"name": "💃小雅搜索③","server": "http://182.116.92.150:5678","version": 3},{"name": "💃小雅搜索④","server": "http://112.226.137.40:5678","version": 3},{"name": "💃小雅搜索⑤","server": "http://115.57.11.199:5678","version": 3},{"name": "💃小雅搜索⑥","server": "http://116.22.128.30:5678","version": 3},{"name": "💃小雅搜索⑦","server": "http://117.63.42.183:5678","version": 3}]}},
 
 {"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": { "token": "./jar/tok.txt","filter": "./json/wogg.json","danmu" : true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
-{"key":"JOJO弹幕版","name":"👲🏿JOJO┃弹幕","type": 3,"api":"csp_Jiohub","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
+//{"key":"JOJO弹幕版","name":"👲🏿JOJO┃弹幕","type": 3,"api":"csp_Jiohub","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
 {"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
 //{"key":"360弹幕版","name":"🍊360┃弹幕","type": 3,"api":"csp_Sp360","searchable":1,"changeable":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
 
@@ -53,7 +53,7 @@
 //{"key":"荐片","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar":"./jar/928.jar"},
 
 { "key": "wogg", "name":"😼玩偶┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext":"./jar/tok.txt"},
-{"key":"JOJO","name":"👲🏿JOJO┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/jojo_open.js"},
+//{"key":"JOJO","name":"👲🏿JOJO┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/jojo_open.js"},
 //失效{"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kkys_open.js"},
 {"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/kunyu77_open.js"},
 {"key":"subaibai","name":"💮素白白┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/subaibai_open.js" },  
@@ -82,7 +82,7 @@
 
 {"key": "saohuo","name": "🔥骚火┃直连","type": 3,"searchable": 1,"quickSearch": 1,"playerType": "2","api": "csp_XBPQ","ext": {"分类url": "https://shdy3.com/list/{cateId}-{catePg}.html;;r1da","分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","ocr": "https://api.xhofe.top/ocr/b64/text","数组二次截取": "class=\"v_list\">&&</ul>","数组": "\"v_img\"&&/div>","标题": "title=\"&&\"","副标题": "v_note\"&&</div","跳转播放链接": "<iframe*src=\"&&\"","二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接": "\"url\"*\"&&\""}},
 //{"key": "csp_Czsapp","name":"🗯️厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://cz01.me/","filterable": 1},
-{"key":"Czsapp","name":"🏭厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.cz0101.com/"},
+{"key":"Czsapp","name":"🏭厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://cz01.pw/"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json"},
 {"key":"毛驴","name":"🍓毛驴┃直连","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"}, 
