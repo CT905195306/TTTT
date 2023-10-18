@@ -58,8 +58,8 @@
 {"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/kunyu77_open.js"},
 {"key":"subaibai","name":"💮素白白┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/subaibai_open.js" },  
 //失效{"key": "nangua","name": "🎃南瓜┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/ng_open.js","categories": ["电视剧", "电影", "综艺", "动漫"]},
-{"key":"huya","name":"🐱虎牙┃极速","searchable":1,"quickSearch":1,"filterable":1,"type":3,"style":{"type":"rect","ratio":1.485},"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/huya_open.js"},
-{"key":"douyu","name":"🐱斗鱼┃极速","searchable":1,"quickSearch":1,"filterable":1,"type":3,"style":{"type":"rect","ratio":1.485},"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/douyu_open.js"},
+{"key":"huya","name":"🐯虎牙┃极速","searchable":1,"quickSearch":1,"filterable":1,"type":3,"style":{"type":"rect","ratio":1.485},"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/huya_open.js"},
+{"key":"douyu","name":"🐟斗鱼┃极速","searchable":1,"quickSearch":1,"filterable":1,"type":3,"style":{"type":"rect","ratio":1.485},"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/douyu_open.js"},
 { "key": "bili", "name": "🅱️哔哩┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bili_open.js" ,"searchable": 1,"changeable": 0},
 { "key": "cntv", "name": "🎯新闻┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/cntv_open.js"},
 { "key": "boosj", "name": "🧗‍童趣┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
@@ -165,7 +165,6 @@
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/js/lib/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./js/lib/drpy2.min.js","ext":"https://agit.ai/CT/TT/raw/branch/master/blzb.js"},
 {"key":"py_douyin","name":"💋抖音┃直播","type":3,"api":"py_douyin","ext":"./py/douyin.py"},
-
 
 
 
