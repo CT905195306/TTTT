@@ -65,7 +65,7 @@
 //{"key":"荐片","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": false},"jar":"./jar/928.jar"},
 
 
-{ "key": "wogg", "name":"😼玩偶┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext":"./jar/tok.txt","jar": "./jar/PG.jar;md5;56BFB32CC28FEA5B58418A960C35A028"},
+//{ "key": "wogg", "name":"😼玩偶┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js", "ext":"./jar/tok.txt"},
 {"key":"jiohub","name":"👲🏿JOJO┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/jiohub_open.js"},
 {"key":"libvio","name":"👀立波┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/libvio_open.js"},
 {"key":"555dy","name":"🐱555┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/555_open.js"},
