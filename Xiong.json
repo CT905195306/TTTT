@@ -88,9 +88,6 @@
 //{ "key": "dsp", "name": "📱短视频┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/dsp_open.js"},
 { "key": "bookan", "name": "📚book┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
 
-{"key":"dsxys","name":"👲🏿JOJO┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/dsxys_open.js"},
-{"key":"ikanbot","name":"👀立波┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/ikanbot_open.js"},
-
 
 { "key":"csp_woggcli", "name":"📕玩偶(jun)┃4K", "type":4, "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f19d7f8bd9d845ad83ddd36e9ae46d6b", "searchable":1, "quickSearch":1, "filterable":1},
 {"key": "荐片","name": "⏳荐片(jun)┃磁力","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1},
