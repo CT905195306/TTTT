@@ -86,6 +86,7 @@
 //{ "key": "dsp", "name": "📱短视频┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/dsp_open.js"},
 { "key": "bookan", "name": "📚book┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
 
+{ "key": "nanguajisuboo", "name": "📚nangua┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/ng_open.js"},
 
 
 
