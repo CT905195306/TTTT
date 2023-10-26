@@ -34,6 +34,7 @@
 
 {"key": "賤賤","name": "⏳荐片┃磁力","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json","jar": "./jar/fmnb.jar;md5;6aa99ddfd99dd2e5b68615edd29ddb43"},
 //{"key":"js_荐片", "name":"⏳荐片┃磁力", "type":3, "api":"./js/lib/drpy2.min.js", "ext":"./js/荐片.js", "playerType":1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key":"Dygang","name":"电影港┃磁力","type":3,"api":"csp_Dygang","jar": "./jar/qj1024.jar;md5;b0ebd6d9d069f1cc325625ee47ac921d"},
 
 {"key": "ok","name": "🏝️Free┃App","type": 3,"api": "csp_XBPQ","playerType": "1","ext": {"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类": "电影&剧集&动漫&综艺","分类值": "1&2&3&4","嗅探词": "m3u8#.m3u8#.mp4#mp4","搜索url": "https://www.cupfox.app/s/{wd}","搜索模式": "1","搜索二次截取": "type=\"application/json\">&&</script>","搜索数组": "{\"te&&}[包含:freeok]","搜索图片": "http://xhww.fun:63/小米/4.jpeg","搜索标题": "xt\":\"&&\"","搜索链接": "\"url\":\"&&\"","搜索副标题": "module-item-note\">&&</div>","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "<p>&&</p>"}},
 //{ "key":"jszy", "name":"🐰🎯极速┃App","type": 1, "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "playUrl":"https://k.playerla.com/?url=","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","动画片","大陆综艺"]},
