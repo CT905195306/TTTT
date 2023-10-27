@@ -324,7 +324,7 @@
 //{"key":"csp_Aid","name":"🚑︎急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio": 3.8},"jar":"./jar/aid.jar;md5;510FA1663F7067BD4D40DE06097202BF"},
 {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio": 3.8}},
 
-{"key": "py_youer","name": "🅱️幼儿┃教育","type": 3,"api": "py_youer","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/youer.py"},
+{"key": "py_youer","name": "🅱️幼儿┃教育","type": 3,"api": "py_youer","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/youer.py","jar": "./jar/fan1023.jar;md5;8F8F0F3CB3D1C025746FFB35B22748A5"},
 {"key": "py_xiaoxue","name": "🅱️小学┃教育","type": 3,"api": "py_xiaoxue","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/xiaoxue.py"},
 {"key": "py_czxx","name": "🅱️初中┃教育","type": 3,"api": "py_czxx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/chuzhong.py"},
 {"key": "py_gaozxx","name": "🅱️高中┃教育","type": 3,"api": "py_gaozxx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py/gaozhong.py"},
