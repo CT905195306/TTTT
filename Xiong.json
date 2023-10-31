@@ -11,9 +11,9 @@
 
 
 //{"key": "csp_WoGG","name": "🎈玩偶┃4K(弹幕)","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./jar/tok.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"},
-{"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wogg.xyz/", "timeout":30,"jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
-{"key":"csp_Wobg","name":"🧸玩偶┃4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wobge.run.goorm.io", "timeout":30,"jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
-{"key":"csp_Hdhive","name":"☄️影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt","jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
+{"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wogg.xyz/$$$1", "timeout":30,"jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
+{"key":"csp_Wobg","name":"🧸玩偶┃4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wobge.run.goorm.io$$$1", "timeout":30,"jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
+{"key":"csp_Hdhive","name":"☄️影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt$$$1","jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
 //{"key": "csp_KungFu404","name":"⚙️阿里┃设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/阿里设置.txt"},
 {"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
 //🗯️✏️🐙💥🦄️🦑🦀🍼💡🐄🌟
