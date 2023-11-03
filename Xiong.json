@@ -9,11 +9,9 @@
 
 {"key":"直播大全","name":"📡电视┃直播","type":3,"api":"./js/lib/apilive2cms.js","style":{ "type":"oval"},"changeable":0,"ext":"./js/live2.json"},
 
-{"key": "maolv","name": "影视|毛驴","type": 3,"api": "csp_Maolv","searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "./jar/YSZYZ.jar;md5;530A76519653A6BE2302A4C6AD2D25B7"},
- {"key": "jojo","name": "影视|JOJO","type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "公众号:影视资源站"}, 
- {"key": "yqkan","name": "影视|一起看","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 0}, 
-{"key": "xifan","name": "动漫|稀饭","type": 3,"api": "csp_Xifan","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "公众号:影视资源站"}, 
-{"key": "putao","name": "短剧|葡萄","type": 3,"api": "csp_WebPuTao","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "公众号:影视资源站"}, 
+ {"key": "yqkan","name": "影视|一起看","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/YSZYZ.jar;md5;530A76519653A6BE2302A4C6AD2D25B7"},
+{"key": "xifan","name": "动漫|稀饭","type": 3,"api": "csp_Xifan","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "公众号:影视资源站","jar": "./jar/YSZYZ.jar;md5;530A76519653A6BE2302A4C6AD2D25B7"},
+{"key": "putao","name": "短剧|葡萄","type": 3,"api": "csp_WebPuTao","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "公众号:影视资源站","jar": "./jar/YSZYZ.jar;md5;530A76519653A6BE2302A4C6AD2D25B7"},
 
 {"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wogg.xyz/$$$1", "timeout":30,"jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
 {"key":"csp_Wobg","name":"🧸玩偶┃4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wobge.run.goorm.io", "timeout":30,"jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
