@@ -274,7 +274,7 @@
 
 
 
-{"key":"AList","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json","jar": "./jar/fan928.txt;md5;1283F666A6CAD6C58530D7F2D5EEF333"},
+{"key":"AList","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json","jar": "./jar/0329fty.jar;md5;1283F666A6CAD6C58530D7F2D5EEF333"},
 {"key":"py_baby","name":"👼宝宝┃合集","type":3,"api":"py_baby","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/baby.py"},
 {"key": "book","name": "📔Book┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/MyCatBookan.js"},
 
