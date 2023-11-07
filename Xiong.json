@@ -16,7 +16,7 @@
 {"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
 
 
-//🗯️✏️🐙💥🦄️🦑🦀🍼💡🍥🗽🦢🍮☀
+//🗯️✏️🐙🦑🦀🍼💡🗽🦢🍮☀
 
 
 
@@ -92,11 +92,7 @@
 {"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kkys_open.js"},
 {"key":"南瓜极速","name":"🎃南瓜┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/ng_open.js"},
 {"key":"nmys2","name":"🌾农民┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/nmys_open.js"},
-{"key":"yrzj","name":"🥥伊人┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/mino_open.js"},
-{"key":"mino_open","name":"🗯️图图┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/duanju_open.js"},
-{"key":"mino4_open","name":"🗯️图图┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kuwo_open.js"},
-{"key":"mino2_open","name":"🗯️图图┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/cntv2_open.js"},
-{"key":"mino3_open","name":"🗯️图图┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/miku_open.js"},
+//{"key":"yrzj","name":"🥥伊人┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/mino_open.js"},
 {"key":"libvio","name":"🗯️立波┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/libvio_open.js"},
 //{"key":"555dy","name":"🐱555┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/555_open.js"},
 {"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/kunyu77_open.js"},
@@ -106,6 +102,9 @@
 {"key": "huya","name": "🐯虎牙┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/huya_open.js","ext": {"categories": "一起看#网游竞技#英雄联盟#综合手游#英雄联盟手游#王者荣耀#单机热游#颜值#二次元#星秀#音乐#原创"}},
 {"key":"douyu","name":"🐟斗鱼┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/douyu_open.js"},
 { "key": "bili", "name": "🅱️哔哩┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bili_open.js" ,"searchable": 1,"changeable": 0},
+{"key":"duanju_open","name":"🦄️短剧┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/duanju_open.js"},
+{"key":"kuwo_open","name":"💥酷我┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kuwo_open.js"},
+{ "key":"cntv2","name":"🍥央视┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/cntv2_open.js"},
 { "key": "cntv", "name": "🎯新闻┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/cntv_open.js"},
 { "key": "boosj", "name": "🧗‍童趣┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
 { "key": "tuxiaobei", "name": "🐰兔小贝┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/tuxiaobei_open.js"},
