@@ -33,7 +33,6 @@
 {"name":"🦀9T(Adult)","server": "https://drive.9t.ee"},
 
 {"name":"🌨云播放","server": "https://quanzi.laoxianghuijia.cn"},
-{"name": "🙋丫仙女","server": "http://alist.xiaoya.pro/","startPage": "/","showAll": false,"search": true,"headers": {"Authorization": ""},"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}},
 {"name": "🌱正奕合集","server": "http://www.jczyl.top:5244/"},
 {"name": "🌱东哥","server": "http://101.34.67.237:5244/"},
 {"name": "🌱美云","server": "https://h.dfjx.ltd/"},
