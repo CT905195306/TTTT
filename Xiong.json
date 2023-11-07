@@ -110,6 +110,8 @@
 { "key": "贝乐虎", "name": "🐯贝乐虎┃极速", "searchable": 1,"quickSearch": 1,"filterable": 1,"type": 3,"style":{ "type":"rect", "ratio":0.8 },"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/Be_open.js"},
 { "key": "dsp", "name": "📱短视频┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/dsp_open.js"},
 { "key": "bookan", "name": "📚book┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
+//{ "key": "book","name": "📔Book┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/MyCatBookan.js"},
+
 
 //{ "key":"csp_woggcli", "name":"📕玩偶(jun)┃4K", "type":4, "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=df930ba390904442bff1858f4f569122", "searchable":1, "quickSearch":1, "filterable":1},
 {"key":"csp_woggcli","name":"📕玩偶(jun)┃4K","type":4,"api": "http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"ext":"./jar/tok.txt","quickSearch":1,"filterable":1},
@@ -276,7 +278,6 @@
 
 {"key":"AList","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
 {"key":"py_baby","name":"👼宝宝┃合集","type":3,"api":"py_baby","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/baby.py"},
-{"key": "book","name": "📔Book┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/MyCatBookan.js"},
 
 
 
