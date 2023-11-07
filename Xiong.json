@@ -12,7 +12,7 @@
 "name": "Alist",
 "type": 40,
 "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/lib/alist_open.js",
-"ext": "./json/aliopen.js"},
+"ext": "./json/aliopen.json"},
 {"key":"csp_WoGG","name":"🐨玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wogg.xyz/$$$1", "timeout":30,"jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
 {"key":"csp_Wobg","name":"🧸玩偶┃4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wobge.run.goorm.io", "timeout":30,"jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
 {"key":"csp_Hdhive","name":"☄️影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt$$$1","jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
