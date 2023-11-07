@@ -104,7 +104,7 @@
 { "key": "bili", "name": "🅱️哔哩┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bili_open.js" ,"searchable": 1,"changeable": 0},
 {"key":"duanju_open","name":"🦄️短剧┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/duanju_open.js"},
 {"key":"kuwo_open","name":"💥酷我┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kuwo_open.js"},
-{"key":"MV_open","name":"🍮MV┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/MV_open.js"},
+{"key":"MV_open","name":"🍮🇲🇻MV┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/MV_open.js"},
 { "key":"cntv2","name":"🍥央视┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/cntv2_open.js"},
 { "key": "cntv", "name": "🎯新闻┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/cntv_open.js"},
 { "key": "boosj", "name": "🧗‍童趣┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
