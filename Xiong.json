@@ -13,72 +13,23 @@
 {"key":"csp_Hdhive","name":"☄️影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt$$$1","jar": "./jar/PG.jar;md5;DFA0B60251798BC749150508AC57DDCA"},
 //{"key": "csp_KungFu404","name":"⚙️阿里┃设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./jar/阿里设置.txt"},
 {"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
-{
-      "key": "push_agent2",
-      "name": "🗺聚合搜索",
-      "type": 4,
-      "api": "https://api-lmteam.koyeb.app/PythonT4/ali",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "94fd5ab297e24a769bb762375118ec47",
-        "apiList": [
-          {
-            "name": "非凡",
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"
-          },
-           {
-            "name": "索尼",
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8"
-          },
-          {
-            "name": "量子",
-            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
-          }
-        ]
-      },
-      "changeable": 1
-    },
+
  {
       "key": "csp_AucFox",
-      "name": "🪢AucFox",
+      "name": "🪢AucFox┃app",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/AucFox.json"},   
         {
            "key": "小苹果",
-           "name": "💖分享苹果",
+           "name": "🍎小苹果┃app",
            "type": 3,
            "api": "csp_XBPQ",
            "searchable": 1,
            "quickSearch": 1,
            "filterable": 1,
-           "ext":{ 
-    "站名":"小苹果影视",
-    
-    "主页url":"https://gasdde.dshejrfc.com/",
-    
-    "简介":"💕一个分享者💕提醒您：请勿相信影片中的广告，以免上当受骗！++<p>&&</p>",
-    
-    "导演":"一个分享者+导演：&&</p>",
-    
-    "数组":"stui-vodlist__thumb lazyload\"&&</a>",
-    
-    "副标题":"pic-text text-right\">&&</span>",
-    
-    "图片":"data-original=\"&&\"",
-    
-    "搜索url":"/search/{wd}/{pg}.html",
-    
-    "线路数组":"<h3 class=\"title\">&&</h3>",
-    
-    "线路标题":"LiteApple",
-    
-    "分类url":"https://gasdde.dshejrfc.com/video/{cateId}?order={by}&year={year}&vlang=&area=&page={catePg};;ak",
-    
-    "分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
-    }},    
+           "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/小苹果.json"
+    }, 
 
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥
 
