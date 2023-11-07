@@ -1,4 +1,4 @@
-{"drives": [	
+{"drives": [		
 {"name": "🙋丫仙女","server": "http://alist.xiaoya.pro/","startPage": "/","showAll": false,"search": true,"headers": {"Authorization": ""},"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}},
 {"name": "🌱正奕合集","server": "http://www.jczyl.top:5244/"},
 {"name": "🌱东哥","server": "http://101.34.67.237:5244/"},
