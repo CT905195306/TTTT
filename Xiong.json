@@ -15,60 +15,7 @@
 
 
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥🦋
-{
-      "key": "csp_揪揪",
-      "name": "✨揪揪┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox.top/qq.php",
-      "playUrl": ""
-    },
-    {
-      "key": "csp_简影",
-      "name": "✨简简┃影视┃测试",
-      "type": 1,
-      "api": "https://www.xy1080.net/api.php/provide/vod/from/jiguang"
-    },
-    {
-      "key": "csp_双双",
-      "name": "✨双双┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://cj.md214.cn/api.php/provide/vod/",
-      "playUrl": ""
-    },
-    {
-      "key": "csp_秋秋",
-      "name": "✨秋秋┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/qq",
-      "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="
-    },
-    {
-      "key": "csp_艺艺",
-      "name": "✨艺艺┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",
-      "playUrl": ""
-    },
-    {
-      "key": "csp_搜搜",
-      "name": "✨搜搜┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
-      "playUrl": " json:http://jx.realdou.cn/api/?cat_ext=ImZsYWciOiBbInFxIiwgIuiFvuiuryIsICJxaXlpIiwgIueIseWlh-iJuiIsICLlpYfoiboiLCAieW91a3UiLCAi5LyY6YW3IiwgIm1ndHYiLCAi6IqS5p6cIiwgImxldHYiLCAi5LmQ6KeGIiwgInBwdHYiLCAiUFBUViIsICJpbWdvIiwic29odSIsICJiaWxpYmlsaSIsICLpnZ7lh6EiLCAi5ZOU5ZOpIl0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuMS4wIn19fQ==&key=j4vwSEv2iAE54EWTbM&url="
-    },
-    {
-      "key": "csp_360",
-      "name": "✨卫卫┃影视┃测试",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox.top/360.php",
-      "playUrl": ""
-    },
+
 
 
 //{"key": "影探VIP","name": "🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
