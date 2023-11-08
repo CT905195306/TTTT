@@ -94,13 +94,6 @@
 //{"key":"555dy","name":"🐱555┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/555_open.js"},
 {"key": "kunyu77","name": "👒七七┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/kunyu77_open.js"},
 //{"key":"subaibai","name":"💮素白白┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/subaibai_open.js" },
-{"key":"djwm","name":"💮短剧┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/djwm_open.js" },
-{"key":"mimiju","name":"💮迷迷剧┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/mimiju_open.js" },
-
-{"key":"vsdj","name":"💮素vsdj┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/vsdj_open.js" },
-{"key":"duanju_open","name":"🦄️短剧┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/duanju_open.js"},
-{"key":"kuwo_open","name":"💥酷我┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kuwo_open.js"},
-
 //{"key": "huya2","name": "🐯虎牙｜直播｜🔹","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/huya2_open.js","ext": {"from": "official","custom": "1,英雄联盟#2336,王者荣耀"}},
 //{"key": "douyu2","name": "🐟斗鱼｜直播｜🔸","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/douyu2_open.js","ext": {"from": "official","custom": "LOL,英雄联盟#wzry,王者荣耀"}},
 {"key": "huya","name": "🐯虎牙┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/huya_open.js","ext": {"categories": "一起看#网游竞技#英雄联盟#综合手游#英雄联盟手游#王者荣耀#单机热游#颜值#二次元#星秀#音乐#原创"}},
@@ -112,6 +105,9 @@
 { "key": "boosj", "name": "🧗‍童趣┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/boosj_open.js"},
 { "key": "tuxiaobei", "name": "🐰兔小贝┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/tuxiaobei_open.js"},
 { "key": "贝乐虎", "name": "🐯贝乐虎┃极速", "searchable": 1,"quickSearch": 1,"filterable": 1,"type": 3,"style":{ "type":"rect", "ratio":0.8 },"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/Be_open.js"},
+{"key":"mimiju","name":"🤡迷迷剧┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/mimiju_open.js" },
+{"key":"duanju_open","name":"🦄️短剧┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/duanju_open.js"},
+{"key":"kuwo_open","name":"💥酷我┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kuwo_open.js"},
 { "key": "dsp", "name": "📱短视频┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/dsp_open.js"},
 { "key": "bookan", "name": "📚book┃极速", "type": 3, "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/bookan_open.js"},
 //{ "key": "book","name": "📔Book┃极速","type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/MyCatBookan.js"},
