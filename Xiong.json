@@ -15,7 +15,26 @@
 
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥🦋
 
-
+{ "key": "buleiv5", "name": "猫丨布蕾v5",
+"type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/apptov5_open.js","ext": {"domains":["https://v5-public-1251970844.cos.ap-shanghai.myqcloud.com/accredits/68.json"],"aesKey":"xMQFiWw77QzaiBDKNWjNRAChrenE2zB2","aesIV":"j2WbrZph6G7m2mRM","rasPublicKey":"-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvBB/JjVWPpKFAWJCiQc5\neP6FrwNG8mXt/Y/yk98sigh/vNtX0sQX56eQi1YNvZ8sIiqoVWMl1/5NlANA0A/G\n/BiH5hCFYqY5L8adZIZgSd/QR8zMAyEDccVaNog6nmXQkGWjm/269Gl+gFaCOtXO\nzyEullcgevPcGHXwAGbGc1U3XaQjydC3mF290Mk4wKSjCn3sVfMSlgh8lsPhFvBo\n5MqqBWEkIz+eF+3ni2jQqHz1oy23RLPx9cV02GAHCQWFDlEZFUXvQHJU7RJP0X0z\nfpSg9bqVQ22iRvSWIE13S4SRf18eKt7S3yeH53sv/se/evXKyYE7P4wGhxhNuhOe\nXQIDAQAB\n-----END PUBLIC KEY-----\n","ic":"fVO1y5qVGVto+xbgx3hgGlmgOBmxt1sr5g+uWbrh8ENTyZcVFduzilI0OHY/uAMcLNe4EjaSZjmsc8t2SCdcIxZ1q2i+OJHTB90YjwjG+5mLjKf8gbTBhztyxJk68atX5msA1qsFJVhxnqHCGBkViA=="}},
+{ "key": "susouv5", "name": "猫丨速搜v5",
+"type": 3,"api": "https://agit.ai/CT/Tong/raw/branch/master/cat/apptov5_open.js","ext":
+{"domains": ["http://app.pan.lu/url.json","http://api.quuu.cc/url.json"],"aesKey": "QJYFfHtSajHQmSdKFwtfFYGTtimcME5z",
+    "aesIV": "epk3BccmbMR2xNYy",
+    "rasPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApH+iXclaMGlRqBdGjDyn\nIfGivHwYsjFJvXosC2kVwEBlGpEQKVLNlQeVAGq42tQbs+0pA4yuD2pI779cBfNw\nPv6Pcmsj4sRd02WTSNGwR2dOInhdSTp57Q90D4mQaQ+9zL9789fwcfvflBcozzB1\nzks9w26B7aE8x6trOI4Iy8MJcoKYMj5PRdo5oPUA13/+L9tQRe/04ziAz9pvkqxG\niajRPzsZBAl9iSgCakax+SI2meTi1/BfN9/jGy2OVvL5Q3w1LMZWdBuO9MsDxI+K\nKQnvC+rDGEcq6njONn30kNYot/tClt27VMsHQqeAzAUB0ecXABXubrHp38DCP9Bs\nwwIDAQAB\n-----END PUBLIC KEY-----",
+    "ic": "7SqqIxm2Rvnw4Ck02rpxcvEVuhCe+kJLhaGym5XNpIdYZtVEdwkEMR77W/RpPXNqz8PbvqESriov8oFjxjpifYAL8db+TxXlScJqLiPM2RzdxEyPoAsv04B4QBOYnVL5"}},
+{ "key": "rejumaov5",
+                "name": "猫丨热剧猫v5",
+                "type": 3,
+                "api": "https://agit.ai/CT/Tong/raw/branch/master/cat/apptov5_open.js",
+                "ext": {
+                    "domains": ["https://app-1253196701.cos.ap-shanghai.myqcloud.com/app.txt", "https://www.daenwl.com/app.txt"],
+                    "aesKey": "8y8sDX3ZG22yACH3ZM5KfNGieTxEMKFe",
+                    "aesIV": "WxRAbh68C8pP6SpN",
+                    "rasPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Ykikz4aIqkJC899VxwX\nwx27bZJGV/fDbgAHtXxZ73Mq8QWuPfeAanWDWiGPhJu5aVQndADi7B0L5RBIrirf\n6lIzA+l8Ubt6+nvPYQ9NSlRkObE4ML2Hw7ccAmcqzDD0vplJz7Y8o7qKIoyfK5NP\nXDuiv52HgbyEP6KlWCiDfMuIsAA+/3x9C/0RDRgjf3x+24EuGOD6Gnw+rVJCOb64\nW4KZ7vH/uhaQSLLnNYF9VD00c072tOeaBt2mElexJN66gcP65kmrkI5grFz2RcEg\nIEkwUcYBNiFeHUcFyQZuDj/DLqQidwMhFJfkcUuMtByR9cYl9BpqT/3NKVQ1EPrV\n7QIDAQAB\n-----END PUBLIC KEY-----",
+                    "ic": "fwEUWytkwJqHICtu/kNrXOVGQAzWUw1mGuQYdT1heOKZ6vEEI+4jf6LAHJ/f4h39ZR2WL4fccGchSoCm+pqkBRi8asSMqZzKGGfY8ejzrYHxDjiTOhs4B6p/iC8Nrj+bcCmXAjVNksfxlcjU6JlbRQ=="
+                }
+            },
 
 //{"key": "影探VIP","name": "🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
 //{"key":"布蕾影视","name":"⚡️布蕾┃4K","type":3,"api":"csp_Appto","playerType":2,"ext":{"domain":"http://117.175.212.202:5599","enabled":true},"aesKey":"xMQFiWw77QzaiBDKNWjNRAChrenE2zB2","aesIV":"j2WbrZph6G7m2mRM","rasPublicKey":"-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvBB/JjVWPpKFAWJCiQc5\neP6FrwNG8mXt/Y/yk98sigh/vNtX0sQX56eQi1YNvZ8sIiqoVWMl1/5NlANA0A/G\n/BiH5hCFYqY5L8adZIZgSd/QR8zMAyEDccVaNog6nmXQkGWjm/269Gl+gFaCOtXO\nzyEullcgevPcGHXwAGbGc1U3XaQjydC3mF290Mk4wKSjCn3sVfMSlgh8lsPhFvBo\n5MqqBWEkIz+eF+3ni2jQqHz1oy23RLPx9cV02GAHCQWFDlEZFUXvQHJU7RJP0X0z\nfpSg9bqVQ22iRvSWIE13S4SRf18eKt7S3yeH53sv/se/evXKyYE7P4wGhxhNuhOe\nXQIDAQAB\n-----END PUBLIC KEY-----\n","ic":"fVO1y5qVGVto+xbgx3hgGlmgOBmxt1sr5g+uWbrh8ENTyZcVFduzilI0OHY/uAMcLNe4EjaSZjmsc8t2SCdcIxZ1q2i+OJHTB90YjwjG+5mLjKf8gbTBhztyxJk68atX5msA1qsFJVhxnqHCGBkViA=="},
