@@ -1,5 +1,5 @@
 {
-"spider":"./PG1114.jar;md5;1763478AAACDA9AA36B7A5E0C8FF33C3",
+"spider":"./jar/PG1114.jar;md5;1763478AAACDA9AA36B7A5E0C8FF33C3",
 "sites":[
 {"key":"酷狗","name":"酷狗","type":3,"api":"csp_Kugou","searchable":0,"changeable":0},
 {"key":"Local","name":"本地","type":3,"api":"csp_Local"},
