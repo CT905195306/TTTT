@@ -290,8 +290,7 @@
 {"key":"XBPQ_fant2","name":"🍙饭团┃影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影院.json"},
 {"key":"UM影院","name":"⏺UM┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/um.js"},
 {"key":"创艺影视","name":"🌋创艺┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/chuangyi.js"},
-//{"key":"drpy_js_子子影视","name":"☁️子子┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/子子影视.js"},
-{"key":"子子","name":"☁️子子┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json","jar":"./jar/7.jar;md5;68468d6fd4914032bb8f3ad2b375b949"},
+{"key":"drpy_js_子子影视","name":"☁️子子┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/子子影视.js"},
 
 
 
