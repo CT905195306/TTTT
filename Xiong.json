@@ -96,11 +96,17 @@
 //{"key":"玩偶短剧","name":"🐻玩偶┃短剧","type":3,"api":"csp_XBPQ","jar":"http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f","ext":{"二次截取":"1&&-1+module-item-cover","数组":"module-item-pic&&module-item-cover","图片":"data-src\"&&\"","副标题":"module-item-text*>&&</div","链接":"href=\"&&\"","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"剧情：&&</div>","搜索url":"https://wogg.xyz/index.php/vodsearch/-------------.html?wd={wd}","分类url":"https://wogg.xyz//index.php/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;阿里","./jar/tok.txt":"df930ba390904442bff1858f4f569122","分类":"短剧$40"}},
 //{"key":"荐片","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},"jar":"./jar/928.jar"},
 
-{"key":"kkys1","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/1free_open.js"},
-{"key":"kkys2","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/4kys_open.js"},
-{"key":"kkys3","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/52ju_open.js"},
-{"key":"kkys4","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/58dm_open.js"},
-{"key":"kkys5","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/108kk_open.js"},
+//{"key":"kkys1","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/1free_open.js"},
+//{"key":"kkys2","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/4kys_open.js"},
+//{"key":"kkys3","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/52ju_open.js"},
+//{"key":"kkys4","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/58dm_open.js"},
+//{"key":"kkys5","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/108kk_open.js"},
+{"key":"kkys6","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/adm_open.js"},
+{"key":"kkys7","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/anfun_open.js"},
+{"key":"kky8","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/czzy_open.js"},
+{"key":"kkys9","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/djwm_open.js"},
+{"key":"kkys10","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/XYQ/raw/branch/master/cat/dnys_open.js"},
+
 
 //{"key":"wogg","name":"😼玩偶┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js","ext":"./jar/tok.txt"},
 {"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kkys_open.js"},
