@@ -13,7 +13,9 @@
 {"key":"csp_Hdhive","name":"☄️影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt$$$null$$$1","jar":"./jar/PG.jar;md5;23461D9553474037F5CA776274003C90"}, 
 {"key":"Ppxzy","name":"🦐皮皮虾┃4K","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"./jar/tok.txt$$$https://ppxzy.net/$$$null$$$1", "timeout":30,"jar":"./jar/PG.jar;md5;23461D9553474037F5CA776274003C90"},  
 //{"key":"csp_KungFu404","name":"⚙️阿里┃设置","type":3,"api":"csp_KungFu404","searchable":1,"filterable":0,"changeable":0,"jar":"./jar/阿里设置.txt"},
-//{"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
+//{"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
+{"key": "影探VIP","name":"🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
+
 
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥😸🤖🐄🍘⚡🐈‍👓🧹🍡🏫☄️🦐🎈💥👲🏿
 {"key":"南瓜fan","name":"🎃南瓜┃直连","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -211,7 +213,7 @@
 {"key": "kukApp","name":"🍒天堂┃App","type": 3,"api": "csp_AppYsV2","ext": "http://dytt996.com/api.php/app/"},    
 {"key": "kkuApp","name":"❄酷影┃App","type": 3,"api": "csp_AppYsV2","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key": "kuuApp","name":"⛈酷客┃App","type": 3,"api": "csp_AppYsV2","ext": "https://www.kuin.one/api.php/app/"},   
-{"key": "qtwApp","name":"🌈彩虹┃App","type": 3,"api": "csp_AppYsV2","ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"},               
+{"key": "qtwApp","name":"🌈彩虹┃App","type": 3,"api": "csp_AppYsV2","ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"},      
 {"key": "tiantian","name":"🍟天天┃App","type": 3,"api": "csp_AppYsV2","ext": "https://ttsp.live/api.php/app/"},
 {"key": "qiqiApp","name":"🍍奇奇┃App","type": 3,"api": "csp_AppYsV2","ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"迷你库","name":"Ⓜ️迷你库┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
