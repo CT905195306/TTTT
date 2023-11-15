@@ -27,7 +27,19 @@
 
 //{"key":"csp_Alistxy","name":"♻️Alist┃4K","type":3,"jar":"./jar/AListxy.jar;md5;56BFB32CC28FEA5B58418A960C35A028","api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"💃小雅搜索①","server":"http://124.71.206.236:5678","version":3},{"name":"💃小雅搜索②","server":"http://60.204.139.228:5678/","version":3},{"name":"💃小雅搜索③","server":"http://182.116.92.150:5678","version":3},{"name":"💃小雅搜索④","server":"http://112.226.137.40:5678","version":3},{"name":"💃小雅搜索⑤","server":"http://115.57.11.199:5678","version":3},{"name":"💃小雅搜索⑥","server":"http://116.22.128.30:5678","version":3},{"name":"💃小雅搜索⑦","server":"http://117.63.42.183:5678","version":3}]}},
 
-
+{"key": "xinxinys","name": "APP丨鑫鑫","type": 3,"api": "csp_AppYsV2","ext":"http://yingszj.xn--654a.cc/api.php/app/"},
+{"key": "csp_电影","name": "APP丨贝贝","type": 3,"api": "csp_AppYsV2","ext":"https://app.dianyi.ng/api.php/v1.vod"},
+{"key": "69mj","name": "APP丨美剧","type": 3,"api": "csp_AppYsV2","ext": "https://www.69mj.com/xgapp.php/v2/" },
+{"key": "aidi","name": "APP丨爱迪","type": 3,"api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
+{"key": "kuk","name": "APP丨天堂","type": 3,"api": "csp_AppYsV2","ext": "http://dytt996.com/api.php/app/"},    
+{"key": "kku","name": "APP丨酷影","type": 3,"api": "csp_AppYsV2","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key": "kuu","name": "APP丨酷客","type": 3,"api": "csp_AppYsV2","ext": "https://www.kuin.one/api.php/app/"},  
+{"key": "sukan","name": "APP丨速看","type": 3,"api": "csp_AppYsV2","ext": "https://sk100.tv/api.php/app/"},  
+{"key": "qtw","name": "APP丨彩虹","type": 3,"api": "csp_AppYsV2","ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"},               
+{"key": "hello","name": "APP丨哈喽","type": 3,"api": "csp_AppYsV2","ext": "http://www.miniku.cc/xgapp.php/v1/"},
+{"key": "miniku","name": "APP丨迷你","type": 3,"api": "csp_AppYsV2","ext": "http://www.miniku.cc/xgapp.php/v1/"},
+{"key": "tiantian","name": "APP丨天天","type": 3,"api": "csp_AppYsV2","ext": "https://ttsp.live/api.php/app/"},
+{"key": "qiqi","name": "APP丨奇奇","type": 3,"api": "csp_AppYsV2","ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 
 {"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt$$$https://api.wogg.xyz/$$$null$$$1", "timeout":30,"jar":"./jar/PG.jar;md5;23461D9553474037F5CA776274003C90"},
