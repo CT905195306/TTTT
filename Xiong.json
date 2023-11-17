@@ -16,6 +16,7 @@
 //{"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"key": "影探VIP","name":"🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
 
+{"key":"lf_js_p2p","name":"路飞 | 磁力[js]","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./js/lib/apiv191lf_p2p2_min.js","timeout":30},
 
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥😸🤖🐄🍘⚡🐈‍👓🧹🍡🏫☄️🦐🎈💥👲🏿
 {"key":"南瓜fan","name":"🎃南瓜┃直连","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
