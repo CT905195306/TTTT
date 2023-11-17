@@ -233,13 +233,11 @@
 {"key": "qiqiApp","name":"🍍奇奇┃App","type": 3,"api": "csp_AppYsV2","ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"迷你库","name":"Ⓜ️迷你库┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"迪迪","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-{"key":"鸭奈飞","name":"🦆鸭奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
-{"key":"分享酷云1","name":"💖彩云┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
-{"key":"分享雨晴","name":"💖晴天┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
-{"key":"分享多云","name":"蓝天┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttsp.live/api.php/app/"},
-{"key":"分享涂城","name":"💖涂城┃App","type":0,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"playUrl":"json:https://www.qiaoji8.com/tvbox/json1.php?url="},
-{"key":"分享玉米","name":"💖玉米┃App","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"apv2_刺桐","name":"💖刺桐┃App","type":3,"api":"csp_AppYsV2","searchable":1,"ext":"http://pgcms.cttv.vip/api.php/app/"},
+{"key":"鸭奈飞","name":"🦆鸭奈飞┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
+{"key":"分享雨晴","name":"🌞晴天┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
+{"key":"分享多云","name":"🎐蓝天┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttsp.live/api.php/app/"},
+{"key":"分享涂城","name":"⛄涂城┃App","type":0,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"playUrl":"json:https://www.qiaoji8.com/tvbox/json1.php?url="},
+{"key":"apv2_刺桐","name":"🌩刺桐┃App","type":3,"api":"csp_AppYsV2","searchable":1,"ext":"http://pgcms.cttv.vip/api.php/app/"},
 
 
 {"key":"午夜","name":"🍃梧叶┃影视","type":3,"api":"csp_XBPQ","ext":{"数组":"pic\">&&</li>","副标题":"item-statustext-overflow\">&&</p>","搜索url":"/vodsearch/-------------.html?wd={wd}","搜索数组":"pic\">&&</ul>","搜索副标题":"text-overflow\">&&</p>","线路数组":"role=\"group\"&&</em>","线路标题":">午夜线路<","分类url":"http://www.wuyevod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak","分类":"电影$vod#电视剧$tv#综艺$zongyi#动漫$dongman"}},
