@@ -41,7 +41,7 @@
 
 
 //{"key":"賤賤","name":"⏳荐片┃磁力","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"./json/jianpian.json","jar":"./jar/fmnb.jar;md5;6aa99ddfd99dd2e5b68615edd29ddb43"},
-{"key":"lf_js_p2p","name":"👒路飞┃磁力","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./js/lib/apiv191lf_min.js","timeout":30,"jar":"./jar/PG.jar;md5;23461D9553474037F5CA776274003C90"},
+{"key":"lf_js_p2p","name":"👒路飞┃磁力","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./js/lib/apiv191lf_min.js","timeout":30},
 {"key":"js_荐片","name":"⏳荐片┃磁力","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/荐片.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Dygang","name":"🍿电影港┃磁力","type":3,"api":"csp_Dygang","jar":"./jar/PG.jar;md5;23461D9553474037F5CA776274003C90"},
 
