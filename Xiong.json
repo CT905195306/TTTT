@@ -16,16 +16,7 @@
 //{"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"key": "影探VIP","name":"🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
 
-{ 
-"key": "996", 
-"name": "996影视",
- "type": 3, 
- "filterable":   1 , 
-"api": "csp_XBPQ",
- "ext": { 
- "分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
- "分类":"电影$1#电视剧$2#爽文短剧$4#动漫$3","筛选":"1"}
-      },
+
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥😸🤖🐄🍘⚡🐈‍👓🧹🍡🏫☄️🦐🎈💥👲🏿
 {"key":"南瓜fan","name":"🎃南瓜┃直连","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"77","name":"👒七七┃直连","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
@@ -428,8 +419,6 @@
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"996","type": 1,"url": "https://jx.961691.com/player/?url="},
-{"name":"9961","url": "https://jx.961691.com/player/?url=", "type": 0, "ext": {"flag": [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku","优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行"], "header": {"User-Agent": "Mozilla/5.0"}}},
 {"name":"巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name":"饭饭1","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name":"饭饭2","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
