@@ -289,12 +289,22 @@
 
 
 
-{"key":"纸条弹幕版","name":"📜纸条┃弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
-{"key":"盘Se弹幕版","name":"🙀盘Se┃弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
-{"key":"找資源弹幕版","name":"🐺找资源┃弹幕","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","username":"q905195306","password":"CHANG0624","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
-{"key":"七夜弹幕版","name":"😾七夜┃弹幕","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
-{"key":"盘搜弹幕版","name":"🦊盘搜┃弹幕","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
-{"key":"易搜弹幕版","name":"😹易搜┃弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
+//{"key":"纸条弹幕版","name":"📜纸条┃弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
+//{"key":"盘Se弹幕版","name":"🙀盘Se┃弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
+//{"key":"找資源弹幕版","name":"🐺找资源┃弹幕","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","username":"q905195306","password":"CHANG0624","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
+//{"key":"七夜弹幕版","name":"😾七夜┃弹幕","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
+//{"key":"盘搜弹幕版","name":"🦊盘搜┃弹幕","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
+//{"key":"易搜弹幕版","name":"😹易搜┃弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
+
+{"key":"csp_QuPanSou","name":"🐹趣盘搜┃弹幕","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://127.0.0.1:9978/file/Download/tvfan/quark_cookie.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
+{"key":"纸条","name":"📜纸条┃弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
+{"key":"盘Se","name":"🙀盘Se┃弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
+{"key":"找資源","name":"🐺找资源┃弹幕","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "username": "q905195306", "password": "CHANG0624", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
+{"key":"七夜","name":"😾七夜┃弹幕","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
+{"key":"盘搜","name":"🦊盘搜┃弹幕","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
+{"key":"易搜","name":"😹易搜┃弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true, "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"}},
+{"key":"Up云搜","name":"😻Up搜┃弹幕","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
+{"key":"云盘4K","name":"🐯云盘4K┃弹幕","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
 
 
 
