@@ -4,7 +4,7 @@ var rule = {
     homeUrl:'https://yjpapipxblwdohpakljwg.hxhzs.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
 	url:'/api/crumb/list?area=0&category_id=fyclass&page=fypage&type=0&limit=24&fyfilter',
     class_name:'全部&电影&电视剧&动漫&综艺',
- class_url:'0&1&2&3&4',
+    class_url:'0&1&2&3&4',
     detailUrl:'/api/node/detail?channel=wandoujia&token=&id=fyid',//二级详情拼接链接(json格式用)
     searchUrl:'/api/video/search?key=**&page=fypage',
     searchable:2,
@@ -15,8 +15,8 @@ var rule = {
     headers:{
 		'User-Agent':'jianpian-android/350',
 		'JPAUTH':'y261ow7kF2dtzlxh1GS9EB8nbTxNmaK/QQIAjctlKiEv'
-},
- timeout:5000,
+	},
+    timeout:5000,
     limit:8,
     play_parse:true,
     play_json:[{
