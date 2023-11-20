@@ -8,18 +8,7 @@
 {"key":"csp_YGP","name":"⭕新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"直播大全","name":"📡电视┃直播","type":3,"api":"./js/lib/apilive2cms.js","style":{"type":"oval"},"changeable":0,"ext":"./js/live2.json"},
 {"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/$$$弹"},
-{
-      "key": "蜂蜜玩偶",
-      "name": "玩偶┃蜂蜜",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "./jar/tok.txt",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
-      },"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a71b8fa729618f6a1f11fb1b96b5278f"
-    },
+{"key":"蜂蜜玩偶","name":"🐻玩偶(fm)┃4K","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "./jar/tok.txt",  "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"},"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a71b8fa729618f6a1f11fb1b96b5278f"},
 {"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wogg.xyz","timeout":30,"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
 {"key":"csp_Wobg","name":"🧸玩偶(bg)┃4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wobge.run.goorm.io","timeout":30,"jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"},
 {"key":"csp_Hdhive","name":"☄️影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt$$$null$$$1","jar":"./jar/PG.jar;md5;C7490687D67967FCF1AFA46140AEC05D"}, 
@@ -238,7 +227,7 @@
 {"key": "kukApp","name":"🍒天堂┃App","type": 3,"api": "csp_AppYsV2","ext": "http://dytt996.com/api.php/app/"},    
 {"key": "kkuApp","name":"❄酷影┃App","type": 3,"api": "csp_AppYsV2","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key": "kuuApp","name":"⛈酷客┃App","type": 3,"api": "csp_AppYsV2","ext": "https://www.kuin.one/api.php/app/"},   
-{"key": "qtwApp","name":"🌈彩虹┃App","type": 3,"api": "csp_AppYsV2","ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"},      
+{"key": "qtwApp","name":"🌈彩虹┃App","type": 3,"api": "csp_AppYsV2","ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"},
 {"key": "tiantian","name":"🍟天天┃App","type": 3,"api": "csp_AppYsV2","ext": "https://ttsp.live/api.php/app/"},
 {"key": "qiqiApp","name":"🍍奇奇┃App","type": 3,"api": "csp_AppYsV2","ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"迷你库","name":"Ⓜ️迷你库┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
