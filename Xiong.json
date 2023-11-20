@@ -16,7 +16,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "影視天下第一",
+        "token": "./jar/tok.txt",
         "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
       },"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a71b8fa729618f6a1f11fb1b96b5278f"
     },
