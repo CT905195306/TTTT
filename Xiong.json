@@ -305,7 +305,7 @@
 {"key":"找資源","name":"🐺找资源┃弹幕","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "username": "q905195306", "password": "CHANG0624", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
 {"key":"七夜","name":"😾七夜┃弹幕","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
 {"key":"盘搜","name":"🦊盘搜┃弹幕","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
-{"key":"易搜","name":"😹易搜┃弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true, "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"}},
+{"key":"易搜","name":"😹易搜┃弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true, "cookie":"./jar/cookie.txt"}},
 {"key":"Up云搜","name":"😻Up搜┃弹幕","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
 {"key":"云盘4K","name":"🐯云盘4K┃弹幕","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B"},
 
