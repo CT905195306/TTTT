@@ -29,7 +29,7 @@
 //{"key":"影探VIP","name":"🏵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 
 {"key":"小胡","name":"🔥自营┃外剧","type":1,"playerType":1,"api":"http://d.xzam.cn/api.php/provide/vod/"},
-{"key": "ik","name": "🍅热播┃剧集","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/"},
+{"key":"ik","name":"🍅热播┃剧集","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playerType":2,"playUrl":"https://jx.xmflv.com/?url=","categories":["连续剧","动漫"]},
 {"key": "左岸","name": "🌊左岸┃切片","type": 3,"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zuoan.js","searchable": 1,"quickSearch": 1,"changeable": 0},
 {"key": "feiyun","name": "☁️飞云┃切片","type": 3,"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js","searchable": 1,"quickSearch": 1,"changeable": 0},
 //{"key":"csp_Alistxy","name":"♻️Alist┃4K","type":3,"jar":"./jar/AListxy.jar;md5;56BFB32CC28FEA5B58418A960C35A028","api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"💃小雅搜索①","server":"http://124.71.206.236:5678","version":3},{"name":"💃小雅搜索②","server":"http://60.204.139.228:5678/","version":3},{"name":"💃小雅搜索③","server":"http://182.116.92.150:5678","version":3},{"name":"💃小雅搜索④","server":"http://112.226.137.40:5678","version":3},{"name":"💃小雅搜索⑤","server":"http://115.57.11.199:5678","version":3},{"name":"💃小雅搜索⑥","server":"http://116.22.128.30:5678","version":3},{"name":"💃小雅搜索⑦","server":"http://117.63.42.183:5678","version":3}]}},
@@ -190,9 +190,8 @@
 {"key":"csp_Cokemv","name":"📕可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"新片热播","name":"🛁热播┃新剧","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playerType":2,"playUrl":"https://jx.xmflv.com/?url=","categories":["连续剧","动漫"]},
-{"key":"虎虎","name":"🐯虎虎┃影视","type":3,"api":"csp_XBPQ","ext":"./json/虎虎.json"},
 
+{"key":"虎虎","name":"🐯虎虎┃影视","type":3,"api":"csp_XBPQ","ext":"./json/虎虎.json"},
 {"key":"drpy_js_鸭鸭","name":"🦆鸭鸭┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/鸭鸭.js"},
 {"key":"drpy_js_热播库","name":"🐾热播库┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/热播库.js"},
 {"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
@@ -356,13 +355,6 @@
 {"key":"UM影院","name":"⏺UM┃影院","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/um.js"},
 {"key":"创艺影视","name":"🌋创艺┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/chuangyi.js"},
 {"key":"drpy_js_子子影视","name":"☁️子子┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/子子影视.js"},
-
-
-
-{"key":"爱酷","name":"💖资源┃爱酷","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"明帝","name":"️🤴资源┃明帝","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","直播"]},
-
-
 
 
 
