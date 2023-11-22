@@ -27,7 +27,7 @@
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/json/nmys.json"},
 {"key":"Bdys_spider","name":"💡哔滴┃直连","api": "csp_Bdys01","type": 3,"filterable":1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/","jar":"./jar/PG.jar;md5;2F50451404DCC7E07F99C7AFF21028A8"},
 //{"key":"影探VIP","name":"🏵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
-{"key":"xhtx","name":"自营🎅观影","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"},
+{"key":"xhtx","name":"自营🎅观影","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/"},
 {"key":"小胡","name":"🔥自营┃外剧","type":1,"playerType":1,"api":"http://d.xzam.cn/api.php/provide/vod/"},
 {"key": "ik","name": "🍅热播┃剧集","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/"},
 {"key": "左岸","name": "🌊左岸┃切片","type": 3,"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zuoan.js","searchable": 1,"quickSearch": 1,"changeable": 0},
