@@ -57,7 +57,7 @@
 {"key": "玉米","name": "🌽玉米┃采集","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=","searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1},
 
 {"key":"一起看","name":"🎉YQK┃短剧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Ikanbot","name":"👾爱看┃机器","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;CCD12DDBC8857F88A6F52AF005CD016E"},
+{"key":"csp_Ikanbot","name":"👾爱看┃机器","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
 {"key":"xifan","name":"🥣稀饭┃动漫","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar":"./jar/YSZYZ.jar;md5;530A76519653A6BE2302A4C6AD2D25B7"},
 
 
@@ -225,8 +225,8 @@
 {"key": "评书","name":"📻评书┃BPQ","type": 3,"searchable": 0,"style": {"type": "rect","ratio": 1.597},"quickSearch": 0,"api": "csp_XBPQ","ext": {"主页url": "https://www.psmp3.com","数组二次截取": "<ul id=\"post_list_box\">&&</ul","数组":"<li class=\"www_psmp3_com post_list_li\">&&</div>","图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3","标题": "title=\"&&\"","副标题":">&&</a","链接": "href=\"&&\"",    "播放二次截取":"autoplay&&;</script>","播放数组": "\\[&&\\]","播放列表": "{&&}","播放链接": "url*\"&&\"","播放标题": "name*\"&&\"","播放副标题": "artist*\"&&\"","线路数组":"评书随身听","线路标题": "评书随身听","导演": "小米","主演": "评书明星","简介": "评书合集","分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av","分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"},"jar":"./jar/xiangsheng.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 
 
-{"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
-{"key":"csp_XYQHiker_BT天堂","name":"✈️BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
+{"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
+{"key":"csp_XYQHiker_BT天堂","name":"✈️BT天堂┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tt.json","jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
 
 //csp_AppYsV2
 {"key": "xinxinys","name":"🍔鑫鑫┃App","type": 3,"api": "csp_AppYsV2","ext":"http://yingszj.xn--654a.cc/api.php/app/"},
