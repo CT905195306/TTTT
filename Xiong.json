@@ -192,6 +192,7 @@
 {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":0},
 
+{"key":"csp_Kuaikan","name":"👀快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
 {"key":"虎虎","name":"🐯虎虎┃影视","type":3,"api":"csp_XBPQ","ext":"./json/虎虎.json"},
 {"key":"drpy_js_鸭鸭","name":"🦆鸭鸭┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/鸭鸭.js"},
 {"key":"drpy_js_热播库","name":"🐾热播库┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/热播库.js"},
@@ -242,7 +243,7 @@
 //{"key":"csp_Ddys","name":"🐞低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
 //{"key":"csp_Kunyu77","name":"🐞77┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
 //{"key":"csp_JianPian","name":"🔨荐片┃磁力","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
-{"key":"csp_Kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
+
 
 //csp_AppYsV2
 {"key": "xinxinys","name":"🍔鑫鑫┃App","type": 3,"api": "csp_AppYsV2","ext":"http://yingszj.xn--654a.cc/api.php/app/"},
