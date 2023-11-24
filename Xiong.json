@@ -255,7 +255,6 @@
 {"key": "tiantian","name":"🍟天天┃App","type": 3,"api": "csp_AppYsV2","ext": "https://ttsp.live/api.php/app/"},
 {"key": "qiqiApp","name":"🍍奇奇┃App","type": 3,"api": "csp_AppYsV2","ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"迷你库","name":"Ⓜ️迷你库┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-{"key": "嘉靓","name": "🦅嘉良┃影视","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://api.jialiangos.com:81/api.php/app/"},
 {"key":"迪迪","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"鸭奈飞","name":"🦆鸭奈飞┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key":"分享雨晴","name":"🌞晴天┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
