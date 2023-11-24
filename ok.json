@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/ok.jpg;md5;5C14F4AC39D7149F4B80AB543449E62B",
+  "spider": "./jar/ok.png;md5;15008DFA32392BD5DAD6EE8981B128AB",
   "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
   "sites": [
@@ -34,7 +34,7 @@
     {"key":"索尼","name":"索尼 ","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
     {"key":"快帆","name":"快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
     {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
-    {"key":"csp_QuPanSou","name":"趣盘搜┃搜索","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://127.0.0.1:9978/file/Download/tvfan/quark_cookie.txt", "danmu": true}},
+    {"key":"csp_QuPanSou","name":"趣盘搜┃搜索","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"b-user-id=47aee0fd-9035-8957-65b0-edc206a915cd; __wpkreporterwid_=23711db2-a452-40b0-85f3-e2a9ec6c9e1f; _UP_A4A_11_=wb9061258e8b4494ba1aaa3913db0bcc; _UP_335_2B_=1; __itrace_wid=551a5933-0862-40fb-33e1-fd6ad073a763; _UP_D_=pc; _UP_30C_6A_=st9076201d8f36uo9pxgo3trmhnmfkfu; _UP_TS_=sg12f3a9d4d5609f024842f89f32e53d96e; _UP_E37_B7_=sg12f3a9d4d5609f024842f89f32e53d96e; _UP_TG_=st9076201d8f36uo9pxgo3trmhnmfkfu; __pus=b5e68ccec020bf5ac1c67f5985dbd79cAAQDvsHruc2WN0iDMaQPH4Ie1kC9wYok9gUoccYqFDoEQOv5tgYe9ZQeDCuHq/Jg2L66qaq948Moal796uouAjsc; __kp=7110fe10-8770-11ee-a0af-e33b20dfeeae; __kps=AARRIIWOoj79dPn3RpT/k2bF; __ktd=Dig77yxIr9qSzBvPJICP7g==; __uid=AARRIIWOoj79dPn3RpT/k2bF; ctoken=FGxVWXTAFaRjdN-F65TrBFQe; grey-id=08aca1a6-6bab-4ea3-878a-e9a12c7769f3; grey-id.sig=caE7zeyQxsGI86-w_idbrCyJbP6kj3CuNp1-iGDnsWQ; isQuark=false; isQuark.sig=DWPHMZYiiwQ-v58AbcP-rBdSIpzO8ZnrD67BdJuPatU; __puus=ce2905a25d8a5f2deb531110a29d3172AAQrvWKlc05wipMjC6O3mKWOTrqrkoYdZMdue16anqkx5hCIAGsTDb4cnsCzYjIuEqJQGabEwH1d3zBJvhDAdp5kVi82q1bb5MzJugd+eyT6YmOr6W+W+rTA+3UfpLRb26oyVov2JnMXWmpUWd0FzIonrDUl0HQ53KSgFKYC3qblEokm0lGaMR3LB5KpO9i+EOMflVityOdablxUVVOo1Iku", "danmu": true}},
     {"key":"纸条","name":"纸条┃搜索","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true}},
     {"key":"盘Se","name":"盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true}},
     {"key":"找資源","name":"找資源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"./jar/tok.txt", "username": "test2", "password": "test2", "danmu": true}},
