@@ -423,9 +423,7 @@
 {"key":"py_czxx","name":"🅱️初中┃教育","type":3,"api":"py_czxx","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/chuzhong.py","jar":"./jar/fan1023.jar;md5;8F8F0F3CB3D1C025746FFB35B22748A5"},
 {"key":"py_gaozxx","name":"🅱️高中┃教育","type":3,"api":"py_gaozxx","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/gaozhong.py","jar":"./jar/fan1023.jar;md5;8F8F0F3CB3D1C025746FFB35B22748A5"},
 
-{"key":"泥巴弹幕版","name":"🛫泥巴┃弹幕","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext": {"danmu": true},"jar":"./jar/ok.png;md5;15008DFA32392BD5DAD6EE8981B128AB"},
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xingxing","name":"🛫星星┃飞","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"./jar/custom_spider.jar;md5;a71b8fa729618f6a1f11fb1b96b5278f"},
 {"key":"csp_trj","name":"🛫唐人街┃飞","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"haiwaikan","name":"🛫海外看┃飞","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"]},
 {"key":"cc","name":"🌸爱熊熊🌸","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0}],
