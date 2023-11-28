@@ -1,6 +1,6 @@
 var rule = {
-    title: '左岸', // csp_AppYsV2
-    host: 'http://json.vip999.fun:4567/api.php/app/',
+    title: 'zanzan', // csp_AppYsV2
+    host: 'http://154.12.21.186:119/api.php/app/',
     url: 'video?tid=fyclassfyfilter&limit=20&pg=fypage',
     filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&letter={{fl.letter}}&year={{fl.year}}&by={{fl.by}}',
     filter:{
@@ -20,7 +20,7 @@ var rule = {
     class_name:'电影&连续剧&综艺&动漫',
     class_url:'1&2&3&4',
     play_parse: true,
-    lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("https://jiexi.xn--654a.cc/home/api?type=ys&uid=24479733&key=bcimnopqsCFGIKPR38&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+    lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("http://103.42.31.123:5821/jx/?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
     limit:6,
     // 图片来源:'@Referer=https://api.douban.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',
     推荐:`js:
