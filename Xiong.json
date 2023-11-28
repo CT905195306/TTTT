@@ -39,6 +39,7 @@
 {"key":"荐片弹幕版ok","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok.png;md5;7E4BA7C615441C5FD90E0EF44170C182"},
 {"key":"看球ok","name":"⚽OK┃看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"./jar/ok.png;md5;7E4BA7C615441C5FD90E0EF44170C182"},
 {"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"sp360","name":"360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true},"jar":"./jar/ok.png;md5;7E4BA7C615441C5FD90E0EF44170C182"},
 {"key":"南瓜弹幕版","name":"🎃南瓜┃弹幕","type": 3,"api": "csp_NanGua","searchable": 1,"changeable": 1,"ext": "null$$$1","jar":"./jar/PG.jar;md5;E3F361FF2A3EC066916872DA2DC403E8"},
 
 //{"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt$$$https://api.wogg.xyz/$$$null$$$1", "timeout":30,"jar":"./jar/PG.jar;md5;E3F361FF2A3EC066916872DA2DC403E8"},
