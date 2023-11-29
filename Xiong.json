@@ -51,12 +51,12 @@
 {"key":"Dygang","name":"🍿电影港┃磁力","type":3,"api":"csp_Dygang","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
 {"key":"新6V","name":"✂️新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
 
-{"key": "玉米","name": "🌽玉米┃采集","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=","searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1},
-
+//{"key": "玉米","name": "🌽玉米┃采集","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=","searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1},
 {"key":"一起看","name":"🎉YQK┃短剧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ikanbot","name":"👾爱看┃机器","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
 {"key":"xifan","name":"🥣稀饭┃动漫","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar":"./jar/YSZYZ.jar;md5;530A76519653A6BE2302A4C6AD2D25B7"},
 
+{ "key":"996","name":"🐳996┃App","type":3,"filterable":1,"api": "csp_XBPQ","ext": {"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#爽文短剧$4#动漫$3","筛选":"1"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 
 //饭太硬
 //{"key":"南瓜3","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -105,7 +105,6 @@
 {"key":"巧计蝴蝶","name":"🦋蝴蝶┃App","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
 {"key":"巧计Lib","name":"🍧Libvio┃App","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.pro/static/js/playerconfig.js","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
 
-{ "key":"996","name":"🐳996┃App","type":3,"filterable":1,"api": "csp_XBPQ","ext": {"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#爽文短剧$4#动漫$3","筛选":"1"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 {"key":"ok","name":"🏝️Free┃App","type":3,"api":"csp_XBPQ","playerType":"1","ext":{"分类url":"https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺","分类值":"new&1&2&3&4&hot","嗅探词":"m3u8#.m3u8#.mp4#mp4","搜索url":"https://search.ymck.me/index.php?q={wd}","搜索数组":"<b>&&</b>[包含:Freeok]","搜索副标题":"<a>&&</a>","线路数组":"data-dropdown-value=&&</div>[不包含:夸克]","线路标题":"<span>&&</small>","搜索标题":"class='movie_name'>&&</a>","搜索链接":"href=\"&&\"","搜索图片":"http://xhww.fun:63/ss.jpg","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"<p>&&</p>"},"jar":"./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 //{"key":"jszy","name":"🐰🎯极速┃App","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","playUrl":"https://k.playerla.com/?url=","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","动画片","大陆综艺"]},
 {"key":"极速","name":"️🎯极速┃App","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
@@ -193,6 +192,7 @@
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":0},
 
 {"key":"csp_Kuaikan","name":"👀快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
+{"key":"达达龟","name":"🐢达达┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/达达龟.js"},
 {"key":"drpy_js_鸭鸭","name":"🦆鸭鸭┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/鸭鸭.js"},
 {"key":"drpy_js_热播库","name":"🐾热播库┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/热播库.js"},
 {"key":"B站","name":"🐰B站┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/pz.js"},
@@ -260,11 +260,7 @@
 {"key":"鸭奈飞","name":"🦆鸭奈飞┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key":"分享雨晴","name":"🌞晴天┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 {"key":"分享多云","name":"🎐蓝天┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttsp.live/api.php/app/"},
-{"key":"分享涂城","name":"⛄涂城┃App","type":0,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"playUrl":"json:https://www.qiaoji8.com/tvbox/json1.php?url="},
-{"key":"apv2_刺桐","name":"🌩刺桐┃App","type":3,"api":"csp_AppYsV2","searchable":1,"ext":"http://pgcms.cttv.vip/api.php/app/"},
 
-
-{"key":"快帆","name":"⛵快帆┃影视","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
 {"key":"app_轻简","name":"🐭轻简┃影视","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories":["电影","电视剧","综艺","动漫"]},
 
 
@@ -302,7 +298,6 @@
 {"key":"zibo","name":"📻直播┃电台","type":3,"api":"./js/zb.js","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"py_央视片库","name":"🌏央视┃片库","type":3,"api":"py_cctv","ext":"./py/yspk.py","jar":"./jar/fan1023.txt;md5;8F8F0F3CB3D1C025746FFB35B22748A5"},
 
-{"key":"达达龟","name":"🐢达达┃乌龟","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/达达龟.js"},
 {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar":"./jar/nb3.jar;md5;F5BC56DF4FF888488B226132FF3F8CD0"},
 
 
