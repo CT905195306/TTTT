@@ -128,7 +128,7 @@
 {"key":"nmys2","name":"🌾农民┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/nmys_open.js"},
 {"key":"yqkjs","name":"🎉YQK┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/yqktv_open.js"},
 {"key":"libvio","name":"🗯️立波┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/libvio_open.js"},
-{"key":"555dy","name":"🐱555┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/555_open.js"},
+//{"key":"555dy","name":"🐱555┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/555_open.js"},
 {"key":"kunyu77","name":"👒七七┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kunyu77_open.js"},
 //{"key":"subaibai","name":"💮素白白┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/subaibai_open.js"},
 //{"key":"huya2","name":"🐯虎牙｜直播｜🔹","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/huya2_open.js","ext":{"from":"official","custom":"1,英雄联盟#2336,王者荣耀"}},
@@ -346,7 +346,7 @@
 {"key":"爱看影院","name":"🤩爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱看影院.json"},
 {"key":"Lezhu","name":"🐷乐猪┃影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
 {"key":"csp_XBPQ_奇优","name":"🧼奇优┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影院.json"},
-
+{"key":"555dy","name":"🐱555┃影院","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/555_open.js"},
 
 {"key":"zy_新浪资源","name":"🏄🏻新浪┃资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","体育"]},
 {"key":"暴風","name":"🌀暴风┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
@@ -363,7 +363,7 @@
 
 
 {"key":"AList","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
-{"key":"py_baby","name":"👼宝宝┃合集","type":3,"api":"py_baby","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/baby.py"},
+{"key":"py_baby","name":"👼宝宝┃合集","type":3,"api":"py_baby","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/baby.py","jar":"./jar/fan1023.txt;md5;6BFFA36C9C801B1168D74119DF823AC6"},
 
 
 
@@ -394,7 +394,7 @@
 {"key":"csp_qiumi","name":"⚽Jrs┃球迷","type":3,"api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_310直播","name":"⚽310┃看球","type":3,"api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"csp_XPath_企鹅体育","name":"🐧企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"},
-{"key":"py_qie","name":"🐧企鹅┃体育","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/qie.py"},
+{"key":"py_qie","name":"🐧企鹅┃体育","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/qie.py","jar":"./jar/fan1023.txt;md5;6BFFA36C9C801B1168D74119DF823AC6"},
 {"key":"csp_Yj1211","name":"📽️直播┃合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"MV_vod","name":"🎶明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
 {"key":"酷奇js","name":"🎤酷奇┃MV","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/js/lib/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
