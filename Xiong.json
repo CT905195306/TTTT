@@ -50,7 +50,26 @@
 //{"key":"js_荐片","name":"⏳荐片┃磁力","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/荐片.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Dygang","name":"🍿电影港┃磁力","type":3,"api":"csp_Dygang","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
 {"key":"新6V","name":"✂️新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
-
+{
+          "key": "玉米",
+          "name": "🌽玉米≛采集",
+          "type": 0,
+          "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+          "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
+          "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1
+           },
+         {
+            "key": "csp_AppYsV2_玉米",
+            "name": "玉米≛APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.12.21.186/api.php/app/"
+        },
 //{"key": "玉米","name": "🌽玉米┃采集","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=","searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1},
 {"key":"一起看","name":"🎉YQK┃短剧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ikanbot","name":"👾爱看┃机器","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
