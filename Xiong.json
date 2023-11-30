@@ -7,7 +7,7 @@
 {"key":"js豆瓣","name":"🐼️熊熊┃推荐","type":3,"api":"./js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 {"key":"csp_YGP","name":"⭕新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"直播大全","name":"📡电视┃直播","type":3,"api":"./js/lib/apilive2cms.js","style":{"type":"oval"},"changeable":0,"ext":"./js/live2.json"},
-{"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
+{"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$关"},
 {"key":"蜂蜜玩偶","name":"🐻玩偶(fm)┃4K","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "./jar/tok.txt",  "filter": "./json/wogg.json"},"jar":"./jar/fmwanou.jar;md5;a71b8fa729618f6a1f11fb1b96b5278f"},
 {"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wogg.xyz","timeout":30,"jar":"./jar/PG.jar;md5;05B26353652641362FF4F22BB75085D7"},
 {"key":"csp_Wobg","name":"🧸玩偶(bg)┃4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tok.txt$$$https://wobge.run.goorm.io","timeout":30,"jar":"./jar/PG.jar;md5;05B26353652641362FF4F22BB75085D7"},
@@ -321,13 +321,13 @@
 
 
 
-{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto"},
-{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|fhd|auto$$$q905195306$$$CHANG0624"},
+{"key":"Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt+auto|4k|fhd"},
+{"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd"},
+{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd"},
+{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd"},
+{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd"},
+{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd"},
+{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$q905195306$$$CHANG0624"},
 
 
 
