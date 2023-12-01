@@ -122,7 +122,9 @@
 
 //{"key":"玩偶短剧","name":"🐻玩偶┃短剧","type":3,"api":"csp_XBPQ","jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5","ext":{"二次截取":"1&&-1+module-item-cover","数组":"module-item-pic&&module-item-cover","图片":"data-src\"&&\"","副标题":"module-item-text*>&&</div","链接":"href=\"&&\"","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"剧情：&&</div>","搜索url":"https://wogg.xyz/index.php/vodsearch/-------------.html?wd={wd}","分类url":"https://wogg.xyz//index.php/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;阿里","./jar/tok.txt":"df930ba390904442bff1858f4f569122","分类":"短剧$40"}},
 //{"key":"荐片","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},"jar":"./jar/928.jar"},
-
+{"key":"czzy1","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/ikanbot_bytecode.js"},
+{"key":"czzy2","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/dsxys_open.js"},
+{"key":"czzy3","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/maosubai.js"},
 //{"key":"wogg","name":"😼玩偶┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js","ext":"./jar/tok.txt"},
 {"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/czzy_open.js"},
 {"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kkys_open.js"},
