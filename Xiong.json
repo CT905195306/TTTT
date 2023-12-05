@@ -331,10 +331,10 @@
 
 
 
-//{"key":"暴風ok","name":"🌀暴风(ok)┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
-//{"key":"索尼ok","name":"🏄🏻索尼(ok)┃资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1,"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
-//{"key":"快帆ok","name":"🕊️快帆(ok)┃资源","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1,"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
-//{"key":"量子ok","name":"🏂量子(ok)┃资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
+{"key":"暴風ok","name":"🌀暴风(ok)┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
+{"key":"索尼ok","name":"🏄🏻索尼(ok)┃资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1,"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
+{"key":"快帆ok","name":"🕊️快帆(ok)┃资源","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1,"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
+{"key":"量子ok","name":"🏂量子(ok)┃资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
 
 
 
@@ -346,7 +346,7 @@
 //{"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#熊熊直播$https://agit.ai/CT/TZB/raw/branch/master/T.txt#&&&https://api.caonm.net/api/mc/"},
 {"key":"csp_Bili","name":"🅱️️哔哩┃综合","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/bili.json"},
 {"key":"哔哩哔哩","name":"🅱️️哔哩┃大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/TT/raw/branch/master/Bili.json"},
-{"key":"js_B站精简","name":"🅱️️哔哩┃精简","type":3,"api":"https://jihulab.com/tt15912/tv/-/raw/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/py/jingjian.js"},
+{"key":"js_B站精简","name":"🅱️️哔哩┃精简","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/py/jingjian.js"},
 {"key":"兴趣健身","name":"🅱️体育┃健身","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/hccx/哔哩健身.json"}, 
 {"key":"相声小品","name":"🅱️相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/hccx/哔哩相声.json"}, 
 {"key":"天下美食","name":"🅱️美食┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/hccx/哔哩美食.json"}, 
