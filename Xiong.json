@@ -50,7 +50,7 @@
 //{"key":"360弹幕版","name":"🍊360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
 
 
-{"key":"賤賤","name":"⏳荐片(fm)┃磁力","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"./json/jianpian.json","jar":"./jar/fmwanou.jar;md5;fba567f6ab0f55d841d2b464f91e6555"},
+//{"key":"賤賤","name":"⏳荐片(fm)┃磁力","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"./json/jianpian.json","jar":"./jar/fmwanou.jar;md5;fba567f6ab0f55d841d2b464f91e6555"},
 {"key":"贱贱","name":"⏳荐片┃磁力","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
 {"key":"lf_js_p2p","name":"👒路飞┃磁力","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./js/lib/apiv191lf_min.js","timeout":30},
 //{"key":"js_荐片","name":"⏳荐片┃磁力","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/荐片.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
