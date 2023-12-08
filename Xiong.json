@@ -64,9 +64,9 @@
 {"key":"996","name":"🐳996┃App","type":3,"filterable":1,"api": "csp_XBPQ","ext": {"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 //{"key":"996","name":"🐳996┃App","type":3,"filterable":1,"api": "csp_XBPQ","ext": {"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#爽文短剧$4#动漫$3","筛选":"1"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 {"key": "迷你","name": "🍯迷你┃APP","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/","jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
-{"key":"kmeiju","name":"🐳kanmeiju┃App","type":3,"filterable":1,"api": "csp_XBPQ","ext": {"分类url":"https://www.kmeiju.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
-//饭太硬
 
+
+//饭太硬
 //{"key":"南瓜3","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/南瓜.js"},
 {"key":"橘子","name":"🍊橘子┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
