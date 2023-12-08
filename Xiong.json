@@ -64,30 +64,7 @@
 {"key":"996","name":"🐳996┃App","type":3,"filterable":1,"api": "csp_XBPQ","ext": {"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 //{"key":"996","name":"🐳996┃App","type":3,"filterable":1,"api": "csp_XBPQ","ext": {"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#爽文短剧$4#动漫$3","筛选":"1"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 {"key": "迷你","name": "🍯迷你┃APP","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/","jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
-{
-    "key": "532ka",
-    "name": "🐳9532ka6┃App",
-    "type": 3,
-    "filterable": 1,
-    "api": "csp_XBPQ",
-    "ext": {
-        "分类url": "https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
-        "分类": "短剧$23,首页:短剧$16"
-    },
-    "jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"
-},
-{
-    "key": "种子短剧",
-    "name": "🐳种子短剧┃App",
-    "type": 3,
-    "filterable": 1,
-    "api": "csp_XBPQ",
-    "ext": {
-        "分类url": "http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
-        "分类": "快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1"
-    },
-    "jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"
-},
+
 //饭太硬
 //{"key":"南瓜3","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/南瓜.js"},
