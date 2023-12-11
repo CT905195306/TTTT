@@ -105,73 +105,37 @@
 {"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn",
 		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
 },
-{
-			"key": "河马1",
-			"name": "河马┃App",
-			"type": 3,
-			"api": "csp_Hmys",
-			"playerType": 1,
-			"ext": "https://m.jmzp.net.cn$$$null$$$1",
-		"jar":"https://agit.ai/CT/jar/raw/branch/main/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
-		{
-			"key": "天天1",
-			"name": "天天┃App",
-			"type": 3,
-			"api": "csp_TTian",
-			"playerType": 1,
-			"ext": "http://op.ysdqjs.cn$$$null$$$1"
-	,"jar":"https://agit.ai/CT/jar/raw/branch/main/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
-        {
-            "key": "河马",
-            "name": "河马┃App",
-            "type": 3,
-            "api": "csp_Hmys",
-            "playerType": 1,
-            "ext": "https://m.jmzp.net.cn"
-        ,
+    {
+        "key": "巧技一",
+        "name": "巧技一┃App",
+        "type": 3,
+        "api": "csp_qiao2",
+        "playerType": 2,
+        "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
+ ,
 		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
 },
-        {
-            "key": "天天",
-            "name": "天天┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "playerType": 1,
-            "ext": "http://op.ysdqjs.cn"
-        ,
+    {
+        "key": "巧技二",
+        "name": "巧技二┃App",
+        "type": 3,
+        "api": "csp_qiao2",
+        "playerType": 2,
+        "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
+  ,
 		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
 },
-        {
-            "key": "巧技一",
-            "name": "巧技一┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "wepiURHQMpnjOl/9hOzvAFNrp2VceOLOOyC0tdsN166tQtOUklZW7YmDdfNzU8Qn9PgdgoNzsULi3RYyumF4dzT43NlyeaUrHKqeJJlAynASNVPbAQv52vWuAeChUBeKKUz8HIRhziWb0ZzdQLe49E2pYKRrRDW/g/3xZVjYUIIDvzdaukf+CCULxrBuqEUCsRIBk07lHY5BiUw9/vVGTH2lRynBtYOOHnZW7z6Wd5b2bjPsM204JG8HncsCG7kLi6R5fOrf/O1B3fLZxfZUboNF5BZyF89wPu4Va24CyKAZ897z4QCvRbNYuEI3ghUpzGEWDS+0PbHTUQceX1La2lbJ0+CnrGF0hKlzoqtLN5xIJNhMiQmT7Xk22yyvWHGZuiImvHek2KzLRAfi81GUHKnMnKJZ7Np9v5l/BEMJUiOY8ffqoiDU+0yAYmlVBTqii/mJssI245kQOZInWLsB6wxzNuNDt4hVRlMdFA3x+oOlKF6ZaNSYPP+Pcu/Gb615WdU1/u0vXCNNm/hAtma7cNKfznOwnvPOW/X6KLKO9Oj7dHKlWH1Vf9+/l6TLDlltDw8uIUNTh8CqTnKIRVlqKIioXSOdTp7GeeWXD3U2Utf8OKeQTorJwZopsaTJHZsFyFz5an8fOP7K5AOWBXkNvMW9FepBdDUU9vcHA+tYXmW0="
-        ,
+    {
+        "key": "巧技三",
+        "name": "巧技三┃App",
+        "type": 3,
+        "api": "csp_qiao2",
+        "playerType": 2,
+        "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
+ ,
 		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
 },
-        {
-            "key": "巧技二",
-            "name": "巧技二┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "ltf5WdOCbG+i8qHRX/oW/NKT3l/e7l8EaRZAbFwvfFExGIWOGnlmp4ibbWKUPyS6j1fzVcNRjof0av37Vp0cGy2XLeFEIG9ZtZNcNXFLZJCFmsDu3VQuQjj6Lb+qIKEQ3tHqwpRqOb32wEtr6gi6GLRRdW3vxRDU3zmpw0LIklMMYQJZUxiVTZi8kUrhyczNVMZ4OWptHBR6xZmxlc8dlGi9FrP7BVGloRBXgNMJe9ckevIfAXEpFAiC36++Xwqvo3AYA7QFwYnHXTtPAR7SnWBzIYII/pUyLleS+EyO+SRvFkC9lWZOkoRmrfacd+AwHjTGL2ESGwUfS4TgQ/DCu/2qhLev/GOFSr7YGRCK9/SIVXv04HzbXnDtHGTOxeuG/URAwB7XHxSM4oT7bVrk7DZHEhQzh5J0fYXqkZudQ2cv6cCrAIbDuUDQyys/zzw2z1Mw9USz9sIYa+/cIMCI9aipIPAqXbpkHD9E92DMP8mQAdlUP2Ql6dREqPeckJAMxsWdsqLHGRiTEuahToqrkXZfoT9S0j69B5TL2DqKTHi38fAHpxW4McncXWtaz+baRDBtG4RTg9eQHVrLwls7XQFsynhqdfF1IILt3bUE0FwxuKEjLos2BXG26YU/EQmjOw3KPpU6wfldGvOtGSnvfEcp7HEBm93WgbSxKYZLgqlM="
-       ,
-		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
-},
-        {
-            "key": "巧技三",
-            "name": "巧技三┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "jI7hXcVXQii29vyvACKI6jBcto+a6yiDXgXTZWKs3Yhf9wq9xZO8x63YNbkUT6x4raBv2a6qxRx30NUF7oPZ0dxsqnJcDDer4fC48HP/PpGrI2/kmxM6GXZeDoBFVlPu7mCm7cHTait5hDOH5A9DxAyGVk5i3NHgnG7m+7Kz24ULdrBDYPF4I9C9z7FCQ/wD5B4EchbjVdZwfSpx/h2tmUuYlU3XYR+lO+CeV7v/r08dkOo03pisnv/fdCHWvrQzKJoXoPpCO9sNcN6auX8f+RLIulwFQn0wTbp2t3ck0yoag3P5L1YB+kOAYNMj7WC0cBMLjyigo3BFCb6ExkYEWzJdU/DUH791Sf9tZ4al+OHBh5BLlYibcYd7AGBdfqyDVwtOJuIhStFIAjZuctOaCZCf99+cS3X5WKPJkwJ7PKhR3igFpVRv3GyEFMYzLDIWx0wwhrw+ivfoR2boyVR03XpdHNiFCeXAlXrphmKPVOFxrDWNSRrkC4ZrDWuZn81REKQ4WQlxdlBy6eRXx/WdPLHaJgNkFkHwJFcj0f6GDxvTKZ+hpM84FrU1UIB32vB/7QPrcy9wk/SSAIGBdOYV2GhcXi0aFEfrbUkJ58ftoPcVCRt8Gqi6plAaYZZlmaP/cJ/jQEMEizR7r8aw1bULT3GEkPasd84Q6s7PpoGa5MQ4="
-       ,
-		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
-},
-        {
+    {
             "key": "蜂鸟",
             "name": "蜂鸟┃App",
             "type": 3,
