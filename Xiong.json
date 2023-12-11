@@ -9,14 +9,14 @@
 {"key":"直播大全","name":"📡电视┃直播","type":3,"api":"./js/lib/apilive2cms.js","style":{"type":"oval"},"changeable":0,"ext":"./js/live2.json"},
 {"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 //{"key":"蜂蜜玩偶","name":"🐻玩偶(fm)┃4K","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "./jar/tok.txt",  "filter": "./json/wogg.json"},"jar":"./jar/fmwanou.jar;md5;fba567f6ab0f55d841d2b464f91e6555"},
-{"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tokenem.json$$$https://wogg.xyz","timeout":30,"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
-{"key":"csp_Wobg","name":"🧸玩偶(bg)┃4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tokenem.json$$$https://wobge.run.goorm.io","timeout":30,"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
-{"key":"csp_Hdhive","name":"💥影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tokenem.json$$$null$$$1","jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"}, 
-{"key":"Ppxzy","name":"🦐皮皮虾┃4K","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"./jar/tokenem.json$$$https://ppxzy.net/$$$null$$$1", "timeout":30,"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"}, 
-{"key":"校长影视","name":"🏫校长┃4K","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./jar/tokenem.json$$$null$$$1","jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"}, 
-{"key":"团长资源","name":"🍡团长┃4K","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./jar/tokenem.json$$$null$$$1","jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"}, 
-{"key":"4KHDR","name":"☄️4KHDR┃4K","type":3,"api":"csp_FourKHDR","ext":"./jar/tokenem.json$$$http://127.0.0.1:9978/file/tvfan/4khdr.txt","quickSearch":1,"changeable":1,"timeout":60,"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"}, 
-{"key": "新6V","name":"🌵新6V┃4K","type": 3,"api": "csp_Xb6v","searchable": 1,"changeable": 1,"timeout": 60,"ext": "./jar/tokenem.json$$$https://www.66ss.org$$$null$$$1","jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"}, 
+{"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tokenem.json$$$https://wogg.xyz","timeout":30,"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
+{"key":"csp_Wobg","name":"🧸玩偶(bg)┃4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./jar/tokenem.json$$$https://wobge.run.goorm.io","timeout":30,"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
+{"key":"csp_Hdhive","name":"💥影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tokenem.json$$$null$$$1","jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
+{"key":"Ppxzy","name":"🦐皮皮虾┃4K","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"./jar/tokenem.json$$$https://ppxzy.net/$$$null$$$1", "timeout":30,"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
+{"key":"校长影视","name":"🏫校长┃4K","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./jar/tokenem.json$$$null$$$1","jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
+{"key":"团长资源","name":"🍡团长┃4K","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./jar/tokenem.json$$$null$$$1","jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
+{"key":"4KHDR","name":"☄️4KHDR┃4K","type":3,"api":"csp_FourKHDR","ext":"./jar/tokenem.json$$$http://127.0.0.1:9978/file/tvfan/4khdr.txt","quickSearch":1,"changeable":1,"timeout":60,"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
+{"key": "新6V","name":"🌵新6V┃4K","type": 3,"api": "csp_Xb6v","searchable": 1,"changeable": 1,"timeout": 60,"ext": "./jar/tokenem.json$$$https://www.66ss.org$$$null$$$1","jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
 //{"key":"csp_KungFu404","name":"⚙️阿里┃设置","type":3,"api":"csp_KungFu404","searchable":1,"filterable":0,"changeable":0,"jar":"./jar/阿里设置.txt"},
 //{"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"key": "影探VIP","name":"🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
@@ -26,7 +26,7 @@
 {"key":"77","name":"👒七七┃直连","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Czsapp","name":"🏭厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czz9.com/"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/json/nmys.json"},
-{"key":"Bdys_spider","name":"💡哔滴┃直连","api": "csp_Bdys01","type": 3,"filterable":1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/","jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
+{"key":"Bdys_spider","name":"💡哔滴┃直连","api": "csp_Bdys01","type": 3,"filterable":1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/","jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
 //{"key":"影探VIP","name":"🏵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 
 {"key": "火狐","name": "🦊茶杯┃狐","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [ "内地剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫"]},
@@ -40,11 +40,11 @@
 {"key":"玩偶弹幕版ok","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext":{"token": "./jar/tok.txt","filter": "./json/wogg.json","danmu" : true},"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
 {"key":"玩偶表哥弹幕ok","name":"🐼️玩偶(bg)┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1,"filterable":1,"ext": {"token": "./jar/tok.txt","cookie": "b-user-id=47aee0fd-9035-8957-65b0-edc206a915cd; __wpkreporterwid_=23711db2-a452-40b0-85f3-e2a9ec6c9e1f; _UP_A4A_11_=wb9061258e8b4494ba1aaa3913db0bcc; _UP_335_2B_=1; __itrace_wid=551a5933-0862-40fb-33e1-fd6ad073a763; _UP_D_=pc; _UP_30C_6A_=st9076201d8f36uo9pxgo3trmhnmfkfu; _UP_TS_=sg12f3a9d4d5609f024842f89f32e53d96e; _UP_E37_B7_=sg12f3a9d4d5609f024842f89f32e53d96e; _UP_TG_=st9076201d8f36uo9pxgo3trmhnmfkfu; __pus=b5e68ccec020bf5ac1c67f5985dbd79cAAQDvsHruc2WN0iDMaQPH4Ie1kC9wYok9gUoccYqFDoEQOv5tgYe9ZQeDCuHq/Jg2L66qaq948Moal796uouAjsc; __kp=7110fe10-8770-11ee-a0af-e33b20dfeeae; __kps=AARRIIWOoj79dPn3RpT/k2bF; __ktd=Dig77yxIr9qSzBvPJICP7g==; __uid=AARRIIWOoj79dPn3RpT/k2bF; ctoken=FGxVWXTAFaRjdN-F65TrBFQe; grey-id=08aca1a6-6bab-4ea3-878a-e9a12c7769f3; grey-id.sig=caE7zeyQxsGI86-w_idbrCyJbP6kj3CuNp1-iGDnsWQ; isQuark=false; isQuark.sig=DWPHMZYiiwQ-v58AbcP-rBdSIpzO8ZnrD67BdJuPatU; __puus=ce2905a25d8a5f2deb531110a29d3172AAQrvWKlc05wipMjC6O3mKWOTrqrkoYdZMdue16anqkx5hCIAGsTDb4cnsCzYjIuEqJQGabEwH1d3zBJvhDAdp5kVi82q1bb5MzJugd+eyT6YmOr6W+W+rTA+3UfpLRb26oyVov2JnMXWmpUWd0FzIonrDUl0HQ53KSgFKYC3qblEokm0lGaMR3LB5KpO9i+EOMflVityOdablxUVVOo1Iku","danmu":true},"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
 {"key":"荐片弹幕版ok","name":"⏳荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
-{"key":"南瓜弹幕版","name":"🎃南瓜┃弹幕","type": 3,"api": "csp_NanGua","searchable": 1,"changeable": 1,"ext": "null$$$1","jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
+{"key":"南瓜弹幕版","name":"🎃南瓜┃弹幕","type": 3,"api": "csp_NanGua","searchable": 1,"changeable": 1,"ext": "null$$$1","jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
 {"key":"看球ok","name":"⚽球赛┃直播","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
 
-//{"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt$$$https://api.wogg.xyz/$$$null$$$1", "timeout":30,"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
-//{"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$null$$$1", "timeout":60,"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
+//{"key":"玩偶弹幕版","name":"🧸玩偶┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt$$$https://api.wogg.xyz/$$$null$$$1", "timeout":30,"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
+//{"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$null$$$1", "timeout":60,"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
 
 
 //{"key":"360弹幕版","name":"🍊360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
@@ -86,15 +86,169 @@
 //巧计🍼🐈⭐⚡🍉🍘🏢🚁🍊✏️👓
 //{"key":"巧计布蕾","name":"⚡️布蕾┃4K","type":3,"api":"csp_Appto","playerType":2,"ext":"TD1LDW9ISFJ6OEaGJ+2Dh7Xw1B/333vkFq53LyNSHT5yduXETpSmQR6/5Pb9fTrndDPrH+xexEIbqCF6iFBJy43ULB0RgLYFZ59QRN5xeF/yJ/gAR7y+6cWRXnZjxTnzVVGMEeOmEi7DDYzTzUIzuVaX73AVTOUEXPBOOzlaThnNTG0R6H1jGgABfEugKqWFP2xBH8mMv0dNosvIs3tm1lQeerDyFJTZOljiCGExPfiJv5Y7y4wncbw134sSgQtFC3+C4d5z58vxJDPG0wuSD57kJtrg1HW7lnODmd1QO7fLUt2MNny5hZru58+Vz6DXqBF6eyhvkusKmufd/iMn13JDd7zeFOPgJB16ZEvKno4ulqsBBpj2eFmcGne6Ib+uuy3VyU9EnMpGbObGewvwBNAUanAI2lV0iM5oDkhZ+L6yqxZL2X7AV4cavmHF8qnP4iLEq9uuD7Ghz1MnE1ljAGqYdAyFBXUShSeOBBn2iIXvSsnc/kwffxzgIxcGV4LVnrrZ9yUT6MiKiwVBsuU213PWSAQ4TVoSuqohtjvs0vSayeq/ZRfFhmB+KdXe8tzHaMC15Bn8a7s0v83MZoZ38Urdk7jyhadCYlZZ1rL++uEMZIQ0oaRgJHhhBf1CIxJShuw9qR/gDKmyAep1mqWf7on9N2koYjgrhS/5iV3vEEQ6vNF80QI5ZuNLBysfC3DPTO7NuOUSPEPOVfRenK2+zbwyZO0H7LtTbzshIPs8Q63hrxx4V6PxiFKFHQyovaIP3M+925z9EiD993KaapXuE3gMzuOvAA/9N65rlUacYt1oC4EKXbVGdy1Rjn3oycmAb4LpUCD45rXTyqoABKLFhzFKhWsNVSK4qBn5DctT1Lwxemir+rh2T1CfI1SGG+01HdY4iDJLcJB08iQG0y5WjQCpCrPX7fhxwykmGiugORQV0XGH7e4YZJ3RMTVnh9EnHBSZ5SVcT21E9P6wr/Q2Sg9PFIvP4rwhIZSKuhzI0BaTY1jRDXgE5ViaujDeHKzetFTooXJA7vzH3gMWOK3IhYqW6A3JayBzoBLosMvmpJT0iesyz5j0Agr5hA33FHU7JAC6y9TPJS0HGuqwz178zvJ4RSFN4QzwPTR8Sk340fG8GqPSpJ0mNj/jlOu1ZLRCBfOyigN0xnfUfeJednvTiL97dC6YunCvPEBgwVJ34G/fnANkTgjYB52EKDXPSQEj7QxiH2y/UdTAPNzqSkkxySVP4dVqCtAhfGQ5F6aQd3y1Jg1j10nVx9qV7hJkLS7K8OVfCLRMo1jmohYhZFkRWV0brCAq6XK7xraEYejGNJCW1DHfdLYM0cbY2nce8Zr0v230XPwql+zobc0XGXNl2SA==$$$null$$$1","jar":"./jar/PG.jar;md5;E3F361FF2A3EC066916872DA2DC403E8"},
 {"key":"巧计樱花","name":"🌸樱花┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"qebgGqODxKrWujD2TaoZoyh6aeYntZLsTaZW8MQvVNORiHLLi/o/cEEEXkSs1vfHEuiURxMTr9zL2Kwbffz2pDvLCamrK1tuxIcczsaI7cfsAh5gcgyzOOdZUszoU45ZgS9Bi4HZ3RDHZAWEqP0JyTaH32oDxgO9nx/xhe1xyVRyj9y5gkfPVt2AP94I8/DwDI9CEstcPzGfRNHYxlCuGMtnMvVwzonmkNDyOw+N5xr2ZI3P8O1cj04mCEAE6/d2tGSU/o+EOyWVLWWw0R3hoduHvjAtuMbBt6WNCcsL51zWceiTcsl34acqd9Pya3lA52ZFRojME/R4zdTzMbvwrOEF3Up0eB58//+NM6k4tW+cBNAHDGgO8t7hcfSG/TnJLQ7Gigrn899dGbFeQMCEQf0zxMxfgYBDkADs0aza9N2QIXChgEDVFDvw0vE2m6b+bJfswmbrhNEIM//95XpMv68HEP3jCTwFEehattwHjyYE4fJoH3OtPO++pDiZltaxdizfFD6WmTO+v4qub1QfpUEXWHzG6nqDA9MioigiTRdRAb4PEMioBCJS5/gel+PGRja1cR1NtBjl4RKpSPstwrmczG8qKQrn2Zjwkz8f4OdnEBKRLaWzb/hVDAQgqRfUyohEdnQyocaYsnB5lJoMSp93QCzwAuHYueyMh2fNpcemWGfs58wrZr5VFSBaQDYv/HjsNntoPaCDpoQIV9DJKiqQsiYMblsz/Mdbnlfd1vI5X69TVPvItzh26zXjgpFBKsiFDOtvd3bNe92XnTH3jiDgBQbqoL6jUbvhNQapqRUZxovWk30UQ0YTQnqODkorKdrEB1IeNhKt0epurJG/G7A6DQ6/6lZ7pAwlYVlfXzFgZOGNb1Hs52j2F+sGvgWY00BAH1eHtpHPPdckL25JMKai3QDQUAVBxAI8njCmcNUPfl9kDZe62QMNJwaZKD9eaOjNrdVsKjah9gkiWL8BnDxJeGErZyrvKhyqg0fwNvyn8wEfeUlwRzfDysrvjdBz3","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
-//{"key":"巧计嘿嘿","name":"🤖嘿嘿┃App","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"we2aWwLOHN18wGu/wt+png8wz6kVMGS23xntuXkveVBR2/9I2ridVLRyjBcXYLkv6X/15IRqQRJnh3DlFsarda8hemp8b7pIAN7M17xW/69bHungyJg1sG4CS8Q22+fyOlgxCvIGoHa8BcE0dtF9dwipO9OW9YqGMPEic+rZ6zCqXZ3GQYWKXYg4BvzODEtKTLmInutyyw3LYs8Kbo0qXio05MdcA4dmIhMKG0lm3SyS+a3+/FGRGRdQ9Mr44asDnfxhP5CgMTuWqPTtJgNxhbU9SFs5Ff9dkbMduJnz6r8AMMyh2xMF/wlTLtbyKcGSZpohmW2+KJT6FnH2jfnx6arS48bNPRonIVQTLWnTBlp3MrUwh4snP0eyEPHgbKRUQU+sbfGTqSkpq/Tblb8i//tznlq4kvEBKelkp35oLx/paSGIMrXqrziRM8Xl21cyXB80y9FP+6A/El5bpaTNwUy1fkzvyPSk/GK56uMiIVzzpi52eDd/n+4gH75lhZ4MrYxAFkDQN+FHl0Gc+Q5aseekN3syyjIS4VGfEMLZaxjFWFST+5DEcdCY+c2xZ2gq8fFoaNO0851mgV+f8g3TXbbBfxjS556HqWpTqa47DgiSpiSR3Y/qEZLKBNf84GZ+vkNag5umQShsp8+M+NCgXW6ir9iga+/fl0iM5oeyu15E=","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
 {"key":"巧计嘶哩","name":"🎷嘶哩┃App","type":3,"api":"csp_Skapp","playerType":2,"ext":"wf7jTHTllmPx90cSfqYsxOFbNiEn/OOwcQMioXntTCgGo6loj/amsxwUNfJPF2W00I+ZJzSan7pD3OPqeGn1/3CaJLZhzh/OtQFo7cJf/AA/LRGchJ/NNsdu8c3HeY8X3ic+nAYiOFIT7HiLfqFnBom04dCSbujoxb0RoT6iYiZSArenzm5E5lEpGHD/KltmbDpcX9Lkxj+9HnF/okAhK8nsUmta/Jrnk40HP7cZodP3QGeLUpeoOCQZzw++LuS9iYZSentZVKL9q/puBZ78nhjx4fw94cM1SbG0rcAB9vwZr4z9YYNRythGAfNeOsMgRpAOnZH8K5JuWFoADNhHLMA==","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
-{"key":"超神","name":"⚡超神┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"Nm6kHImBI1jr6VSKVUPgJGCYkeKLb8Sjp1Na6UBEM2CRUW8htts45LDQ18nx0gqcjehIgtVhsgHjWqvE5T4+I0FJF8Po2QBCUA/bMHdMJAYWxbeI9soGqn8bxOflshBTNBewsn20MTbpMjfAHYAgWmyLvES09FVNl74D3aTsMwRMwoSaMx6GFjKJ9Gs4CSRyD4MFqbaHbG/jsYcBykyYtgCk9hH4IFFnWVntJ8PqEirD9OzzNKWf6cNhMOMPGF9W9dKqwzGGuh+jQ3BISOMBVcQO35PL1cmHmsmf1T41zzc505s4MoLmF6MwoXVXgNk1ni/OMZWLP59tPLgRoK9tMXm270YWMJplTWEJ3bE8TrHVkM1dJ5udmlatuz/XqqdZCspJGX/LhokZNMl2IbwD5bMufwIRRqLzwcOv9+nTjElseZEM7g5qz6kNrkmVQNOFQ1zXc487lNqYph053yEQB/gn9z3iXhd+hYdVA59LWe5Ev7oLbCJqG1joJBU7s+6dfJ0Kamgoo9t8nvZc7NakY5qku6O35mvlVmjmQkgMmIL+VDAESF97J1hPaOTY0w0Q5CMyqmdxac3t+YTwENOiLUT5U1VmZYOsYHA9XURhbqgNPojj23Xj9j32bfUMZDK8WPcltxOb3SmwQe0Y8ibIlqKc+YGY5xvze81NVv39kQsc=","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
-//{"key":"巧计极光","name":"✨极光┃App","type":3,"api":"csp_Skapp","playerType":2,"ext":"cF2Bh7Go+swnimRrS4lMkC5IU+DEUhx+OIg096VgYdDXyDJz70foByqaPPS4RAca6AqTfUQV+jjSDbw4X6b9uJnCDysGmjvh+55akGF9Qzr7WYxYeI7hKNVoqEEpPa32AHiHipBkGeGOS46Uh9ADAgpQDoZ6G20p/ed+tfFIMdOBb35FddbTWy08rvPAbxalgCN+ORgOcyus/x/3DGIl9cckdrwEadwKSPdG1fkb2qB3vCXSgzVoCUepAo3aLjjHpBDxcqj/Kgy4ayi2Zm+l39a6F1eTeteNVGfNe2ZoMWQRGhtYxbn+BR6gqA1b4b19XYsh5037EGtVpFYPwUSQtAQ==","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
-//{"key":"巧技一","name":"🎤K影yi┃App","type":4,"api":"http://t4.qiaoji8.com/vod?site=3a29eb005d0cd96c","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
-//{"key":"巧技二","name":"🎤K影er┃App","type":4,"api":"http://t4.qiaoji8.com/vod?site=a8944f73f3f50ac7","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
-
-//{"key":"巧计K影","name":"🎤K影┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
-{"key":"巧计南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
+{
+    "key": "超神",
+    "name": "⚡超神┃App",
+    "type": 3,
+    "api": "csp_Appto",
+    "searchable": 1,
+    "quickSearch": 1,
+    "playerType": 2,
+    "filterable": 1,
+    "ext": "Nm6kHImBI1jr6VSKVUPgJGCYkeKLb8Sjp1Na6UBEM2CRUW8htts45LDQ18nx0gqcjehIgtVhsgHjWqvE5T4+I0FJF8Po2QBCUA/bMHdMJAYWxbeI9soGqn8bxOflshBTNBewsn20MTbpMjfAHYAgWmyLvES09FVNl74D3aTsMwRMwoSaMx6GFjKJ9Gs4CSRyD4MFqbaHbG/jsYcBykyYtgCk9hH4IFFnWVntJ8PqEirD9OzzNKWf6cNhMOMPGF9W9dKqwzGGuh+jQ3BISOMBVcQO35PL1cmHmsmf1T41zzc505s4MoLmF6MwoXVXgNk1ni/OMZWLP59tPLgRoK9tMXm270YWMJplTWEJ3bE8TrHVkM1dJ5udmlatuz/XqqdZCspJGX/LhokZNMl2IbwD5bMufwIRRqLzwcOv9+nTjElseZEM7g5qz6kNrkmVQNOFQ1zXc487lNqYph053yEQB/gn9z3iXhd+hYdVA59LWe5Ev7oLbCJqG1joJBU7s+6dfJ0Kamgoo9t8nvZc7NakY5qku6O35mvlVmjmQkgMmIL+VDAESF97J1hPaOTY0w0Q5CMyqmdxac3t+YTwENOiLUT5U1VmZYOsYHA9XURhbqgNPojj23Xj9j32bfUMZDK8WPcltxOb3SmwQe0Y8ibIlqKc+YGY5xvze81NVv39kQsc=",
+    "jar": "./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"
+},
+{
+			"key": "河马",
+			"name": "河马┃App",
+			"type": 3,
+			"api": "csp_Hmys",
+			"playerType": 1,
+			"ext": "https://m.jmzp.net.cn$$$null$$$1",
+		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
+},
+		{
+			"key": "天天",
+			"name": "天天┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"playerType": 1,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
+		},
+        {
+            "key": "河马",
+            "name": "河马┃App",
+            "type": 3,
+            "api": "csp_Hmys",
+            "playerType": 1,
+            "ext": "https://m.jmzp.net.cn"
+        },
+        {
+            "key": "天天",
+            "name": "天天┃App",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 1,
+            "ext": "http://op.ysdqjs.cn"
+        },
+        {
+            "key": "蝴蝶",
+            "name": "蝴蝶┃App",
+            "type": 3,
+            "api": "csp_Hudie",
+            "playerType": 2,
+            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+        },
+        {
+            "key": "巧技一",
+            "name": "巧技一┃App",
+            "type": 3,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
+        },
+        {
+            "key": "巧技二",
+            "name": "巧技二┃App",
+            "type": 3,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
+        },
+        {
+            "key": "巧技三",
+            "name": "巧技三┃App",
+            "type": 3,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
+        },
+        {
+            "key": "蜂鸟",
+            "name": "蜂鸟┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/fengniao"
+        },
+        {
+            "key": "君离",
+            "name": "君离┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/junli"
+        },
+        {
+            "key": "极光",
+            "name": "极光┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
+        },
+        {
+            "key": "tvbsk",
+            "name": "TVB云播┃App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"
+        },
+        {
+            "key": "嘶哩",
+            "name": "嘶哩┃动漫",
+            "type": 3,
+            "api": "csp_Skapp",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/sili"
+        },
+        {
+            "key": "侠客",
+            "name": "侠客┃App",
+            "type": 3,
+            "api": "csp_qiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
+        },
+        {
+            "key": "超神",
+            "name": "超神┃App",
+            "type": 3,
+            "api": "csp_qiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
+        },
+        {
+            "key": "云云",
+            "name": "云云┃App",
+            "type": 3,
+            "api": "csp_qiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
+        },
+        {
+            "key": "樱花",
+            "name": "樱花┃动漫",
+            "type": 3,
+            "api": "csp_qiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/yinghua"
+        },
+        {"key":"巧计南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
 {"key":"巧计蝴蝶","name":"🦋蝴蝶┃App","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
 {"key":"巧计Lib","name":"🍧Libvio┃App","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.pro/static/js/playerconfig.js","jar":"./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"},
 
@@ -294,12 +448,12 @@
 
 
 
-//{"key":"纸条弹幕版","name":"📜纸条┃弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
-//{"key":"盘Se弹幕版","name":"🙀盘Se┃弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
-//{"key":"找資源弹幕版","name":"🐺找资源┃弹幕","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","username":"q905195306","password":"CHANG0624","danmu":true},"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
-//{"key":"七夜弹幕版","name":"😾七夜┃弹幕","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
-//{"key":"盘搜弹幕版","name":"🦊盘搜┃弹幕","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
-//{"key":"易搜弹幕版","name":"😹易搜┃弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;FC7847B234A43C08EDCDEB622285F334"},
+//{"key":"纸条弹幕版","name":"📜纸条┃弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
+//{"key":"盘Se弹幕版","name":"🙀盘Se┃弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
+//{"key":"找資源弹幕版","name":"🐺找资源┃弹幕","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","username":"q905195306","password":"CHANG0624","danmu":true},"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
+//{"key":"七夜弹幕版","name":"😾七夜┃弹幕","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
+//{"key":"盘搜弹幕版","name":"🦊盘搜┃弹幕","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
+//{"key":"易搜弹幕版","name":"😹易搜┃弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"./jar/tok.txt","danmu":true},"jar":"./jar/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
 
 {"key":"csp_QuPanSou","name":"🐹趣盘搜┃弹幕","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"b-user-id=47aee0fd-9035-8957-65b0-edc206a915cd; __wpkreporterwid_=23711db2-a452-40b0-85f3-e2a9ec6c9e1f; _UP_A4A_11_=wb9061258e8b4494ba1aaa3913db0bcc; _UP_335_2B_=1; __itrace_wid=551a5933-0862-40fb-33e1-fd6ad073a763; _UP_D_=pc; _UP_30C_6A_=st9076201d8f36uo9pxgo3trmhnmfkfu; _UP_TS_=sg12f3a9d4d5609f024842f89f32e53d96e; _UP_E37_B7_=sg12f3a9d4d5609f024842f89f32e53d96e; _UP_TG_=st9076201d8f36uo9pxgo3trmhnmfkfu; __pus=b5e68ccec020bf5ac1c67f5985dbd79cAAQDvsHruc2WN0iDMaQPH4Ie1kC9wYok9gUoccYqFDoEQOv5tgYe9ZQeDCuHq/Jg2L66qaq948Moal796uouAjsc; __kp=7110fe10-8770-11ee-a0af-e33b20dfeeae; __kps=AARRIIWOoj79dPn3RpT/k2bF; __ktd=Dig77yxIr9qSzBvPJICP7g==; __uid=AARRIIWOoj79dPn3RpT/k2bF; ctoken=FGxVWXTAFaRjdN-F65TrBFQe; grey-id=08aca1a6-6bab-4ea3-878a-e9a12c7769f3; grey-id.sig=caE7zeyQxsGI86-w_idbrCyJbP6kj3CuNp1-iGDnsWQ; isQuark=false; isQuark.sig=DWPHMZYiiwQ-v58AbcP-rBdSIpzO8ZnrD67BdJuPatU; __puus=ce2905a25d8a5f2deb531110a29d3172AAQrvWKlc05wipMjC6O3mKWOTrqrkoYdZMdue16anqkx5hCIAGsTDb4cnsCzYjIuEqJQGabEwH1d3zBJvhDAdp5kVi82q1bb5MzJugd+eyT6YmOr6W+W+rTA+3UfpLRb26oyVov2JnMXWmpUWd0FzIonrDUl0HQ53KSgFKYC3qblEokm0lGaMR3LB5KpO9i+EOMflVityOdablxUVVOo1Iku", "danmu": true},"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
 {"key":"纸条","name":"📜纸条┃弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"./jar/tok.txt", "danmu": true},"jar":"./jar/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"},
