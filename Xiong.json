@@ -219,8 +219,74 @@
 //{"key":"子子影视","name":"➰子子┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json","jar":"./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 //{"key":"drpy_js_子子影视","name":"☁️子子┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/子子影视.js"},
 
-{"key": "相声","name":"📻相声┃BPQ","type": 3,"searchable": 0,"style": {"type": "rect","ratio": 1.597},"quickSearch": 0,"api": "csp_XBPQ","jar": "./jar/xiangsheng.jar;md5;BB155C3F0133BBCE4756AD52003F5968","ext": {"主页url": "https://www.xsmp3.com","数组二次截取": "<ul id=\"post_list_box\">&&</ul","数组":"<li class=\"www_xsmp3_com post_list_li\">&&</div>","图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1","标题": "title=\"&&\"","副标题":">&&</a","链接": "href=\"&&\"""播放二次截取":"autoplay&&;</script>","播放数组": "\\[&&\\]","播放列表": "{&&}","播放链接": "url*\"&&\"","播放标题": "name*\"&&\"","播放副标题": "artist*\"&&\"","线路数组":"相声随身听","线路标题": "相声随身听","导演": "小米","主演": "相声明星","简介": "相声合集","分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av","分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"}},
-{"key": "评书","name":"📻评书┃BPQ","type": 3,"searchable": 0,"style": {"type": "rect","ratio": 1.597},"quickSearch": 0,"api": "csp_XBPQ","ext": {"主页url": "https://www.psmp3.com","数组二次截取": "<ul id=\"post_list_box\">&&</ul","数组":"<li class=\"www_psmp3_com post_list_li\">&&</div>","图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3","标题": "title=\"&&\"","副标题":">&&</a","链接": "href=\"&&\"""播放二次截取":"autoplay&&;</script>","播放数组": "\\[&&\\]","播放列表": "{&&}","播放链接": "url*\"&&\"","播放标题": "name*\"&&\"","播放副标题": "artist*\"&&\"","线路数组":"评书随身听","线路标题": "评书随身听","导演": "小米","主演": "评书明星","简介": "评书合集","分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av","分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"},"jar":"./jar/xiangsheng.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
+{
+    "key": "相声",
+    "name": "📻相声┃BPQ",
+    "type": 3,
+    "searchable": 0,
+    "style": {
+        "type": "rect",
+        "ratio": 1.597
+    },
+    "quickSearch": 0,
+    "api": "csp_XBPQ",
+    "jar": "./jar/xiangsheng.jar;md5;BB155C3F0133BBCE4756AD52003F5968",
+    "ext": {
+        "主页url": "https://www.xsmp3.com",
+        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+        "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
+        "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
+        "标题": "title=\"&&\"",
+        "副标题": ">&&</a",
+        "链接": "href=\"&&\"","播放二次截取": "autoplay&&;</script>",
+        "播放数组": "\\[&&\\]",
+        "播放列表": "{&&}",
+        "播放链接": "url*\"&&\"",
+        "播放标题": "name*\"&&\"",
+        "播放副标题": "artist*\"&&\"",
+        "线路数组": "相声随身听",
+        "线路标题": "相声随身听",
+        "导演": "小米",
+        "主演": "相声明星",
+        "简介": "相声合集",
+        "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
+        "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
+    }
+},
+{
+    "key": "评书",
+    "name": "📻评书┃BPQ",
+    "type": 3,
+    "searchable": 0,
+    "style": {
+        "type": "rect",
+        "ratio": 1.597
+    },
+    "quickSearch": 0,
+    "api": "csp_XBPQ",
+    "ext": {
+        "主页url": "https://www.psmp3.com",
+        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+        "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
+        "图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
+        "标题": "title=\"&&\"",
+        "副标题": ">&&</a",
+        "链接": "href=\"&&\"","播放二次截取": "autoplay&&;</script>",
+        "播放数组": "\\[&&\\]",
+        "播放列表": "{&&}",
+        "播放链接": "url*\"&&\"",
+        "播放标题": "name*\"&&\"",
+        "播放副标题": "artist*\"&&\"",
+        "线路数组": "评书随身听",
+        "线路标题": "评书随身听",
+        "导演": "小米",
+        "主演": "评书明星",
+        "简介": "评书合集",
+        "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
+        "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
+    },
+    "jar": "./jar/xiangsheng.jar;md5;BB155C3F0133BBCE4756AD52003F5968"
+},
 
 //磁力资源区
 {"key":"csp_Xunlei8","name":"🌩️迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;3B3265737234FF17FC66539DD99EFC66"},
@@ -245,7 +311,7 @@
 //csp_AppYsV2
 {"key": "xinxinys","name":"🍔鑫鑫┃App","type": 3,"api": "csp_AppYsV2","ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key": "69mjApp","name":"🍸美剧┃App","type": 3,"api": "csp_AppYsV2","ext": "https://www.69mj.com/xgapp.php/v2/" },
-{"key": "kukApp","name":"🍒天堂┃App","type": 3,"api": "csp_AppYsV2","ext": "http://dytt996.com/api.php/app/"}
+{"key": "kukApp","name":"🍒天堂┃App","type": 3,"api": "csp_AppYsV2","ext": "http://dytt996.com/api.php/app/"},
 {"key": "kkuApp","name":"❄酷影┃App","type": 3,"api": "csp_AppYsV2","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key": "kuuApp","name":"⛈酷客┃App","type": 3,"api": "csp_AppYsV2","ext": "https://www.kuin.one/api.php/app/"},   
 {"key": "qtwApp","name":"🌈彩虹┃App","type": 3,"api": "csp_AppYsV2","ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"},
