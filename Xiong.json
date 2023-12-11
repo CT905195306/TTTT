@@ -193,7 +193,7 @@
 {"key":"js_DJ5","name":"🎈DJ5┃短剧","type":3,"api":"./js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/短剧网.js"},
 {"key":"drpy_js_aoao","name":"⛄嗷嗷┃短剧","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aoao.js"},
 {"key":"drpy_js_迷迷剧","name":"🔥迷迷┃短剧","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mimiju.js"},
-
+{"key":"drpy_js_TVB","name":"🔥TVA┃影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/TVB.js"},
 
 
 
