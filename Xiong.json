@@ -91,33 +91,36 @@
     "key": "超神",
     "name": "⚡超神┃App",
     "type": 3,
-    "api": "csp_Appto",
+    "api": "csp_qiao",
     "searchable": 1,
     "quickSearch": 1,
     "playerType": 2,
     "filterable": 1,
-    "ext": "Nm6kHImBI1jr6VSKVUPgJGCYkeKLb8Sjp1Na6UBEM2CRUW8htts45LDQ18nx0gqcjehIgtVhsgHjWqvE5T4+I0FJF8Po2QBCUA/bMHdMJAYWxbeI9soGqn8bxOflshBTNBewsn20MTbpMjfAHYAgWmyLvES09FVNl74D3aTsMwRMwoSaMx6GFjKJ9Gs4CSRyD4MFqbaHbG/jsYcBykyYtgCk9hH4IFFnWVntJ8PqEirD9OzzNKWf6cNhMOMPGF9W9dKqwzGGuh+jQ3BISOMBVcQO35PL1cmHmsmf1T41zzc505s4MoLmF6MwoXVXgNk1ni/OMZWLP59tPLgRoK9tMXm270YWMJplTWEJ3bE8TrHVkM1dJ5udmlatuz/XqqdZCspJGX/LhokZNMl2IbwD5bMufwIRRqLzwcOv9+nTjElseZEM7g5qz6kNrkmVQNOFQ1zXc487lNqYph053yEQB/gn9z3iXhd+hYdVA59LWe5Ev7oLbCJqG1joJBU7s+6dfJ0Kamgoo9t8nvZc7NakY5qku6O35mvlVmjmQkgMmIL+VDAESF97J1hPaOTY0w0Q5CMyqmdxac3t+YTwENOiLUT5U1VmZYOsYHA9XURhbqgNPojj23Xj9j32bfUMZDK8WPcltxOb3SmwQe0Y8ibIlqKc+YGY5xvze81NVv39kQsc=",
+    "ext": "vono61EJEeIw19zba00/v0vIMimryOsZKH/3To58Aoaz6l9j8OfnFZPHlvuFkYEyt3CB1sUWzTaOvJy4veeUjK1oO8N33CqhQYfYdRiL+dv+BynW49Nh+x3jGatBRkKlETARLaNN/oQoiweyb7pd26+Hpn+Z8JSskAAEhy4lZ/anKDcXU1cg5LFHKzeUGuR5Ea8P7IIXZ28AaTiCc9I/Jcfk8ziMO3eVYkAfKgn8jTI+2Tgd0JLR/roOTvqOM7jdvg8Dt1auCqTvEJuieBcxl2BnHejXLgL32+A8WOE0RPkG0nXT+aYJRkUWI9R4vhVjDvvh92f0/RgrsqtGDR/fp202725ULnKPeR6dWpAFF8PnF2Ogp5Fc1pAAL1hibFbbNJyfOtS4xrLMGGvkJwO/x315ug82ruUCCkf5uZEKC3AnZyvz25GQIDkaDzxUeOYBz0j3LBCcgDuz5nMJemGmGndWb0BmjJYGCTqJ0Rf/8HHzbwnNCdqUYDJjnnms1cTTxXdyd7wz+0s2Jw+MbVUNAaPQmWBAFK3lE9kriw5idau8RoXDPytZbdffxA/rOpudPFHusSc1Oe+KLRwqvkJbXOZvI1pDyQRigTLz/T6PugYt19b2h6U4RjrHS+NZlzSoBy1s5xOFOmCe8TsqKazzZ2ZYVF4j77hFzo0G/n+nNbjQ=",
     "jar": "./jar/qj1110noad.jar;md5;54533AE83BCD500B92880651BD4ABD17"
 },
+{"key":"河马","name":"河马┃App","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn",
+		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
+},
+{"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn",
+		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
+},
 {
-			"key": "河马",
+			"key": "河马1",
 			"name": "河马┃App",
 			"type": 3,
 			"api": "csp_Hmys",
 			"playerType": 1,
 			"ext": "https://m.jmzp.net.cn$$$null$$$1",
-		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
-},
+		"jar":"https://agit.ai/CT/jar/raw/branch/main/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
 		{
-			"key": "天天",
+			"key": "天天1",
 			"name": "天天┃App",
 			"type": 3,
 			"api": "csp_TTian",
 			"playerType": 1,
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
-		,
-		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
-},
+	,"jar":"https://agit.ai/CT/jar/raw/branch/main/PG.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
         {
             "key": "河马",
             "name": "河马┃App",
@@ -144,7 +147,7 @@
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
+            "ext": "wepiURHQMpnjOl/9hOzvAFNrp2VceOLOOyC0tdsN166tQtOUklZW7YmDdfNzU8Qn9PgdgoNzsULi3RYyumF4dzT43NlyeaUrHKqeJJlAynASNVPbAQv52vWuAeChUBeKKUz8HIRhziWb0ZzdQLe49E2pYKRrRDW/g/3xZVjYUIIDvzdaukf+CCULxrBuqEUCsRIBk07lHY5BiUw9/vVGTH2lRynBtYOOHnZW7z6Wd5b2bjPsM204JG8HncsCG7kLi6R5fOrf/O1B3fLZxfZUboNF5BZyF89wPu4Va24CyKAZ897z4QCvRbNYuEI3ghUpzGEWDS+0PbHTUQceX1La2lbJ0+CnrGF0hKlzoqtLN5xIJNhMiQmT7Xk22yyvWHGZuiImvHek2KzLRAfi81GUHKnMnKJZ7Np9v5l/BEMJUiOY8ffqoiDU+0yAYmlVBTqii/mJssI245kQOZInWLsB6wxzNuNDt4hVRlMdFA3x+oOlKF6ZaNSYPP+Pcu/Gb615WdU1/u0vXCNNm/hAtma7cNKfznOwnvPOW/X6KLKO9Oj7dHKlWH1Vf9+/l6TLDlltDw8uIUNTh8CqTnKIRVlqKIioXSOdTp7GeeWXD3U2Utf8OKeQTorJwZopsaTJHZsFyFz5an8fOP7K5AOWBXkNvMW9FepBdDUU9vcHA+tYXmW0="
         ,
 		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
 },
@@ -154,7 +157,7 @@
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
+            "ext": "ltf5WdOCbG+i8qHRX/oW/NKT3l/e7l8EaRZAbFwvfFExGIWOGnlmp4ibbWKUPyS6j1fzVcNRjof0av37Vp0cGy2XLeFEIG9ZtZNcNXFLZJCFmsDu3VQuQjj6Lb+qIKEQ3tHqwpRqOb32wEtr6gi6GLRRdW3vxRDU3zmpw0LIklMMYQJZUxiVTZi8kUrhyczNVMZ4OWptHBR6xZmxlc8dlGi9FrP7BVGloRBXgNMJe9ckevIfAXEpFAiC36++Xwqvo3AYA7QFwYnHXTtPAR7SnWBzIYII/pUyLleS+EyO+SRvFkC9lWZOkoRmrfacd+AwHjTGL2ESGwUfS4TgQ/DCu/2qhLev/GOFSr7YGRCK9/SIVXv04HzbXnDtHGTOxeuG/URAwB7XHxSM4oT7bVrk7DZHEhQzh5J0fYXqkZudQ2cv6cCrAIbDuUDQyys/zzw2z1Mw9USz9sIYa+/cIMCI9aipIPAqXbpkHD9E92DMP8mQAdlUP2Ql6dREqPeckJAMxsWdsqLHGRiTEuahToqrkXZfoT9S0j69B5TL2DqKTHi38fAHpxW4McncXWtaz+baRDBtG4RTg9eQHVrLwls7XQFsynhqdfF1IILt3bUE0FwxuKEjLos2BXG26YU/EQmjOw3KPpU6wfldGvOtGSnvfEcp7HEBm93WgbSxKYZLgqlM="
        ,
 		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
 },
@@ -164,7 +167,7 @@
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
+            "ext": "jI7hXcVXQii29vyvACKI6jBcto+a6yiDXgXTZWKs3Yhf9wq9xZO8x63YNbkUT6x4raBv2a6qxRx30NUF7oPZ0dxsqnJcDDer4fC48HP/PpGrI2/kmxM6GXZeDoBFVlPu7mCm7cHTait5hDOH5A9DxAyGVk5i3NHgnG7m+7Kz24ULdrBDYPF4I9C9z7FCQ/wD5B4EchbjVdZwfSpx/h2tmUuYlU3XYR+lO+CeV7v/r08dkOo03pisnv/fdCHWvrQzKJoXoPpCO9sNcN6auX8f+RLIulwFQn0wTbp2t3ck0yoag3P5L1YB+kOAYNMj7WC0cBMLjyigo3BFCb6ExkYEWzJdU/DUH791Sf9tZ4al+OHBh5BLlYibcYd7AGBdfqyDVwtOJuIhStFIAjZuctOaCZCf99+cS3X5WKPJkwJ7PKhR3igFpVRv3GyEFMYzLDIWx0wwhrw+ivfoR2boyVR03XpdHNiFCeXAlXrphmKPVOFxrDWNSRrkC4ZrDWuZn81REKQ4WQlxdlBy6eRXx/WdPLHaJgNkFkHwJFcj0f6GDxvTKZ+hpM84FrU1UIB32vB/7QPrcy9wk/SSAIGBdOYV2GhcXi0aFEfrbUkJ58ftoPcVCRt8Gqi6plAaYZZlmaP/cJ/jQEMEizR7r8aw1bULT3GEkPasd84Q6s7PpoGa5MQ4="
        ,
 		"jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
 },
