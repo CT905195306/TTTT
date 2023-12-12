@@ -24,7 +24,7 @@
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥😸🤖🐄🍘⚡🐈‍👓🧹🍡🏫☄️🦐🎈👲🏿🥳☁️👻
 {"key":"南瓜fan","name":"🎃南瓜┃直连","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"77","name":"👒七七┃直连","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"Czsapp","name":"🏭厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czz9.com/"},
+{"key":"Czsapp","name":"🏭厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy33.com/"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/json/nmys.json"},
 {"key":"Bdys_spider","name":"💡哔滴┃直连","api": "csp_Bdys01","type": 3,"filterable":1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
 //{"key":"影探VIP","name":"🏵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
