@@ -63,27 +63,7 @@
 {"key": "996","name": "🐳996┃App","type": 3,"filterable": 1,"api": "csp_XBPQ","ext": {"分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 //{"key": "996","name": "🐳996┃App","type": 3,"filterable": 1,"api": "csp_XBPQ","ext": {"分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#爽文短剧$4#动漫$3","筛选": "1"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 {"key": "迷你","name": "🍯迷你┃APP","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/","jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
-{
-         "key": "蘑菇",
-         "name": "🍄蘑菇┃影视",
-         "type": 3,
-         "changeable": 1,
-         "api": "csp_XBPQ",
-         "playerType": "2",
-         "ext": {
-            "主页url": "https://www.moguys.xyz",
-            "副标题": "pic-text text-right\">&&</b>",
-            "搜索模式": "1",
-            "搜索url": "https://www.moguys.xyz/vodsearch/{wd}----------1---.html",
-            "图片": "data-original=\"&&\"",
-            "嗅探词": ".mp4#m3u8#.m3u8#/tos/",
-            "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-            "导演": "导演：&&</div>",
-            "主演": "主演：&&</div>",
-            "分类": "movie$movie#连续剧$tv#综艺$variety#动漫$cartoon",
-            "分类url": "https://www.moguys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
-         }
-      ,"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
+
 //饭太硬
 //{"key":"南瓜3","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/南瓜.js"},
@@ -217,6 +197,7 @@
 
 //XBPQ
 {"key": "葡萄剧场","name":"🍇葡萄┃短剧","type": 3,"api": "csp_XBPQ","ext":"数组:class=\"stui-vodlist__box&&</li,分类url:https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html,分类:微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#爱情$11","jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
+{"key": "蘑菇","name": "🍄蘑菇┃BPQ","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "2","ext": {"主页url": "https://www.moguys.xyz","副标题": "pic-text text-right\">&&</b>","搜索模式": "1","搜索url": "https://www.moguys.xyz/vodsearch/{wd}----------1---.html","图片": "data-original=\"&&\"","嗅探词": ".mp4#m3u8#.m3u8#/tos/","影片类型": "<div class=\"module-info-tag\">&&立即播放","导演": "导演：&&</div>","主演": "主演：&&</div>","分类": "movie$movie#连续剧$tv#综艺$variety#动漫$cartoon","分类url": "https://www.moguys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 {"key":"csp_XBPQ_奇优","name":"🧼奇优┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影院.json","jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 {"key":"虎虎","name":"🐯虎虎┃BPQ","type":3,"api":"csp_XBPQ","ext":"./json/虎虎.json","jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 {"key": "NqOND","name":"🆖novip┃BPQ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{  "线路数组": "data-toggle=&&</li>",  "线路标题": ">&&</a >[替换:（>>共#）>>集][不包含:视频下载 (夸克网盘)#不要]",  "播放数组": "<ul class=\"stui-content__playlist&&</ul>",  "图片": "data-original=\"&&\"",  "链接": "href=\"&&\"",  "标题": "title=\"&&\"",  "副标题": "pic-text text-right\">&&</span>",  "简介": "class=\"detail-content\"style=*>&&</span>",  "搜索url": "https://novipnoad.vip/search/{wd}----------{catePg}---.html",  "分类url": "https://novipnoad.vip/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mak",   "分类": "短剧$21#电影$1#电视剧$2#综艺$4#动漫$3#解说$24#纪录片$30#体育比赛$20#足球$26#篮球$27#网球$28#斯诺克$29"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
