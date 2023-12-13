@@ -102,7 +102,7 @@
 
 
 {"key":"巧计超神","name": "⚡超神┃App","type": 3,"api": "csp_qiao","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen","jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"},
-{"key":"巧计河马","name":"🗽河马┃App","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn","jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"},
+{"key":"巧计河马","name":"🗽河马┃App","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.sshbhz.com","jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"},
 {"key":"巧计天天","name":"🥥天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"},
 {"key":"巧技一","name": "🧹巧儿一┃App","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"},
 {"key":"巧技二","name": "🧹巧儿二┃App","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar": "./jar/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"},
