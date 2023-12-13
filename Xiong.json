@@ -18,8 +18,7 @@
 {"key":"4KHDR","name":"☄️4KHDR┃4K","type":3,"api":"csp_FourKHDR","ext":"./jar/tokenem.json$$$http://127.0.0.1:9978/file/tvfan/4khdr.txt","quickSearch":1,"changeable":1,"timeout":60,"jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
 {"key": "新6V","name":"🌵新6V┃4K","type": 3,"api": "csp_Xb6v","searchable": 1,"changeable": 1,"timeout": 60,"ext": "./jar/tokenem.json$$$https://www.66ss.org","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
 //{"key":"csp_KungFu404","name":"⚙️阿里┃设置","type":3,"api":"csp_KungFu404","searchable":1,"filterable":0,"changeable":0,"jar":"./jar/阿里设置.txt"},
-//{"key":"探探","name":"🏵影探┃4K","type":3,"playerType":"1","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
-{"key": "影探VIP","name":"🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
+{"key": "影探VIP","name":"🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout":30,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
 
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥😸🤖🐄🍘⚡🐈‍👓🧹🍡🏫☄️🦐🎈👲🏿🥳☁️👻
 {"key":"南瓜fan","name":"🎃南瓜┃直连","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -27,7 +26,6 @@
 {"key":"Czsapp","name":"🏭厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy33.com/"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/json/nmys.json"},
 {"key":"Bdys_spider","name":"💡哔滴┃直连","api": "csp_Bdys01","type": 3,"filterable":1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
-//{"key":"影探VIP","name":"🏵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 
 {"key": "火狐","name": "🦊茶杯┃狐","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [ "内地剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫"]},
 {"key": "虎牙采集","name": "🐯虎牙┃采集","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable": 1,"quickSearch": 1,"categories": [ "内地剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫"]},
