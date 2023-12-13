@@ -111,7 +111,6 @@
 //{"key":"荐片","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},"jar":"./jar/928.jar"},
 
 //{"key":"wogg","name":"😼玩偶┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/wogg_open.js","ext":"./jar/tok.txt"},
-{"key":"wbuleig","name":"😼玩偶┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/bulei_open.js"},
 {"key":"czzy","name":"🏭厂长┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/czzy_open.js"},
 {"key":"kkys","name":"👀快看┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/kkys_open.js"},
 {"key":"南瓜极速","name":"🎃南瓜┃极速","type":3,"api":"https://agit.ai/CT/Tong/raw/branch/master/cat/ng_open.js"},
