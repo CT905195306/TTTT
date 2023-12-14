@@ -69,37 +69,7 @@
     },
     "jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"
 },  
-{
-    "key": "bbbbb",
-    "name": "🐳996┃App",
-    "type": 3,
-    "filterable": 1,
-    "api": "csp_XBPQ",
-    "ext": {
-"分类url": "https://www.freeok.pro/vod-show/1-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86----------2023.html"
- ,"分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$12#少儿$5" },
-    "jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"
-}, 
-{
-            "key": "freeok",
-            "name": "🌟free┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "1",
-           "jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
-            "ext": {
-                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$12#少儿$5",
-                "分类值": "hot&new&1&2&3&4",
-                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-                "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-                "线路标题": "<span>&&</small>",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "简介": "<p>&&</p>"
-            }
-        },
+
 //{"key": "996","name": "🐳996┃App","type": 3,"filterable": 1,"api": "csp_XBPQ","ext": {"分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#爽文短剧$4#动漫$3","筛选": "1"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 {"key": "迷你","name": "🍯迷你┃APP","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/","jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
 
