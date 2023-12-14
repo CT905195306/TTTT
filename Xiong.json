@@ -27,7 +27,7 @@
         "searchable": 1,
         "filterable": 0,
         "changeable": 0,
-        "ext": "./bili.json"
+        "ext": "./json/bili.json"
     },
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥😸🤖🐄🍘⚡🐈‍👓🧹🍡🏫☄️🦐🎈👲🏿🥳☁️👻🍅🌽
 {"key":"南瓜fan","name":"🎃南瓜┃直连","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
