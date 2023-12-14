@@ -45,7 +45,15 @@
 //{"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$null$$$1", "timeout":60,"jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;2A66BEAF035CD7D8BEFE739FA7A22FB4"},
 
 //{"key":"360弹幕版","name":"🍊360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
-
+{
+      "key":"sohu",
+      "name":"秒播影视",
+      "type":1,
+      "api":"http://tvbox-1-g5221611.deta.app/vod/sohu",
+      "searchable":1,
+      "quickSearch":1,
+      "playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },
 
 //{"key":"賤賤","name":"⏳荐片(fm)┃磁力","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"./json/jianpian.json","jar":"./jar/fmwanou.jar;md5;fba567f6ab0f55d841d2b464f91e6555"},
 {"key":"贱贱","name":"⏳荐片┃磁力","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
