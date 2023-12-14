@@ -69,6 +69,17 @@
     },
     "jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"
 },  
+{
+    "key": "bbbbb",
+    "name": "🐳996┃App",
+    "type": 3,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": {
+"分类url": "https://www.bdys10.com//show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
+    },
+    "jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"
+}, 
 //{"key": "996","name": "🐳996┃App","type": 3,"filterable": 1,"api": "csp_XBPQ","ext": {"分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#爽文短剧$4#动漫$3","筛选": "1"},"jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"},
 {"key": "迷你","name": "🍯迷你┃APP","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/","jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
 
