@@ -77,7 +77,7 @@
     "api": "csp_XBPQ",
     "ext": {
 "分类url": "https://www.freeok.pro/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
-    },
+ ,"分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$12#少儿$5" },
     "jar": "./jar/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5"
 }, 
 {
