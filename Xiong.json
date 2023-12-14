@@ -19,16 +19,7 @@
 {"key": "新6V","name":"🌵新6V┃4K","type": 3,"api": "csp_Xb6v","searchable": 1,"changeable": 1,"timeout": 60,"ext": "./jar/tokenem.json$$$https://www.66ss.org","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;2A66BEAF035CD7D8BEFE739FA7A22FB4"}, 
 //{"key":"csp_KungFu404","name":"⚙️阿里┃设置","type":3,"api":"csp_KungFu404","searchable":1,"filterable":0,"changeable":0,"jar":"./jar/阿里设置.txt"},
 {"key": "影探VIP","name":"🏵影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout":30,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
-{
-        "key": "bili",
-        "name": "娱乐|B站",
-        "type": 3,
-        "api": "csp_Bili",
-        "searchable": 1,
-        "filterable": 0,
-        "changeable": 0,
-        "ext": "./json/bili.json"
-    },
+
 //🗯️✏️🐙🦑🦀🍼💡🗽🦢☀🥥😸🤖🐄🍘⚡🐈‍👓🧹🍡🏫☄️🦐🎈👲🏿🥳☁️👻🍅🌽
 {"key":"南瓜fan","name":"🎃南瓜┃直连","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"77","name":"👒七七┃直连","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
