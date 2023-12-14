@@ -29,7 +29,8 @@
 {"key":"py_央视片库","name":"🇨🇳央视┃片库","type":3,"api":"./py/yspk.py","jar":"./jar/fan1023.txt;md5;8F8F0F3CB3D1C025746FFB35B22748A5"},
 
 {"key": "虎牙采集","name": "🐯虎牙┃采集","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable": 1,"quickSearch": 1,"categories": [ "内地剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫"]},
-{"key": "火狐","name": "🦊茶杯狐┃采集","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [ "内地剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫"]},
+{"key":"sohu采集","name":"🦊搜狐┃采集","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+{"key": "火狐","name": "🥌茶杯狐┃采集","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [ "内地剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫"]},
 {"key":"小胡","name":"🔥自营┃外剧","type":1,"playerType":1,"api":"http://d.xzam.cn/api.php/provide/vod/"},
 {"key": "左岸","name": "🌊左岸┃切片","type": 3,"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js","searchable": 1,"quickSearch": 1,"changeable": 0},
 {"key": "feiyun","name": "☁️飞云┃切片","type": 3,"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js","searchable": 1,"quickSearch": 1,"changeable": 0},
@@ -45,15 +46,6 @@
 //{"key":"荐片弹幕版","name":"⏳荐片┃弹幕","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$null$$$1", "timeout":60,"jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;2A66BEAF035CD7D8BEFE739FA7A22FB4"},
 
 //{"key":"360弹幕版","name":"🍊360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/ok.jar;md5;1D228E263042EC21A98867B7EEF0728E"},
-{
-      "key":"sohu",
-      "name":"秒播影视",
-      "type":1,
-      "api":"http://tvbox-1-g5221611.deta.app/vod/sohu",
-      "searchable":1,
-      "quickSearch":1,
-      "playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },
 
 //{"key":"賤賤","name":"⏳荐片(fm)┃磁力","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"./json/jianpian.json","jar":"./jar/fmwanou.jar;md5;fba567f6ab0f55d841d2b464f91e6555"},
 {"key":"贱贱","name":"⏳荐片┃磁力","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
