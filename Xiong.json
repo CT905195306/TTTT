@@ -241,6 +241,7 @@
 
 
 //csp_AppYsV2
+{"key": "花海","name": "🌼花海┃App","type": 3,"api": "csp_AppYsV2","playerType": "2","ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"},
 {"key": "xinxinys","name":"🍔鑫鑫┃App","type": 3,"api": "csp_AppYsV2","ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key": "69mjApp","name":"🍸美剧┃App","type": 3,"api": "csp_AppYsV2","ext": "https://www.69mj.com/xgapp.php/v2/" },
 {"key": "kukApp","name":"🍒天堂┃App","type": 3,"api": "csp_AppYsV2","ext": "http://dytt996.com/api.php/app/"},
