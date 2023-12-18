@@ -25,6 +25,7 @@
 {"key":"77","name":"👒七七┃直连","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Czsapp","name":"🏭厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy33.com/"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/CT/Tong/raw/branch/master/json/nmys.json"},
+{"key":"csp_Cs1369","name":"🎀九六┃直连","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},	
 {"key":"Bdys_spider","name":"💡哔滴┃直连","api": "csp_Bdys01","type": 3,"filterable":1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;2A66BEAF035CD7D8BEFE739FA7A22FB4"},
 {"key":"py_央视片库","name":"🇨🇳央视┃片库","type":3,"api":"./py/yspk.py","jar":"./jar/fan1023.txt;md5;8F8F0F3CB3D1C025746FFB35B22748A5"},
 
